@@ -11,11 +11,9 @@
             "id": "6cab98b1bc169478",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diagram",
               "state": {
-                "file": "LeetCode/Questions.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled Diagram.svg"
               }
             }
           }
@@ -72,7 +70,7 @@
             }
           },
           {
-            "id": "5eb43cf6e22ac1c2",
+            "id": "969bda908d1da7ab",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -86,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 226.5
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Questions.md",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Questions.md",
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Questions.md"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -182,9 +180,14 @@
   },
   "active": "6cab98b1bc169478",
   "lastOpenFiles": [
-    "LeetCode/README.md",
-    "LeetCode/Questions.md",
     "README.md",
+    "Untitled Diagram.svg",
+    "LeetCode/README.md",
+    "CodeWars/Questions.md",
+    "CodeWars/README.md",
+    "CodeWars/Untitled",
+    "LeetCode/Questions.md",
+    "CodeWars",
     "LeetCode",
     "001 Class Diagram Explenation.md",
     "000 Design Patterns.md",
@@ -195,7 +198,6 @@
     "Diagrams/Duck Diagram 1.svg",
     "01 Observer Pattern/Explenation.md",
     "01 Observer Pattern/Untitled Diagram.svg",
-    "Untitled Diagram.svg",
     "2023-05-02.md",
     "02 Decorator Pattern",
     "Observer Pattern/Untitled",
@@ -216,7 +218,6 @@
     "Pasted image 20230318133857.jpg.md",
     "Pasted image 20230318133857.jpg",
     "Generalization.md",
-    "Untitled.md",
-    "How To.md"
+    "Untitled.md"
   ]
 }
