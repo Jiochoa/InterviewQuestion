@@ -1,5 +1,7 @@
 ```toc
 ```
+
+[[LeetCode/README|README]]
 ---
 # 1. Two Sum
 

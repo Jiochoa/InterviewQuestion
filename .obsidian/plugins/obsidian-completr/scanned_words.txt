@@ -321,6 +321,7 @@ OamS
 Oqqq
 Our
 Outro
+Only
 The
 Theres
 Table
@@ -649,6 +650,7 @@ Think
 Thumbnail
 That
 Thank
+Two
 objective
 of
 only
@@ -1304,6 +1306,7 @@ therefore
 than
 these
 though
+twice
 page
 practice
 patterns
@@ -2016,6 +2019,10 @@ inspect
 invoke
 instead
 identified
+integers
+integer
+indices
+input
 explain
 else
 explanations
@@ -2414,6 +2421,8 @@ essentially
 entirely
 excellent
 ensure
+element
+exists
 Design
 Diagram
 Dependency
@@ -3441,6 +3450,8 @@ answer
 analyze
 although
 amount
+array
+assume
 do
 down
 diagram
@@ -4299,6 +4310,7 @@ status
 speak
 say
 solutions
+such
 with
 which
 would
@@ -6653,6 +6665,7 @@ FlyNoWay
 Flight
 Fly
 Forecast
+Follow
 covers
 com
 composition
@@ -7070,6 +7083,7 @@ complicated
 currently
 constant
 comment
+complexity
 ll
 link
 line
@@ -8764,6 +8778,7 @@ matter
 manage
 measurementsChanges
 mic
+may
 need
 not
 name
@@ -9081,6 +9096,7 @@ notify
 noticing
 no
 noises
+numbers
 just
 jump
 ja
@@ -10659,6 +10675,8 @@ Concrete
 CurrentConditionsDisplay
 Current
 Condition
+Constraints
+Can
 relationships
 represents
 represented
@@ -12480,6 +12498,7 @@ GioBg
 Gm
 GizES
 GArkFXp
+Given
 Example
 Edges
 Each
@@ -13101,6 +13120,7 @@ Some
 Starting
 Squeak
 Stats
+Sum
 very
 vary
 video
@@ -13408,6 +13428,7 @@ variables
 vanilla
 variable
 voice
+valid
 you
 your
 yet
