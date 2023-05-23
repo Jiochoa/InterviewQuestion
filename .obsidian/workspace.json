@@ -11,9 +11,11 @@
             "id": "6cab98b1bc169478",
             "type": "leaf",
             "state": {
-              "type": "diagram",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "LeetCode/Questions.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "LeetCode/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "LeetCode/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "LeetCode/Questions.md"
               }
             }
           },
@@ -165,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,13 +183,15 @@
   },
   "active": "6cab98b1bc169478",
   "lastOpenFiles": [
-    "README.md",
-    "Untitled Diagram.svg",
     "LeetCode/README.md",
+    "LeetCode/Questions.md",
+    "Data Structures/README.md",
+    "Untitled Diagram.svg",
+    "Data Structures",
+    "README.md",
     "CodeWars/Questions.md",
     "CodeWars/README.md",
     "CodeWars/Untitled",
-    "LeetCode/Questions.md",
     "CodeWars",
     "LeetCode",
     "001 Class Diagram Explenation.md",
@@ -217,7 +222,6 @@
     "Minimap_Addon structure.md",
     "Pasted image 20230318133857.jpg.md",
     "Pasted image 20230318133857.jpg",
-    "Generalization.md",
-    "Untitled.md"
+    "Generalization.md"
   ]
 }
