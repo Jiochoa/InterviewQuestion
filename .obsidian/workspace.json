@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeWars/README.md",
+                "file": "LeetCode/Questions.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "09de2a9ac469bf37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37fd53a6c4a626f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -102,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeWars/README.md",
+                "file": "LeetCode/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeWars/README.md",
+                "file": "LeetCode/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeWars/README.md"
+                "file": "LeetCode/Questions.md"
               }
             }
           },
@@ -181,15 +200,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02304624160982e8",
+  "active": "37fd53a6c4a626f1",
   "lastOpenFiles": [
-    "README.md",
-    "LeetCode/README.md",
-    "Data Structures/README.md",
-    "CodeWars/Untitled Diagram.svg",
+    "LeetCode/Questions.md",
     "CodeWars/Questions.md",
     "CodeWars/README.md",
-    "LeetCode/Questions.md",
+    "CodeWars/Untitled Diagram.svg",
+    "Data Structures/README.md",
+    "README.md",
+    "LeetCode/Untitled Diagram.svg",
+    "LeetCode/README.md",
     "Data Structures",
     "CodeWars/Untitled",
     "CodeWars",
