@@ -1,6 +1,5 @@
 ```toc
 ```
-
 ---
 ## 1. Two Sum
 Given an array of integers `nums` and an integer `target`, return _indices of the two numbers such that they add up to `target`_.
@@ -61,10 +60,27 @@ int[] twoSum (int[] nums, int target)
 ```
 
 #### Example
+
 ```Java
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+
+```mermaid
+graph BT	
+	subgraph target
+		9
+	end
+	subgraph nums
+		2
+		7
+		11
+		15
+	end	
+	2 --> 9
+	7 --> 9
 ```
 
 ```Java
@@ -72,9 +88,25 @@ Input: nums = [3,2,4], target = 6
 Output: [1,2]
 ```
 
+```mermaid
+graph BT	
+	subgraph target
+		6
+	end
+	subgraph nums
+		3
+		2
+		4
+	end	
+	2 --> 6
+	4 --> 6
+
+```
+
 #### Walkthrough
-- iterate nums
-	- add it to the next one and check target a total of nums.size - i
+- iterate `nums`
+	- add it to the next one and check target a total of `nums.size() - i`
+	- 
 
 
 ```Java
@@ -82,7 +114,6 @@ for ( nums ) {
 	if(nums[i] + nums[num])
 }
 ```
-
 
 
 #### Brute force
