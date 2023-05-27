@@ -104,21 +104,28 @@ graph BT
 ```
 
 #### Walkthrough
-- iterate `nums`
-	- add it to the next one and check target a total of `nums.size() - i`
-	- 
-
-
-```Java
-for ( nums ) {
-	if(nums[i] + nums[num])
-}
-```
-
+- iterate `nums` : `i = 0`
+	- iterate `nums` : `j = i + 1` 
+		- check `nums[i] + nums[j]` =? `target`
+			- return `new int[]{i, j}`  
+- return `null`
 
 #### Brute force
 
+```Java
+for ( i = 0; i < nums.size(); i++ ) {
+	for( j = i + 1: j < nums.size(); j++ )
+		if(target == nums[i] + nums[j]){
+			return new int[] (i, j);
+		}
+}
+return null;
+```
+
 #### Optimization
+
+
+
 
 #### Implement
 
