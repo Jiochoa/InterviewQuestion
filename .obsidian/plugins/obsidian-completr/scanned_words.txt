@@ -349,6 +349,7 @@ OvXWhKCnJLsFPdA
 Odde
 OYGUM
 OIPA
+OPTIONS
 The
 Theres
 Table
@@ -717,6 +718,7 @@ TmyNDR
 TMt
 Tpkf
 TEOF
+Text
 objective
 of
 only
@@ -1851,6 +1853,8 @@ pZklYsPeoSFLnB
 pjLBK
 pFiDDgyt
 pewF
+plugin
+parsed
 is
 it
 in
@@ -2686,6 +2690,7 @@ eTh
 eeGbEWO
 eFkCDIHUIAViQRgZMmMI
 efm
+excalidraw
 Design
 Diagram
 Dependency
@@ -3038,6 +3043,7 @@ DZNDBgNnxLEuy
 DVu
 DqxXcgvSkD
 DYfuadvPdOzp
+Drawing
 Pattern
 Parent
 Predict
@@ -5519,6 +5525,7 @@ MgAoeDaAThHSzZJoQwEoHEkJQLMuOpkISg
 MqCVkSchYVHyYJQfEhE
 MPXyEsJSAZWcN
 MfuTEEJv
+MORE
 for
 from
 focus
@@ -14330,6 +14337,8 @@ Eevn
 ESmkoFKICGmbv
 ERvIVPivXXSLEOtrwSu
 EcwCcAHe
+EXCALIDRAW
+Elements
 So
 Since
 Strategy
@@ -14689,6 +14698,7 @@ ScPyS
 SSApIEANtaB
 SaIEg
 SZVBCEDsfLNMy
+Switch
 very
 vary
 video
@@ -17481,6 +17491,7 @@ VDCVgIhguI
 VkpZ
 Vg
 VjnfcmQj
+VIEW
 You
 Yj
 Yi
