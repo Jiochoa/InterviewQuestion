@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "LeetCode/Qestions Draw.excalidraw.md"
+                "file": "LeetCode/QuestionsDraw.excalidraw.md"
               }
             }
           }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Qestions Draw.excalidraw.md",
+                "file": "LeetCode/QuestionsDraw.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Qestions Draw.excalidraw.md",
+                "file": "LeetCode/QuestionsDraw.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Qestions Draw.excalidraw.md"
+                "file": "LeetCode/QuestionsDraw.excalidraw.md"
               }
             }
           },
@@ -196,15 +195,17 @@
   },
   "active": "6d9b206fbb2abaec",
   "lastOpenFiles": [
+    "Data Structures/Symbolic.excalidraw.md",
     "LeetCode/Questions.md",
-    "LeetCode/Qestions Draw.excalidraw.md",
+    "LeetCode/QuestionsDraw.excalidraw.md",
+    "Data Structures/README.md",
+    "Pasted image 20230529053608.png",
+    "LeetCode/README.md",
     "CodeWars/Questions.md",
     "CodeWars/README.md",
     "CodeWars/Untitled Diagram.svg",
-    "Data Structures/README.md",
-    "README.md",
     "LeetCode/Untitled Diagram.svg",
-    "LeetCode/README.md",
+    "README.md",
     "Data Structures",
     "CodeWars/Untitled",
     "CodeWars",
@@ -235,8 +236,6 @@
     "Cyber Security.md",
     "Design Pattern.md",
     "Minimap_Addon structure.md",
-    "Pasted image 20230318133857.jpg.md",
-    "Pasted image 20230318133857.jpg",
-    "Generalization.md"
+    "Pasted image 20230318133857.jpg"
   ]
 }
