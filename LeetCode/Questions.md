@@ -26,6 +26,10 @@ Output: [0,1]
 
 **Follow-up:** Can you come up with an algorithm that is less than `O(n2)` time complexity?
 
+[[Walkthrough#1. Two Sum|Answer]]
+
+### Solution 1
+
 ----
 ## 2. Add Two Numbers
 
@@ -37,9 +41,11 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 ![](https://assets.leetcode.com/uploads/2020/10/02/addtwonumber1.jpg)
 
-**Input:** l1 = [2,4,3], l2 = [5,6,4]
-**Output:** [7,0,8]
-**Explanation:** 342 + 465 = 807.
+```Java
+Input: l1 = [2,4,3], l2 = [5,6,4]
+Output: [7,0,8]
+Explanation: 342 + 465 = 807.
+```
 
 **Example 2:**
 
@@ -59,4 +65,7 @@ Output: [8,9,9,9,0,0,0,1]
 - The number of nodes in each linked list is in the range `[1, 100]`.
 - `0 <= Node.val <= 9`
 - It is guaranteed that the list represents a number that does not have leading zeros.
+
+[[Walkthrough#2. Add Two Numbers|Answer]]
+
 ----

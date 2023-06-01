@@ -6,9 +6,10 @@
       {
         "id": "09de2a9ac469bf37",
         "type": "tabs",
+        "dimension": 39.92395437262358,
         "children": [
           {
-            "id": "37fd53a6c4a626f1",
+            "id": "8e28347952d3e83e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +19,25 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "51e3734c9e2f6a50",
+        "type": "tabs",
+        "dimension": 60.07604562737643,
+        "children": [
           {
-            "id": "6d9b206fbb2abaec",
+            "id": "ac2c1a18b265de36",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "LeetCode/QuestionsDraw.excalidraw.md"
+                "file": "LeetCode/Walkthrough.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -113,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/QuestionsDraw.excalidraw.md",
+                "file": "LeetCode/Walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/QuestionsDraw.excalidraw.md",
+                "file": "LeetCode/Walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/QuestionsDraw.excalidraw.md"
+                "file": "LeetCode/Walkthrough.md"
               }
             }
           },
@@ -193,19 +201,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d9b206fbb2abaec",
+  "active": "ac2c1a18b265de36",
   "lastOpenFiles": [
-    "Data Structures/Symbolic.excalidraw.md",
     "LeetCode/Questions.md",
-    "LeetCode/QuestionsDraw.excalidraw.md",
-    "Data Structures/README.md",
+    "LeetCode/Walkthrough.md",
+    "README.md",
+    "Data Structures/Symbolic.excalidraw.md",
+    "Main.md",
     "Pasted image 20230529053608.png",
+    "Excalidraw",
     "LeetCode/README.md",
+    "Excalidraw/Main.excalidraw.md",
+    "Data Structures/README.md",
     "CodeWars/Questions.md",
     "CodeWars/README.md",
     "CodeWars/Untitled Diagram.svg",
     "LeetCode/Untitled Diagram.svg",
-    "README.md",
     "Data Structures",
     "CodeWars/Untitled",
     "CodeWars",
@@ -225,7 +236,6 @@
     "01 Observer Pattern",
     "00 Strategy Pattern",
     "Diagrams",
-    "Images",
     "Design Pattern/003 Observer Design Pattern.md",
     "Pasted image 20230318133956.jpg",
     "Design Pattern/002 Strategy Design Pattern.md",
@@ -234,8 +244,6 @@
     "2023-04-30.md",
     "2022-10-26.md",
     "Cyber Security.md",
-    "Design Pattern.md",
-    "Minimap_Addon structure.md",
     "Pasted image 20230318133857.jpg"
   ]
 }
