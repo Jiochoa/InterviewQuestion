@@ -6902,7 +6902,19 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Scribble Helper": {
+      "Default action": {
+        "value": "Text",
+        "valueset": [
+          "Text",
+          "Sticky",
+          "Wrap"
+        ],
+        "description": "What type of element should CTRL/CMD+ENTER create. TEXT: A regular text element. STICKY: A sticky note with border color and background color (using the current setting of the canvas). STICKY: A sticky note with transparent border and background color."
+      }
+    }
+  },
   "defaultTrayMode": true,
   "previousRelease": "1.9.2",
   "showReleaseNotes": true,

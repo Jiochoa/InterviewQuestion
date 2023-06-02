@@ -29,6 +29,18 @@ Output: [0,1]
 [[Walkthrough#1. Two Sum|Answer]]
 
 ### Solution 1
+```Java
+public int[] twoSum(int[] nums, int target) {
+        for ( int i = 0; i < nums.length; i++ ) {
+            for( int j = i + 1; j < nums.length; j++ ){
+                if (target == nums[i] + nums[j]) {
+                    return new int[] {i, j};
+                }
+            }
+        }
+        return null;
+    }
+```
 
 ----
 ## 2. Add Two Numbers
@@ -67,5 +79,47 @@ Output: [8,9,9,9,0,0,0,1]
 - It is guaranteed that the list represents a number that does not have leading zeros.
 
 [[Walkthrough#2. Add Two Numbers|Answer]]
+
+### Solution 2
+```Java
+public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+       ListNode solution = new ListNode(0,null);
+       ListNode solutionRoot = solution;
+       boolean carry = false;
+       // traverse both l1 and l2 until both are null
+        while(l1 != null || l2 != null){
+		// sum = both values. if values don't exist make it 0
+            int valueOfL1 = 0;
+            int valueOfL2 = 0;
+            if(l1 != null) valueOfL1 = l1.val;
+            if(l2 != null) valueOfL2 = l2.val;
+            int sum = valueOfL1 + valueOfL2;
+            // if there's a carry
+            if(carry) {
+                sum += 1;
+                carry = false;
+            }
+            // if sum has carry
+            if(sum > 9) {
+                sum -= 10;
+                carry = true;
+            }
+            // add new link with val = sum to the solution
+            solution.val = sum;
+            // iterate l1 and l2
+            if(l1 != null) l1 = l1.next;
+            if(l2 != null) l2 = l2.next;
+            // if either value is not null, make another node for the next iteration
+            if (l1 != null || l2 != null) {
+                solution.next = new ListNode(0, null);
+                solution = solution.next;
+            } else if (carry) {
+                solution.next = new ListNode(1);
+            }
+        }
+        // return
+        return solutionRoot;
+    }
+```
 
 ----
