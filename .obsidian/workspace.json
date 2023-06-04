@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ff63b48b8f1c34c6",
+        "id": "9a9d3d6e318d9964",
         "type": "tabs",
         "children": [
           {
-            "id": "ac2c1a18b265de36",
+            "id": "2563b1e6665ce36e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42de8c0f154950a3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -17,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -180,15 +194,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac2c1a18b265de36",
+  "active": "42de8c0f154950a3",
   "lastOpenFiles": [
+    "LeetCode/Questions.md",
+    "LeetCode/Walkthrough.md",
     "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.svg",
     "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md",
     "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
-    "LeetCode/Walkthrough.md",
     "Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "LeetCode/Questions.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
