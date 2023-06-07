@@ -747,6 +747,8 @@ TUHynmNq
 TDki
 Trigger
 TJzEns
+TPHEztcL
+Therefore
 objective
 of
 only
@@ -1519,6 +1521,9 @@ totalLel
 totalLenght
 tjyHz
 tFFxD
+tp
+taMMKozs
+txKTVQEb
 page
 practice
 patterns
@@ -1934,6 +1939,10 @@ preserve
 polygon
 palindromic
 palindrome
+positive
+present
+preceding
+partial
 is
 it
 in
@@ -2357,6 +2366,14 @@ iXFgkvIs
 isValudn
 isvaludn
 iPySBb
+iwtpZdPp
+isPalindrome
+isPal
+ignore
+ignored
+isValid
+isNumers
+isMatch
 explain
 else
 explanations
@@ -2825,6 +2842,11 @@ eleStack
 entries
 eAUcrbGd
 elseif
+eIndex
+enIndex
+endIndex
+expression
+entire
 Design
 Diagram
 Dependency
@@ -4028,6 +4050,8 @@ awDk
 acF
 arrays
 aba
+atoi
+appearance
 do
 down
 diagram
@@ -4488,6 +4512,9 @@ dwvk
 dWAhd
 dNPRnPIg
 dtknE
+dequeu
+deque
+determines
 something
 situation
 so
@@ -5002,6 +5029,18 @@ string
 substring
 symbols
 sCVGVw
+shorter
+skip
+str
+sIndex
+stIndex
+startIndex
+signed
+sign
+step
+smaller
+support
+sz
 with
 which
 would
@@ -5378,6 +5417,9 @@ widthOK
 wXv
 wWuBcj
 wkFv
+wMIt
+whitespace
+whitespaces
 Maybe
 My
 Make
@@ -5773,6 +5815,8 @@ Median
 MNvNT
 MZjHWE
 MFY
+Matching
+Matches
 for
 from
 focus
@@ -6211,6 +6255,9 @@ fillStyle
 filter
 foreach
 findMedianSortedArrays
+follows
+final
+fTXnsmfZ
 be
 book
 but
@@ -6644,6 +6691,9 @@ bool
 bFq
 babad
 bab
+bjdWB
+bigger
+becomes
 useful
 using
 unidirectional
@@ -7034,6 +7084,9 @@ ufOK
 udqof
 ufQY
 uTeXJ
+uVyB
+until
+upper
 Head
 However
 How
@@ -7400,6 +7453,7 @@ Hcpkd
 HQhedh
 HashMap
 HgAyVWZA
+HwlxuggJ
 Functionality
 Formal
 For
@@ -7735,6 +7789,7 @@ Fk
 Fq
 FEp
 FfAoqAbR
+FC
 covers
 com
 composition
@@ -8236,6 +8291,16 @@ charAt
 cG
 consist
 chars
+cbbd
+curLongest
+curLong
+curSub
+currSub
+converts
+character
+clamp
+clamped
+considered
 ll
 link
 line
@@ -8654,6 +8719,9 @@ lowest
 lAzkYAHh
 lVrTGXP
 longestPalindrome
+ljmA
+lower
+lowercase
 have
 hands
 https
@@ -9043,6 +9111,7 @@ href
 hashT
 hashTable
 hashTble
+hbY
 get
 generalization
 grass
@@ -9398,6 +9467,9 @@ getViewElements
 getElements
 gxNuMUtL
 gs
+gDEJ
+greater
+gvcG
 Notes
 Notable
 No
@@ -9812,6 +9884,7 @@ NTGb
 Note
 NNWqlJlc
 Nvqq
+NOT
 might
 my
 more
@@ -10231,6 +10304,11 @@ merged
 meaning
 mlBsm
 mZlvk
+mXhtfKSp
+min
+mC
+matching
+match
 need
 not
 name
@@ -10604,6 +10682,10 @@ nQu
 nYge
 ndouble
 ntap
+nsNAC
+neither
+notLetter
+notWhitespace
 just
 jump
 ja
@@ -11360,6 +11442,8 @@ Arrays
 AJnQU
 AZVp
 AAk
+Assume
+AND
 keep
 keybaord
 kind
@@ -11696,6 +11780,7 @@ kA
 kVdmDfZi
 krXxa
 kTVTN
+kNpnW
 Its
 Index
 In
@@ -12070,6 +12155,7 @@ IL
 IMj
 IhuC
 IcGUM
+Integer
 Content
 Composition
 Child
@@ -12447,6 +12533,8 @@ CyvYMt
 CoZ
 CVq
 CXW
+Convert
+Change
 relationships
 represents
 represented
@@ -12829,6 +12917,10 @@ respectively
 ryXRNAEw
 riqi
 reach
+result
+reached
+read
+remains
 Realization
 RL
 Rules
@@ -13194,6 +13286,10 @@ Repeating
 RkcFzKen
 RpN
 RBLxe
+Rgp
+Rur
+RGNw
+Regular
 Unidirectional
 UML
 Using
@@ -13513,6 +13609,8 @@ UqLjPF
 UJkg
 UhoGkeXf
 URKQ
+UsG
+UUQqM
 When
 What
 Words
@@ -13905,6 +14003,7 @@ WPDf
 WmMKNf
 WjtWYwuI
 WAyHZxe
+WPxyK
 Bidirectional
 Behavioral
 Board
@@ -14955,6 +15054,9 @@ Export
 English
 EUUD
 EXAMPLE
+Expression
+EaF
+ErbVFPg
 So
 Since
 Strategy
@@ -15334,6 +15436,8 @@ Sorted
 STU
 SECkM
 SUKbN
+SecondSolution
+Specifically
 very
 vary
 video
@@ -16043,6 +16147,10 @@ yggfoPQl
 yHM
 ywBQiAMy
 ykpUG
+ySQtmyjD
+yncwLfvN
+yezUe
+ytyYR
 Lets
 Lua
 Long
@@ -16768,6 +16876,7 @@ qZ
 qRZbC
 qsfNyCd
 qzmw
+qFvkk
 King
 Keep
 Ka
@@ -17830,6 +17939,7 @@ zeros
 zhRP
 zMYQ
 zFhOJ
+zagls
 Videos
 Video
 VExif
@@ -18199,6 +18309,10 @@ VCCU
 Version
 VPp
 VhgxddiH
+VKkpwl
+VVdoI
+VZYUFZyh
+VuknZj
 You
 Yj
 Yi
@@ -18541,6 +18655,7 @@ YO
 YitmxPR
 YUriF
 Yhg
+YW
 JFIF
 Jf
 JD
@@ -18866,6 +18981,7 @@ JEiyDgdQQuV
 JvL
 JThXx
 JxABL
+JbdS
 XY
 XF
 XSC
@@ -19220,6 +19336,7 @@ XTNcHyqj
 XXO
 XLM
 XtkzbQgg
+XLVD
 Zd
 Zi
 ZJ
@@ -19915,4 +20032,6 @@ xiJ
 xopeKy
 xdptmqX
 xAtyoG
+xyh
+xixLZ
 ÜS

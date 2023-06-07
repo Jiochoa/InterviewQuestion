@@ -26,7 +26,7 @@ Output: [0,1]
 
 **Follow-up:** Can you come up with an algorithm that is less than `O(n2)` time complexity?
 
-[[Walkthrough#1. Two Sum|Answer]]
+### [[Walkthrough#1. Two Sum|Answer]]
 
 ### Solution 1
 ```Java
@@ -78,7 +78,7 @@ Output: [8,9,9,9,0,0,0,1]
 - `0 <= Node.val <= 9`
 - It is guaranteed that the list represents a number that does not have leading zeros.
 
-[[Walkthrough#2. Add Two Numbers|Answer]]
+### [[Walkthrough#2. Add Two Numbers|Answer]]
 
 ### Solution 2
 ```Java
@@ -154,7 +154,7 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 - `0 <= s.length <= 5 * 104`
 - `s` consists of English letters, digits, symbols and spaces.
 
-[[Walkthrough#3. Longest Substring Without Repeating Characters|Answer]]
+### [[Walkthrough#3. Longest Substring Without Repeating Characters|Answer]]
 
 ### Solution 3
 
@@ -191,7 +191,7 @@ Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 - `1 <= m + n <= 2000`
 - `-106 <= nums1[i], nums2[i] <= 106`
 
-[[Walkthrough#4. Median of Two Sorted Arrays|Answer]]
+### [[Walkthrough#4. Median of Two Sorted Arrays|Answer]]
 
 ### Solution 4
 
@@ -281,6 +281,131 @@ Output: "bb"
 - `1 <= s.length <= 1000`
 - `s` consist of only digits and English letters.
 
-[[Walkthrough#5. Longest Palindromic substring|Answer]]
+### [[Walkthrough#5. Longest Palindromic substring|Answer]]
 
 ### Solution 5
+
+----
+## 8. String to Integer (atoi)
+
+Implement the `myAtoi(string s)` function, which converts a string to a 32-bit signed integer (similar to C/C++'s `atoi` function).
+
+The algorithm for `myAtoi(string s)` is as follows:
+
+1. Read in and ignore any leading whitespace.
+2. Check if the next character (if not already at the end of the string) is `'-'` or `'+'`. Read this character in if it is either. This determines if the final result is negative or positive respectively. Assume the result is positive if neither is present.
+3. Read in next the characters until the next non-digit character or the end of the input is reached. The rest of the string is ignored.
+4. Convert these digits into an integer (i.e. `"123" -> 123`, `"0032" -> 32`). If no digits were read, then the integer is `0`. Change the sign as necessary (from step 2).
+5. If the integer is out of the 32-bit signed integer range `[-231, 231 - 1]`, then clamp the integer so that it remains in the range. Specifically, integers less than `-231` should be clamped to `-231`, and integers greater than `231 - 1` should be clamped to `231 - 1`.
+6. Return the integer as the final result.
+
+**Note:**
+
+- Only the space character `' '` is considered a whitespace character.
+- **Do not ignore** any characters other than the leading whitespace or the rest of the string after the digits.
+
+**Example 1:**
+
+```Java
+Input: s = "42"
+Output: 42
+Explanation: The underlined characters are what is read in, the caret is the current reader position.
+
+Step 1: "42" (no characters read because there is no leading whitespace)
+         ^
+Step 2: "42" (no characters read because there is neither a '-' nor '+')
+         ^
+Step 3: "42" ("42" is read in)
+           ^
+The parsed integer is 42.
+Since 42 is in the range [-231, 231 - 1], the final result is 42.
+```
+
+**Example 2:**
+
+```Java
+Input: s = "   -42"
+Output: -42
+Explanation:
+Step 1: "   -42" (leading whitespace is read and ignored)
+            ^
+Step 2: "   -42" ('-' is read, so the result should be negative)
+             ^
+Step 3: "   -42" ("42" is read in)
+               ^
+The parsed integer is -42.
+Since -42 is in the range [-231, 231 - 1], the final result is -42.
+```
+
+**Example 3:**
+
+```Java
+Input: s = "4193 with words"
+Output: 4193
+Explanation:
+Step 1: "4193 with words" (no characters read because there is no leading whitespace)
+         ^
+Step 2: "4193 with words" (no characters read because there is neither a '-' nor '+')
+         ^
+Step 3: "4193 with words" ("4193" is read in; reading stops because the next character is a non-digit)
+             ^
+The parsed integer is 4193.
+Since 4193 is in the range [-231, 231 - 1], the final result is 4193.
+```
+
+**Constraints:**
+
+- `0 <= s.length <= 200`
+- `s` consists of English letters (lower-case and upper-case), digits (`0-9`), `' '`, `'+'`, `'-'`, and `'.'`.
+### [[Walkthrough#8. String to Integer (atoi)|Answer]]
+
+### Solution 8
+
+
+----
+
+## 10. Regular Expression Matching
+
+Given an input string `s` and a pattern `p`, implement regular expression matching with support for `'.'` and `'*'` where:
+- `'.'` Matches any single character.​​​​
+- `'*'` Matches zero or more of the preceding element.
+The matching should cover the **entire** input string (not partial).
+
+**Example 1:**
+```Java
+Input: s = "aa", p = "a"
+Output: false
+Explanation: "a" does not match the entire string "aa".
+```
+**Example 2:**
+```Java
+Input: s = "aa", p = "a*"
+Output: true
+Explanation: '*' means zero or more of the preceding element, 'a'. Therefore, by repeating 'a' once, it becomes "aa".
+```
+**Example 3:**
+```Java
+Input: s = "ab", p = ".*"
+Output: true
+Explanation: ".*" means "zero or more (*) of any character (.)".
+```
+
+**Constraints:**
+- `1 <= s.length <= 20`
+- `1 <= p.length <= 20`
+- `s` contains only lowercase English letters.
+- `p` contains only lowercase English letters, `'.'`, and `'*'`.
+- It is guaranteed for each appearance of the character `'*'`, there will be a previous valid character to match.
+
+### [[Walkthrough#10. Regular Expression Matching|Answer]]
+
+### Solution 10
+
+
+----
+
+
+
+
+
+
