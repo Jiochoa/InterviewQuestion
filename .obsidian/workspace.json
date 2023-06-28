@@ -6,6 +6,7 @@
       {
         "id": "9a9d3d6e318d9964",
         "type": "tabs",
+        "dimension": 48.56801909307876,
         "children": [
           {
             "id": "2563b1e6665ce36e",
@@ -13,24 +14,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Questions.md",
+                "file": "AI/Using AI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "42de8c0f154950a3",
+            "id": "176a8b61715aca71",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "LeetCode/Walkthrough.md"
+                "file": "AI/RoadMap.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "51d38f53b9e57832",
+        "type": "tabs",
+        "dimension": 51.43198090692124,
+        "children": [
+          {
+            "id": "4d06551cff5f2bf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Using AI.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -114,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Walkthrough.md",
+                "file": "AI/Using AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Walkthrough.md",
+                "file": "AI/Using AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Walkthrough.md"
+                "file": "AI/Using AI.md"
               }
             }
           },
@@ -194,10 +212,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42de8c0f154950a3",
+  "active": "2563b1e6665ce36e",
   "lastOpenFiles": [
-    "LeetCode/Questions.md",
+    "AI/Useful Prompts.md",
+    "AI/Using AI.md",
+    "AI/RoadMap.excalidraw.md",
+    "Android Studio/Kotlin & Jetpack compose/Drawing 2023-06-20 20.57.36.excalidraw.md",
     "LeetCode/Walkthrough.md",
+    "LeetCode/Questions.md",
+    "README.md",
+    "Pasted image 20230529053608.png",
+    "Main.md",
+    "Data Structures/Symbolic.excalidraw.md",
+    "AI",
+    "Android Studio/Kotlin & Jetpack compose/TODO.md",
+    "CodeWars/README.md",
+    "CodeWars/Questions.md",
+    "Android Studio/Kotlin & Jetpack compose",
+    "Android Studio",
     "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.svg",
     "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md",
     "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
@@ -207,15 +239,9 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "README.md",
-    "Data Structures/Symbolic.excalidraw.md",
-    "Main.md",
-    "Pasted image 20230529053608.png",
     "LeetCode/README.md",
     "Excalidraw/Main.excalidraw.md",
     "Data Structures/README.md",
-    "CodeWars/Questions.md",
-    "CodeWars/README.md",
     "CodeWars/Untitled Diagram.svg",
     "LeetCode/Untitled Diagram.svg",
     "Data Structures",
@@ -232,14 +258,7 @@
     "01 Observer Pattern/Explenation.md",
     "01 Observer Pattern/Untitled Diagram.svg",
     "2023-05-02.md",
-    "02 Decorator Pattern",
-    "Observer Pattern/Untitled",
-    "01 Observer Pattern",
-    "Design Pattern/003 Observer Design Pattern.md",
     "Pasted image 20230318133956.jpg",
-    "Design Pattern/002 Strategy Design Pattern.md",
-    "Design Pattern/001 Class Diagram Explenation.md",
-    "Design Pattern/000 Design Patterns.md",
     "Pasted image 20230318133857.jpg"
   ]
 }
