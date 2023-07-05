@@ -24,16 +24,29 @@ I need to have a good understanding of the structure of the project. (i.e. `onCr
 
 
 ## Experiment number 1
-
 **Objective**
-Make an simple app from start to finish. The app is meant to be simple but complete with unit testing. The app is going to be a replica of Tetris.
+Make an simple app from start to finish using ChatGPT. The app is meant to be simple but complete with unit testing. The app is going to be a replica the game of Tetris and its going to be called Tetris Replica 1.
 
-1. Technology I'm going to use
-	- Kotlin app using minimum SDK of API 29 Android 10.0, with the Kotlin DSL built configuration language
-	- 
-1. What is the app about
-2. what do I want from the AI
-3. Here is the start up code
+1. Technology I'm going to use:
+	- Kotlin app using minimum SDK of API 29 Android 10.0, with the Kotlin DSL built configuration language.
+2. What I'm trying to do in simple terms:
+	- I want to make an Android Application. The application is going to be a replica of the game of Tetris. 
+3. What I'm trying to do in a more technical terms:
+	- I want the app to have three main screens:
+		- intro screen showcasing the title.
+			- This screen will only have the tile and a "Start" button which will start the game.
+			- I want the title to have some kind of animation. 
+		- game screen is where the game is going to be played
+			- There's going to be a main window which will show the current game that is being played
+			- A current score window which is going to be updated every time the player score a line.
+			- another window where the next Tetris piece will show
+			- a controller section with a d-pad and two buttons, one for turning the Tetris piece currently falling and another one that will instantly drop the piece.
+		- credit screen where we can see all the previous scores
+			- This will showcase the top ten scores
+			- it will also have a button to play again
+1. Explain the structure of the app and what is in every class.[^1] This could take a whole section to come up with a good diagram.
+2. Here is the start up code
 
 
 
+[^1]: I was thinking about coming up with the diagram first then let ChatGPT do the code but I think it might be a better idea to let ChatGPT help with the diagram as well.

@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ffa69e2a78182444",
+        "id": "9a9d3d6e318d9964",
         "type": "tabs",
         "children": [
           {
             "id": "2563b1e6665ce36e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Android + Jetpack/Drawing 2023-07-04 11.01.33.excalidraw.md"
+                "file": "LeetCode/Questions.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "e1701ebf4007a0c0",
+            "id": "1e8c7cc5fe88648b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Android + Jetpack/Drawing 2023-07-04 11.01.33.excalidraw.md"
+                "file": "LeetCode/Walkthrough.md"
               }
             }
           }
@@ -94,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android + Jetpack/Drawing 2023-07-04 11.01.33.excalidraw.md",
+                "file": "LeetCode/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android + Jetpack/Drawing 2023-07-04 11.01.33.excalidraw.md",
+                "file": "LeetCode/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android + Jetpack/Drawing 2023-07-04 11.01.33.excalidraw.md"
+                "file": "LeetCode/Questions.md"
               }
             }
           },
@@ -201,15 +204,12 @@
   },
   "active": "2563b1e6665ce36e",
   "lastOpenFiles": [
-    "Android + Jetpack/Untitled.md",
-    "Android + Jetpack/Drawing 2023-07-04 11.01.33.excalidraw.md",
-    "AI/RoadMap.excalidraw.md",
-    "Android + Jetpack",
-    "AI/Useful Prompts.md",
-    "AI/Using AI.md",
-    "LeetCode/Questions.md",
     "LeetCode/Walkthrough.md",
+    "LeetCode/Questions.md",
+    "AI/RoadMap.excalidraw.md",
     "LeetCode/README.md",
+    "AI/Using AI.md",
+    "AI/Useful Prompts.md",
     "Android Studio/Kotlin & Jetpack compose/Drawing 2023-06-20 20.57.36.excalidraw.md",
     "README.md",
     "Pasted image 20230529053608.png",
@@ -237,6 +237,7 @@
     "Data Structures",
     "CodeWars/Untitled",
     "CodeWars",
+    "LeetCode",
     "001 Class Diagram Explenation.md",
     "000 Design Patterns.md",
     "01 Observer Pattern/Script.md",
@@ -244,7 +245,9 @@
     "00 Strategy Pattern/Script.md",
     "00 Strategy Pattern/Design Pattern.md",
     "Diagrams/Duck Diagram 1.svg",
+    "01 Observer Pattern/Explenation.md",
     "01 Observer Pattern/Untitled Diagram.svg",
+    "2023-05-02.md",
     "Pasted image 20230318133956.jpg",
     "Pasted image 20230318133857.jpg"
   ]

@@ -1127,7 +1127,6 @@ onClick
 onEnd
 output
 okNo
-opener
 this
 to
 tags
@@ -1552,8 +1551,6 @@ title
 tile
 turning
 ten
-tutor
-tutorials
 page
 practice
 patterns
@@ -4594,8 +4591,6 @@ dark
 dagram
 drop
 determine
-desired
-detailed
 something
 situation
 so
@@ -5142,7 +5137,6 @@ showcasing
 score
 scores
 showcase
-scrip
 with
 which
 would
@@ -8465,11 +8459,6 @@ close
 corresponding
 closing
 cons
-currOpener
-correspondingCloser
-curropener
-currentOpener
-coding
 ll
 link
 line
@@ -12759,7 +12748,6 @@ Container
 Controller
 ChatGPT
 Combination
-Create
 relationships
 represents
 represented
@@ -13154,7 +13142,6 @@ retrun
 routes
 redefine
 replica
-request
 Realization
 RL
 Rules
@@ -15700,7 +15687,6 @@ Specific
 Specify
 SDK
 Srting
-Spuvj
 very
 vary
 video
@@ -16419,7 +16405,6 @@ ySQtmyjD
 yncwLfvN
 yezUe
 ytyYR
-yPZGGe
 Lets
 Lua
 Long
@@ -19618,7 +19603,6 @@ XLM
 XtkzbQgg
 XLVD
 XML
-XKzBRoaq
 Zd
 Zi
 ZJ
