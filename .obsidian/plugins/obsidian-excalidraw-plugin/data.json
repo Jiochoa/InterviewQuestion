@@ -143,7 +143,7 @@
             "containerId": "TKSgyjsJM6yIIuhzx01RA",
             "originalText": "while",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "line",
@@ -296,7 +296,7 @@
             "containerId": "jB1dfqyu19pPhf3G9D1iE",
             "originalText": "i < nums.lenght",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "line",
@@ -502,7 +502,7 @@
             "containerId": "LYSHi70MzNphaTBYLNwTO",
             "originalText": "if ( i < nums.lenght )",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "arrow",
@@ -586,7 +586,7 @@
             "containerId": "ha6nYUGTCaa2bshuQeiN8",
             "originalText": "t",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "arrow",
@@ -674,7 +674,7 @@
             "containerId": "O9zrbHGQFZXcQ7soobxV7",
             "originalText": "f",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           }
         ],
         "id": "duGbbgoegGNC70UBEoTJf",
@@ -750,7 +750,7 @@
             "containerId": "F6V6R4xqinYn1HBb3cNN9",
             "originalText": "for i = 0",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "line",
@@ -903,7 +903,7 @@
             "containerId": "mcLyZYKtUt3jonJP1OoxV",
             "originalText": "i++",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -972,7 +972,7 @@
             "containerId": "uth7URQT9Xy8Y17uPUoSk",
             "originalText": "i < nums.lenght",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "line",

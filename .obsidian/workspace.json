@@ -11,9 +11,11 @@
             "id": "2563b1e6665ce36e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Android + Jetpack/Drawing 2023-07-04 11.01.33.excalidraw.md"
+                "file": "Android + Jetpack/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -23,7 +25,17 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Android + Jetpack/Drawing 2023-07-04 11.01.33.excalidraw.md"
+                "file": "Android + Jetpack/Diagram.md"
+              }
+            }
+          },
+          {
+            "id": "37bdda6620e03932",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "LeetCode/Walkthrough.md"
               }
             }
           }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android + Jetpack/Drawing 2023-07-04 11.01.33.excalidraw.md",
+                "file": "Android + Jetpack/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android + Jetpack/Drawing 2023-07-04 11.01.33.excalidraw.md",
+                "file": "Android + Jetpack/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android + Jetpack/Drawing 2023-07-04 11.01.33.excalidraw.md"
+                "file": "Android + Jetpack/Untitled.md"
               }
             }
           },
@@ -201,14 +213,14 @@
   },
   "active": "2563b1e6665ce36e",
   "lastOpenFiles": [
+    "Android + Jetpack/Diagram.md",
     "Android + Jetpack/Untitled.md",
-    "Android + Jetpack/Drawing 2023-07-04 11.01.33.excalidraw.md",
-    "AI/RoadMap.excalidraw.md",
-    "Android + Jetpack",
-    "AI/Useful Prompts.md",
-    "AI/Using AI.md",
-    "LeetCode/Questions.md",
     "LeetCode/Walkthrough.md",
+    "LeetCode/Questions.md",
+    "AI/RoadMap.excalidraw.md",
+    "AI/Using AI.md",
+    "AI/Useful Prompts.md",
+    "Android + Jetpack",
     "LeetCode/README.md",
     "Android Studio/Kotlin & Jetpack compose/Drawing 2023-06-20 20.57.36.excalidraw.md",
     "README.md",
