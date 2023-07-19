@@ -13,29 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Unity/Game.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e1701ebf4007a0c0",
+            "id": "c3b37d77a1a0614b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Android + Jetpack/Diagram.md"
-              }
-            }
-          },
-          {
-            "id": "37bdda6620e03932",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "LeetCode/Walkthrough.md"
+                "file": "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md"
               }
             }
           }
@@ -122,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Unity/Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Unity/Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/Untitled.md"
+                "file": "Unity/Game.md"
               }
             }
           },
@@ -207,16 +197,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2563b1e6665ce36e",
   "lastOpenFiles": [
-    "Android + Jetpack/Untitled.md",
-    "Untitled/Untitled.md",
-    "Untitled",
+    "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
+    "Unity/Game.md",
     "Android + Jetpack/Diagram.md",
+    "Untitled/Untitled.md",
+    "Unity",
+    "Android + Jetpack/Untitled.md",
+    "Untitled",
     "LeetCode/Walkthrough.md",
     "LeetCode/Questions.md",
     "AI/RoadMap.excalidraw.md",
@@ -249,12 +242,9 @@
     "CodeWars/Untitled Diagram.svg",
     "LeetCode/Untitled Diagram.svg",
     "Data Structures",
-    "CodeWars/Untitled",
     "001 Class Diagram Explenation.md",
     "000 Design Patterns.md",
     "01 Observer Pattern/Script.md",
-    "02 Decorator Pattern/Script.md",
-    "00 Strategy Pattern/Script.md",
     "Diagrams/Duck Diagram 1.svg",
     "01 Observer Pattern/Untitled Diagram.svg",
     "Pasted image 20230318133956.jpg",

@@ -14,7 +14,7 @@ DATA ^v97jQZlv
 
 Manifest ^XYIn75Lh
 
-[[Untitled## Manifest]] ^cZnQhiUT
+[[Android + Jetpack/Untitled## Manifest]] ^cZnQhiUT
 
 %%
 # Drawing
@@ -22,7 +22,7 @@ Manifest ^XYIn75Lh
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.7",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.8",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -68,8 +68,8 @@ Manifest ^XYIn75Lh
 		},
 		{
 			"type": "text",
-			"version": 467,
-			"versionNonce": 2055464500,
+			"version": 469,
+			"versionNonce": 1673967230,
 			"isDeleted": false,
 			"id": "VUsN8V5F",
 			"fillStyle": "hachure",
@@ -78,18 +78,18 @@ Manifest ^XYIn75Lh
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 408.91250683943974,
+			"x": 409.00250317733037,
 			"y": -270.450028370789,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 25.17999267578125,
+			"width": 25,
 			"height": 25,
 			"seed": 1631220131,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688987468987,
+			"updated": 1689349165777,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -101,7 +101,7 @@ Manifest ^XYIn75Lh
 			"containerId": "5Qd27ak4yvH3rtFBAI-vC",
 			"originalText": "UI",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -147,8 +147,8 @@ Manifest ^XYIn75Lh
 		},
 		{
 			"type": "text",
-			"version": 294,
-			"versionNonce": 2109663540,
+			"version": 296,
+			"versionNonce": 691740478,
 			"isDeleted": false,
 			"id": "v97jQZlv",
 			"fillStyle": "hachure",
@@ -157,18 +157,18 @@ Manifest ^XYIn75Lh
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 392.0425193516468,
+			"x": 392.00250317733037,
 			"y": -36.45002837078903,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 57.91996765136719,
+			"width": 58,
 			"height": 25,
 			"seed": 107805453,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688987468987,
+			"updated": 1689349165783,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -180,12 +180,12 @@ Manifest ^XYIn75Lh
 			"containerId": "B11t2nXUME43TwLWE-yGu",
 			"originalText": "DATA",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 620,
-			"versionNonce": 983173004,
+			"version": 628,
+			"versionNonce": 938119230,
 			"isDeleted": false,
 			"id": "W2UiUpDmxPGYAnN6oYy46",
 			"fillStyle": "hachure",
@@ -207,7 +207,7 @@ Manifest ^XYIn75Lh
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1688999215868,
+			"updated": 1689349165832,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -236,8 +236,8 @@ Manifest ^XYIn75Lh
 		},
 		{
 			"type": "arrow",
-			"version": 620,
-			"versionNonce": 2072589836,
+			"version": 628,
+			"versionNonce": 518641790,
 			"isDeleted": false,
 			"id": "bCfMhGvau2lkC9zuBMjrA",
 			"fillStyle": "hachure",
@@ -259,7 +259,7 @@ Manifest ^XYIn75Lh
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1688999215868,
+			"updated": 1689349165835,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -288,8 +288,8 @@ Manifest ^XYIn75Lh
 		},
 		{
 			"type": "rectangle",
-			"version": 418,
-			"versionNonce": 1670288524,
+			"version": 419,
+			"versionNonce": 1670288525,
 			"isDeleted": false,
 			"id": "cZnQhiUT",
 			"fillStyle": "hachure",
@@ -317,13 +317,13 @@ Manifest ^XYIn75Lh
 				}
 			],
 			"updated": 1688999906076,
-			"link": "[[Untitled## Manifest]]",
+			"link": "[[Android + Jetpack/Untitled## Manifest]]",
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 424,
-			"versionNonce": 1371261492,
+			"version": 426,
+			"versionNonce": 1431340926,
 			"isDeleted": false,
 			"id": "XYIn75Lh",
 			"fillStyle": "hachure",
@@ -332,18 +332,18 @@ Manifest ^XYIn75Lh
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -731.4839885288292,
+			"x": -730.8840282016807,
 			"y": -233.67616425323212,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 85.19992065429688,
+			"width": 84,
 			"height": 25,
 			"seed": 272057356,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1688999906076,
+			"updated": 1689349165787,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -355,7 +355,7 @@ Manifest ^XYIn75Lh
 			"containerId": "cZnQhiUT",
 			"originalText": "Manifest",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		}
 	],
 	"appState": {
