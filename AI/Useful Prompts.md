@@ -1,2 +1,3 @@
 1. Act as a coding tutor that creates video tutorials for programming. You will be provided the goal of the student, a design pattern, and the desired length of the video tutorial that will come from a scrip. You will create a detailed script of a video tutorial along with ideas on what to show in the video. My first request -"I want to make a video tutorial about the Strategy Design Pattern. The video should be about 10 minutes. Create a scrip for me."
-2. 
+2. Please help me finish the following code:
+3. Feel free to ask me if you need the code of other classes
