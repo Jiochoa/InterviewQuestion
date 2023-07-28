@@ -15,25 +15,25 @@ The movements will include any motions that can be done in an empty space like:
 	- [ ] Code
 		- [ ] walk
 		- [ ] run
-		- [ ] sprint
-		- [ ] jump
-		- [ ] crawl
-	- [ ] Animations
-		- [ ] walk
-		- [ ] run
-		- [ ] sprint
-		- [ ] jump
-		- [ ] crawl
+		- [x] sprint
+		- [x] jump
+		- [x] crawl
+	- [x] Animations
+		- [x] walk
+		- [x] run
+		- [x] sprint
+		- [x] jump
+		- [x] crawl
 
 ### Interactions
 The interactions will include any motions that can be done either with the level or with objects in the level, like:
-- [ ] `wall jumping`
-- [ ] `wall slide`
-- [ ] `climbing ledges`
-- [ ] `ledge hanging`
+- [x] `wall jumping`
+- [x] `wall slide`
+- [x] `climbing ledges`
+- [x] `ledge hanging`
 - [ ] `rope swing`
-- [ ] `pull`
-- [ ] `push`
+- [x] `pull`
+- [x] `push`
 
 ### Abilities 
 The abilities will include anything that is not natural to a cat like with cybernetics like:
@@ -65,3 +65,9 @@ The abilities will include anything that is not natural to a cat like with cyber
 The ability modules follow a certain order. I made a test print to see what's being ran first.
 
 Look for other modules that also interact with a game object and copy their procedure.
+
+### How to make it look like Limbo
+
+- what are shaders and how to use them.
+- how to apply a filter
+- shadows in 2d?

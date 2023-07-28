@@ -11,21 +11,9 @@
             "id": "2563b1e6665ce36e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Useful Prompts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3b37d77a1a0614b",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md"
+                "file": "Unity/Level 1.md"
               }
             }
           }
@@ -96,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Useful Prompts.md",
+                "file": "Unity/Level 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Useful Prompts.md",
+                "file": "Unity/Level 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Useful Prompts.md"
+                "file": "Unity/Level 1.md"
               }
             }
           },
@@ -173,7 +162,7 @@
             }
           },
           {
-            "id": "33266ba708c9f40f",
+            "id": "6410710562fab8d8",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -185,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
+    "width": 294.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -197,15 +186,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "copilot:Copilot Chat": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Copilot Chat": false
     }
   },
   "active": "2563b1e6665ce36e",
   "lastOpenFiles": [
-    "AI/Using AI.md",
     "Unity/Game.md",
+    "Unity/Level 1.md",
     "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "AI/Useful Prompts.md",
+    "AI/Using AI.md",
     "Android + Jetpack/Diagram.md",
     "Untitled/Untitled.md",
     "Unity",
@@ -214,7 +207,6 @@
     "LeetCode/Walkthrough.md",
     "LeetCode/Questions.md",
     "AI/RoadMap.excalidraw.md",
-    "AI/Useful Prompts.md",
     "Android + Jetpack",
     "LeetCode/README.md",
     "Android Studio/Kotlin & Jetpack compose/Drawing 2023-06-20 20.57.36.excalidraw.md",
@@ -242,12 +234,8 @@
     "CodeWars/Untitled Diagram.svg",
     "LeetCode/Untitled Diagram.svg",
     "Data Structures",
-    "001 Class Diagram Explenation.md",
-    "000 Design Patterns.md",
-    "01 Observer Pattern/Script.md",
     "Diagrams/Duck Diagram 1.svg",
     "01 Observer Pattern/Untitled Diagram.svg",
-    "Pasted image 20230318133956.jpg",
-    "Pasted image 20230318133857.jpg"
+    "Pasted image 20230318133956.jpg"
   ]
 }

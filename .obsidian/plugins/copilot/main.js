@@ -12539,7 +12539,7 @@ var require_api = __commonJS({
         }
       };
     };
-    var OpenAIApi4 = class extends base_1.BaseAPI {
+    var OpenAIApi5 = class extends base_1.BaseAPI {
       /**
        *
        * @summary Immediately cancel a fine-tune job.
@@ -12872,7 +12872,7 @@ var require_api = __commonJS({
         return exports.OpenAIApiFp(this.configuration).retrieveModel(model, options).then((request) => request(this.axios, this.basePath));
       }
     };
-    exports.OpenAIApi = OpenAIApi4;
+    exports.OpenAIApi = OpenAIApi5;
   }
 });
 
@@ -12927,7 +12927,7 @@ var require_configuration = __commonJS({
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.Configuration = void 0;
     var packageJson = require_package();
-    var Configuration4 = class {
+    var Configuration5 = class {
       constructor(param = {}) {
         this.apiKey = param.apiKey;
         this.organization = param.organization;
@@ -12963,7 +12963,7 @@ var require_configuration = __commonJS({
         return mime !== null && (jsonMime.test(mime) || mime.toLowerCase() === "application/json-patch+json");
       }
     };
-    exports.Configuration = Configuration4;
+    exports.Configuration = Configuration5;
   }
 });
 
@@ -58532,6 +58532,7 @@ var DEFAULT_SETTINGS = {
   contextTurns: 3,
   useNotesAsContext: false,
   userSystemPrompt: "",
+  openAIProxyBaseUrl: "",
   stream: true,
   embeddingProvider: OPENAI,
   debug: false
@@ -60419,6 +60420,21 @@ var MemoryVectorStore = class extends VectorStore {
 // src/aiState.ts
 var import_obsidian = require("obsidian");
 var import_react = __toESM(require_react());
+
+// src/langchainWrappers.ts
+var import_openai6 = __toESM(require_dist2());
+var ProxyChatOpenAI = class extends ChatOpenAI {
+  constructor(fields) {
+    super(fields != null ? fields : {});
+    const clientConfig = new import_openai6.Configuration({
+      ...this["clientConfig"],
+      basePath: fields.openAIProxyBaseUrl
+    });
+    this["client"] = new import_openai6.OpenAIApi(clientConfig);
+  }
+};
+
+// src/aiState.ts
 var AIState = class {
   constructor(langChainParams) {
     this.langChainParams = langChainParams;
@@ -60465,7 +60481,8 @@ var AIState = class {
       azureOpenAIApiVersion,
       model,
       temperature,
-      maxTokens
+      maxTokens,
+      openAIProxyBaseUrl
     } = this.langChainParams;
     let config = {
       modelName: model,
@@ -60479,7 +60496,8 @@ var AIState = class {
         config = {
           ...config,
           openAIApiKey,
-          maxTokens
+          maxTokens,
+          openAIProxyBaseUrl
         };
         break;
       case ANTHROPIC:
@@ -60503,10 +60521,11 @@ var AIState = class {
   }
   buildModelMap() {
     const modelMap = {};
+    const OpenAIChatModel = this.langChainParams.openAIProxyBaseUrl ? ProxyChatOpenAI : ChatOpenAI;
     for (const modelDisplayNameKey of OPENAI_MODELS) {
       modelMap[modelDisplayNameKey] = {
         hasApiKey: Boolean(this.langChainParams.openAIApiKey),
-        AIConstructor: ChatOpenAI,
+        AIConstructor: OpenAIChatModel,
         vendor: OPENAI
       };
     }
@@ -70564,6 +70583,22 @@ var CopilotSettingTab = class extends import_obsidian10.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
+    new import_obsidian10.Setting(containerEl).setName("OpenAI Proxy Base URL (3rd-party providers)").setDesc(
+      createFragment((frag) => {
+        frag.createEl(
+          "strong",
+          { text: "CAUTION: This will override the default OpenAI API URL! Use with discretion!" }
+        );
+        frag.createEl("br");
+        frag.appendText("Leave blank to use the official OpenAI API.");
+      })
+    ).addText((text4) => {
+      text4.inputEl.style.width = "100%";
+      text4.setPlaceholder("https://openai.example.com/v1").setValue(this.plugin.settings.openAIProxyBaseUrl).onChange(async (value) => {
+        this.plugin.settings.openAIProxyBaseUrl = value;
+        await this.plugin.saveSettings();
+      });
+    });
     containerEl.createEl("h4", { text: "Development mode" });
     new import_obsidian10.Setting(containerEl).setName("Debug mode").setDesc(
       createFragment((frag) => {
@@ -79225,6 +79260,13 @@ var CopilotPlugin = class extends import_obsidian11.Plugin {
         this.toggleView();
       }
     });
+    this.addCommand({
+      id: "chat-toggle-window-note-area",
+      name: "Toggle Copilot Chat Window in Note Area",
+      callback: () => {
+        this.toggleViewNoteArea();
+      }
+    });
     this.addRibbonIcon("message-square", "Copilot Chat", (evt) => {
       this.toggleView();
     });
@@ -79506,6 +79548,20 @@ var CopilotPlugin = class extends import_obsidian11.Plugin {
     this.app.workspace.detachLeavesOfType(CHAT_VIEWTYPE);
     this.chatIsVisible = false;
   }
+  async toggleViewNoteArea() {
+    const leaves = this.app.workspace.getLeavesOfType(CHAT_VIEWTYPE);
+    leaves.length > 0 ? this.deactivateView() : this.activateViewNoteArea();
+  }
+  async activateViewNoteArea() {
+    this.app.workspace.detachLeavesOfType(CHAT_VIEWTYPE);
+    this.activateViewPromise = this.app.workspace.getLeaf(true).setViewState({
+      type: CHAT_VIEWTYPE,
+      active: true
+    });
+    await this.activateViewPromise;
+    this.app.workspace.revealLeaf(this.app.workspace.getLeavesOfType(CHAT_VIEWTYPE)[0]);
+    this.chatIsVisible = true;
+  }
   async loadSettings() {
     this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
   }
@@ -79554,7 +79610,8 @@ var CopilotPlugin = class extends import_obsidian11.Plugin {
       embeddingProvider,
       chainType: "llm_chain" /* LLM_CHAIN */,
       // Set LLM_CHAIN as default ChainType
-      options: { forceNewCreation: true }
+      options: { forceNewCreation: true },
+      openAIProxyBaseUrl: this.settings.openAIProxyBaseUrl
     };
   }
 };
