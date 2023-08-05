@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Unity/Level 1.md"
+                "file": "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md"
               }
             }
           }
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Level 1.md",
+                "file": "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/Level 1.md",
+                "file": "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/Level 1.md"
+                "file": "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md"
               }
             }
           },
@@ -192,8 +191,8 @@
   },
   "active": "2563b1e6665ce36e",
   "lastOpenFiles": [
-    "Unity/Game.md",
     "Unity/Level 1.md",
+    "Unity/Game.md",
     "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
