@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md"
+                "file": "Unity/Levels.md"
               }
             }
           }
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
+                "file": "Unity/Levels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
+                "file": "Unity/Levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md"
+                "file": "Unity/Levels.md"
               }
             }
           },
@@ -191,14 +192,14 @@
   },
   "active": "2563b1e6665ce36e",
   "lastOpenFiles": [
-    "Unity/Level 1.md",
-    "Unity/Game.md",
     "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
+    "Unity/Game.md",
+    "Unity/Levels.md",
+    "Android + Jetpack/Diagram.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "AI/Useful Prompts.md",
     "AI/Using AI.md",
-    "Android + Jetpack/Diagram.md",
     "Untitled/Untitled.md",
     "Unity",
     "Android + Jetpack/Untitled.md",
