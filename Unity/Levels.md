@@ -10,22 +10,6 @@ tags: [excalidraw]
 # Text Elements
 start ^KOmb3hNR
 
-Abilities 
--------------------
-- Crouch
-- Jump
-- Pull / Push
-- Sling Shot Jump
-- Edge Climb
-- Climb ladder
-- Elevator
----------------------
-- Wall Jump
-- Wall Slide
-- Slide
-- ZipLine
- ^yR2XCUWk
-
 Push / Pull ^DLyswqdy
 
 Long Jump ^1dPpCltE
@@ -153,6 +137,40 @@ QUIT ^D2d1xSMr
 
 Cutscene to go to the Main Menu screen ^jqAvLTlE
 
+PLAYER
+-----------------------
+* movement
+    + run / infinite runner
+    + sprint
+    + crouch
+    + jump
+    + climb ledge
+    + climb ladder / net
+    + wall jump
+    + zipline top / bottom
+    + swim
+    + press trigger
+    + jetpack
+    - push / pull
+    - charge jump
+    - dash
+    - double jump ^XTNuy0YH
+
+LEVEL STRUCTURES
+----------------------------
++ floor
++ death zone
++ ziplines top / bottom
++ water
++ push areas
++ trigger areas
++ moving platforms
++ moving ladders
++ rotating platforms
++ path mover
+- elevator
+ ^1WhKaQif
+
 %%
 # Drawing
 ```json
@@ -231,8 +249,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 855,
-			"versionNonce": 853688178,
+			"version": 857,
+			"versionNonce": 1335475701,
 			"isDeleted": false,
 			"id": "KOmb3hNR",
 			"fillStyle": "hachure",
@@ -241,18 +259,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -191.6466709001725,
+			"x": -191.8466449602311,
 			"y": 253.4188653682128,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 55,
+			"width": 55.39994812011719,
 			"height": 25,
 			"seed": 121842740,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668236,
+			"updated": 1691672879433,
 			"link": null,
 			"locked": true,
 			"fontSize": 20,
@@ -264,44 +282,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "HlKFbaEjzE4G3G8QsZG1T",
 			"originalText": "start",
 			"lineHeight": 1.25,
-			"baseline": 17
-		},
-		{
-			"type": "text",
-			"version": 939,
-			"versionNonce": 318318766,
-			"isDeleted": false,
-			"id": "yR2XCUWk",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -648.5975277329559,
-			"y": -113.83851550177178,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffffff",
-			"width": 169,
-			"height": 375,
-			"seed": 1011417484,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1691391668236,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Abilities \n-------------------\n- Crouch\n- Jump\n- Pull / Push\n- Sling Shot Jump\n- Edge Climb\n- Climb ladder\n- Elevator\n---------------------\n- Wall Jump\n- Wall Slide\n- Slide\n- ZipLine\n",
-			"rawText": "Abilities \n-------------------\n- Crouch\n- Jump\n- Pull / Push\n- Sling Shot Jump\n- Edge Climb\n- Climb ladder\n- Elevator\n---------------------\n- Wall Jump\n- Wall Slide\n- Slide\n- ZipLine\n",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Abilities \n-------------------\n- Crouch\n- Jump\n- Pull / Push\n- Sling Shot Jump\n- Edge Climb\n- Climb ladder\n- Elevator\n---------------------\n- Wall Jump\n- Wall Slide\n- Slide\n- ZipLine\n",
-			"lineHeight": 1.25,
-			"baseline": 367
+			"baseline": 18
 		},
 		{
 			"type": "freedraw",
@@ -2141,8 +2122,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 362,
-			"versionNonce": 1307334766,
+			"version": 364,
+			"versionNonce": 956335285,
 			"isDeleted": false,
 			"id": "DLyswqdy",
 			"fillStyle": "hachure",
@@ -2151,18 +2132,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -151.93075128982673,
+			"x": -152.6407045979322,
 			"y": 160.81609954078843,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#ffffff",
-			"width": 109,
+			"width": 110.41990661621094,
 			"height": 25,
 			"seed": 1104051892,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668236,
+			"updated": 1691672879436,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2174,12 +2155,12 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "kaS7G9xv2dkFm2aHO6myO",
 			"originalText": "Push / Pull",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 609,
-			"versionNonce": 402009458,
+			"version": 613,
+			"versionNonce": 2118873845,
 			"isDeleted": false,
 			"id": "yYQDDnOFiaxCo_W096L8v",
 			"fillStyle": "hachure",
@@ -2201,7 +2182,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1691391668237,
+			"updated": 1691673357364,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2268,8 +2249,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 406,
-			"versionNonce": 1265872690,
+			"version": 408,
+			"versionNonce": 854891381,
 			"isDeleted": false,
 			"id": "1dPpCltE",
 			"fillStyle": "hachure",
@@ -2278,18 +2259,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -6.815300944273417,
+			"x": -6.805260661070292,
 			"y": 77.16220643682189,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#ffffff",
-			"width": 99,
+			"width": 98.97991943359375,
 			"height": 25,
 			"seed": 1895005324,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668237,
+			"updated": 1691672879437,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2301,12 +2282,12 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "1iDkDkBe9QkbdOosuf6Zz",
 			"originalText": "Long Jump",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 699,
-			"versionNonce": 440898798,
+			"version": 703,
+			"versionNonce": 850086997,
 			"isDeleted": false,
 			"id": "t-rPGxHvHZymj7iVl-bA5",
 			"fillStyle": "hachure",
@@ -2315,12 +2296,12 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 21.797474214637376,
+			"x": 21.79747421414472,
 			"y": 116.51929726791485,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 56.51096853291655,
-			"height": 99.15719401595607,
+			"width": 56.51096853327714,
+			"height": 99.15719401609942,
 			"seed": 319663156,
 			"groupIds": [],
 			"frameId": null,
@@ -2328,7 +2309,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1691391668237,
+			"updated": 1691673357366,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2350,8 +2331,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 					0
 				],
 				[
-					56.51096853291655,
-					99.15719401595607
+					56.51096853327714,
+					99.15719401609942
 				]
 			]
 		},
@@ -2603,8 +2584,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 597,
-			"versionNonce": 746975218,
+			"version": 599,
+			"versionNonce": 1449263669,
 			"isDeleted": false,
 			"id": "2NrlQHM3",
 			"fillStyle": "hachure",
@@ -2613,18 +2594,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 253.2964451435015,
+			"x": 253.3764774921343,
 			"y": 148.66938132217774,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#ffffff",
-			"width": 64,
+			"width": 63.839935302734375,
 			"height": 25,
 			"seed": 1113884212,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668237,
+			"updated": 1691672879439,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2636,12 +2617,12 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "VyOs6RK2NWtgwG1fcRnCB",
 			"originalText": "Crouch",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 479,
-			"versionNonce": 990298158,
+			"version": 483,
+			"versionNonce": 1955133877,
 			"isDeleted": false,
 			"id": "vnHhPxWImF4qbsKUzUAst",
 			"fillStyle": "hachure",
@@ -2663,7 +2644,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1691391668237,
+			"updated": 1691673357367,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3257,8 +3238,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 652,
-			"versionNonce": 872480430,
+			"version": 654,
+			"versionNonce": 1899280629,
 			"isDeleted": false,
 			"id": "GJioXrEd",
 			"fillStyle": "hachure",
@@ -3267,18 +3248,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 672.8541292349211,
+			"x": 672.6841539541593,
 			"y": 21.795904266701143,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#ffffff",
-			"width": 45,
+			"width": 45.33995056152344,
 			"height": 25,
 			"seed": 394499980,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668237,
+			"updated": 1691672879441,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3290,7 +3271,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "T7xX1vRVs2kmq1f6MDKRD",
 			"originalText": "Climb",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -3332,8 +3313,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 747,
-			"versionNonce": 755562734,
+			"version": 749,
+			"versionNonce": 1180221365,
 			"isDeleted": false,
 			"id": "wRrxYeIM",
 			"fillStyle": "hachure",
@@ -3342,18 +3323,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1682.4703081135508,
+			"x": 1681.7403429035899,
 			"y": 130.84640685113936,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#ffffff",
-			"width": 93,
+			"width": 94.45993041992188,
 			"height": 50,
 			"seed": 1735314444,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668237,
+			"updated": 1691672879443,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3365,12 +3346,12 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "v8nASpz1U_pt9LmVbFx-t",
 			"originalText": "Elevator switch",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
-			"version": 145,
-			"versionNonce": 1053938930,
+			"version": 149,
+			"versionNonce": 1151586421,
 			"isDeleted": false,
 			"id": "G43xsgHquC9Mv6R4y8A-B",
 			"fillStyle": "hachure",
@@ -3392,7 +3373,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1691391668237,
+			"updated": 1691673357369,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3421,8 +3402,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "arrow",
-			"version": 225,
-			"versionNonce": 798468910,
+			"version": 229,
+			"versionNonce": 2097806101,
 			"isDeleted": false,
 			"id": "xes7YulzvHsRvyWjRbd8E",
 			"fillStyle": "hachure",
@@ -3444,7 +3425,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1691391668237,
+			"updated": 1691673357368,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3521,7 +3502,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": -167.6028192970614,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
-			"width": 111,
+			"width": 110.51994323730469,
 			"height": 25,
 			"seed": 932992052,
 			"groupIds": [],
@@ -3540,7 +3521,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "TUTORIAL",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -3558,7 +3539,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 777.8257032065044,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
-			"width": 183,
+			"width": 182.81988525390625,
 			"height": 25,
 			"seed": 211356300,
 			"groupIds": [],
@@ -3577,7 +3558,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "INTO CINEMATIC",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -3797,7 +3778,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 779.1183704974148,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
-			"width": 477,
+			"width": 480.7196044921875,
 			"height": 75,
 			"seed": 1902859276,
 			"groupIds": [],
@@ -3816,7 +3797,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "OEo2gw4tZjpm-QB0U9npo",
 			"originalText": "1. While waiting for the elevator to reach floor, \nmove the camera to the other side of the \nbuilding and focus on the gray cat",
 			"lineHeight": 1.25,
-			"baseline": 67
+			"baseline": 68
 		},
 		{
 			"type": "rectangle",
@@ -3956,7 +3937,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 1283.8281061289251,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#1e1e1e",
-			"width": 263,
+			"width": 266.4197692871094,
 			"height": 50,
 			"seed": 1313737524,
 			"groupIds": [],
@@ -3975,7 +3956,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "3. Cat get on elevator \nand clicks the inside switch",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
@@ -4046,7 +4027,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 977.746483834019,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
-			"width": 486,
+			"width": 489.53961181640625,
 			"height": 75,
 			"seed": 1690414772,
 			"groupIds": [],
@@ -4065,7 +4046,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "W9jot7yLA_jUoBJDG53sh",
 			"originalText": "2. While waiting for the elevator to reach floor, \nmove the camera to the other side of the \nbuilding and focus on the gray cat",
 			"lineHeight": 1.25,
-			"baseline": 67
+			"baseline": 68
 		},
 		{
 			"type": "text",
@@ -4083,7 +4064,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 1380.4947924004853,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#1e1e1e",
-			"width": 289,
+			"width": 290.8397521972656,
 			"height": 75,
 			"seed": 873213068,
 			"groupIds": [],
@@ -4102,7 +4083,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "4. title of the game and\nroll the intro credits as the \nelevator goes down",
 			"lineHeight": 1.25,
-			"baseline": 67
+			"baseline": 68
 		},
 		{
 			"type": "text",
@@ -4120,7 +4101,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 1894.618111489639,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#1e1e1e",
-			"width": 84,
+			"width": 84.83995056152344,
 			"height": 25,
 			"seed": 408174092,
 			"groupIds": [],
@@ -4139,7 +4120,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "PUZZLE",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -4215,8 +4196,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 1113,
-			"versionNonce": 1584933294,
+			"version": 1115,
+			"versionNonce": 1304041077,
 			"isDeleted": false,
 			"id": "jsWk1e1G",
 			"fillStyle": "hachure",
@@ -4225,18 +4206,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1943.1689649525888,
+			"x": 1942.4389997426279,
 			"y": 2315.4190454577515,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#ffffff",
-			"width": 93,
+			"width": 94.45993041992188,
 			"height": 50,
 			"seed": 1750354235,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668238,
+			"updated": 1691672879444,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4248,12 +4229,12 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "7Xr79sz6BovKJxRp-yF_u",
 			"originalText": "Elevator switch",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
-			"version": 1254,
-			"versionNonce": 62591026,
+			"version": 1258,
+			"versionNonce": 421263829,
 			"isDeleted": false,
 			"id": "AiEYb1ApHqwEtu3TojmH-",
 			"fillStyle": "hachure",
@@ -4275,7 +4256,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1691391668238,
+			"updated": 1691673357371,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4690,7 +4671,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 2058.1313617436335,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#1e1e1e",
-			"width": 420,
+			"width": 422.8796691894531,
 			"height": 150,
 			"seed": 1555044187,
 			"groupIds": [],
@@ -4709,7 +4690,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "5. Get to the end of the level\nand click the elevator button to \nstart the level ending animation, which\ncat jump on platform and clicks to go up\nas level ends with more credits and screen\ndarkens",
 			"lineHeight": 1.25,
-			"baseline": 142
+			"baseline": 143
 		},
 		{
 			"type": "rectangle",
@@ -5093,7 +5074,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 2382.469500599195,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ff0000",
-			"width": 116,
+			"width": 117.59991455078125,
 			"height": 50,
 			"seed": 1905489212,
 			"groupIds": [],
@@ -5112,7 +5093,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "push trash\ncan to climb",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "text",
@@ -5130,7 +5111,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 2063.3203027562254,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ff0000",
-			"width": 96,
+			"width": 96.47993469238281,
 			"height": 50,
 			"seed": 1251638460,
 			"groupIds": [],
@@ -5149,7 +5130,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "wall jump \nto get up",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "text",
@@ -5167,7 +5148,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 2011.5666116942753,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ff0000",
-			"width": 206,
+			"width": 208.67987060546875,
 			"height": 50,
 			"seed": 1390596028,
 			"groupIds": [],
@@ -5186,7 +5167,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "can go down or wait \nto go up for treat",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "diamond",
@@ -5262,7 +5243,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 2479.26199152671,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#9c36b5",
-			"width": 297,
+			"width": 299.1197204589844,
 			"height": 25,
 			"seed": 2040259844,
 			"groupIds": [],
@@ -5281,7 +5262,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "another small view before exit",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -5299,7 +5280,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 2705.8184087829563,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#9c36b5",
-			"width": 96,
+			"width": 96.59991455078125,
 			"height": 25,
 			"seed": 894557188,
 			"groupIds": [],
@@ -5318,7 +5299,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Death pit",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -5671,7 +5652,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": -197.83971069702113,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 64,
+			"width": 64.99995422363281,
 			"height": 25,
 			"seed": 970132768,
 			"groupIds": [],
@@ -5690,7 +5671,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Level 1",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -5708,7 +5689,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 4222.160136715087,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 73,
+			"width": 73.199951171875,
 			"height": 25,
 			"seed": 1587988704,
 			"groupIds": [],
@@ -5727,7 +5708,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Level 3",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -5948,7 +5929,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 5663.304578986821,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#1e1e1e",
-			"width": 152,
+			"width": 154.3798828125,
 			"height": 25,
 			"seed": 1857176864,
 			"groupIds": [],
@@ -5967,7 +5948,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "window entrance",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -5985,7 +5966,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 5216.415730788036,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#1e1e1e",
-			"width": 96,
+			"width": 97.25990295410156,
 			"height": 25,
 			"seed": 436855072,
 			"groupIds": [],
@@ -6004,7 +5985,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "living room",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -6022,7 +6003,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 5213.374478958565,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#1e1e1e",
-			"width": 65,
+			"width": 65.61993408203125,
 			"height": 25,
 			"seed": 733215968,
 			"groupIds": [],
@@ -6041,7 +6022,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "kitchen",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -6059,7 +6040,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 5809.304660367026,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#1e1e1e",
-			"width": 84,
+			"width": 84.23991394042969,
 			"height": 25,
 			"seed": 197839136,
 			"groupIds": [],
@@ -6078,7 +6059,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "pet door",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -7801,8 +7782,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 137,
-			"versionNonce": 237079534,
+			"version": 139,
+			"versionNonce": 1937342421,
 			"isDeleted": false,
 			"id": "NyonXevM",
 			"fillStyle": "hachure",
@@ -7811,18 +7792,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -143.03972130995862,
+			"x": -143.4996746180641,
 			"y": -387.4680735475014,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 102,
+			"width": 102.91990661621094,
 			"height": 25,
 			"seed": 1982112803,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668239,
+			"updated": 1691672879445,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7834,7 +7815,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "OwTFqoBkYLm2pfAuyk5v8",
 			"originalText": "parking lot",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -7852,7 +7833,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": -496.7092320573672,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "#ffd8a8",
-			"width": 64,
+			"width": 64.99995422363281,
 			"height": 25,
 			"seed": 1069881773,
 			"groupIds": [],
@@ -7871,7 +7852,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Level 1",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -7909,8 +7890,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 117,
-			"versionNonce": 508617650,
+			"version": 119,
+			"versionNonce": 1950661941,
 			"isDeleted": false,
 			"id": "qL98QAo1",
 			"fillStyle": "hachure",
@@ -7919,18 +7900,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 269.085424588307,
+			"x": 267.29549996672495,
 			"y": -381.9952902253133,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 133,
+			"width": 136.57984924316406,
 			"height": 25,
 			"seed": 1050181325,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668239,
+			"updated": 1691672879447,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7942,7 +7923,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "xhtibnLuR3MqzFSClmEYV",
 			"originalText": "building puzzle",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -7960,7 +7941,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": -490.8663651799221,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "#ffd8a8",
-			"width": 73,
+			"width": 73.8199462890625,
 			"height": 25,
 			"seed": 1079149837,
 			"groupIds": [],
@@ -7979,7 +7960,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Level 2",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -8017,8 +7998,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 66,
-			"versionNonce": 246065838,
+			"version": 68,
+			"versionNonce": 662785685,
 			"isDeleted": false,
 			"id": "VzRCZTgr",
 			"fillStyle": "hachure",
@@ -8027,18 +8008,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 690.8114397665138,
+			"x": 690.3915102621193,
 			"y": -386.4035082025081,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 171,
+			"width": 171.83985900878906,
 			"height": 25,
 			"seed": 60178819,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668239,
+			"updated": 1691672879448,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8050,7 +8031,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "BqBeaw50BaZB-6Ift_cF2",
 			"originalText": "apartment floor 1",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -8068,7 +8049,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": -493.1830719106913,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "#ffd8a8",
-			"width": 73,
+			"width": 73.199951171875,
 			"height": 25,
 			"seed": 489196621,
 			"groupIds": [],
@@ -8087,7 +8068,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Level 3",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -8125,8 +8106,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 252,
-			"versionNonce": 837183730,
+			"version": 254,
+			"versionNonce": 1541714933,
 			"isDeleted": false,
 			"id": "XFxnWaUJ",
 			"fillStyle": "hachure",
@@ -8135,18 +8116,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1934.6811361281434,
+			"x": 1933.8411931960145,
 			"y": -378.0509603794507,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 154,
+			"width": 155.6798858642578,
 			"height": 25,
 			"seed": 1980404419,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668239,
+			"updated": 1691672879449,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8158,7 +8139,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "Z3RLRBXr7-g3SwIVJsdYx",
 			"originalText": "Factory space 1",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -8176,7 +8157,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": -475.53592353641096,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "#ffd8a8",
-			"width": 72,
+			"width": 72.37994384765625,
 			"height": 25,
 			"seed": 526462403,
 			"groupIds": [],
@@ -8195,7 +8176,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Level 6",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -8233,8 +8214,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 263,
-			"versionNonce": 1821327726,
+			"version": 265,
+			"versionNonce": 1836346709,
 			"isDeleted": false,
 			"id": "OBxeOJcW",
 			"fillStyle": "hachure",
@@ -8243,18 +8224,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1565.4248106664913,
+			"x": 1565.2348845190304,
 			"y": -372.6480196871272,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 152,
+			"width": 152.37985229492188,
 			"height": 25,
 			"seed": 838123427,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668239,
+			"updated": 1691672879451,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8266,7 +8247,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "DEcJ-pOC1rpUyZ2UEEqpA",
 			"originalText": "Crowded street",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -8284,7 +8265,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": -471.4662958323687,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "#ffd8a8",
-			"width": 71,
+			"width": 71.93994140625,
 			"height": 25,
 			"seed": 555930435,
 			"groupIds": [],
@@ -8303,7 +8284,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Level 5",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "freedraw",
@@ -8381,8 +8362,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 85,
-			"versionNonce": 973356526,
+			"version": 87,
+			"versionNonce": 461765301,
 			"isDeleted": false,
 			"id": "sMkOQ8YJ",
 			"fillStyle": "hachure",
@@ -8391,18 +8372,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1127.5914773331574,
+			"x": 1127.261551796048,
 			"y": -383.0840222272706,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 180,
+			"width": 180.65985107421875,
 			"height": 25,
 			"seed": 476942989,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668239,
+			"updated": 1691672879452,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8414,7 +8395,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "XiSJAS0ZOQiyX1wVCxc1y",
 			"originalText": "apartment floor 2",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -8432,7 +8413,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": -491.8636062805058,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "#ffd8a8",
-			"width": 72,
+			"width": 72.37994384765625,
 			"height": 25,
 			"seed": 462797037,
 			"groupIds": [],
@@ -8451,7 +8432,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Level 4",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -8489,8 +8470,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 293,
-			"versionNonce": 726438322,
+			"version": 295,
+			"versionNonce": 515824661,
 			"isDeleted": false,
 			"id": "RZzEna0D",
 			"fillStyle": "hachure",
@@ -8499,18 +8480,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2313.09142138426,
+			"x": 2312.341482419416,
 			"y": -369.6479891695493,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 163,
+			"width": 164.4998779296875,
 			"height": 25,
 			"seed": 1031720835,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668240,
+			"updated": 1691672879453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8522,7 +8503,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "WbMsjUufJxHYd6ftvm0GG",
 			"originalText": "Factory space 2",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -8540,7 +8521,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": -467.13295232650955,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "#ffd8a8",
-			"width": 70,
+			"width": 70.33995056152344,
 			"height": 25,
 			"seed": 1956636451,
 			"groupIds": [],
@@ -8559,7 +8540,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Level 7",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -8597,8 +8578,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 302,
-			"versionNonce": 477273262,
+			"version": 304,
+			"versionNonce": 2132054389,
 			"isDeleted": false,
 			"id": "9iaSVHGq",
 			"fillStyle": "hachure",
@@ -8607,18 +8588,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2698.9719944753124,
+			"x": 2698.5320530690624,
 			"y": -362.5526195580817,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 163,
+			"width": 163.8798828125,
 			"height": 25,
 			"seed": 629806285,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668240,
+			"updated": 1691672879455,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8630,7 +8611,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "jeukbq5pLzghIPv4j-zBw",
 			"originalText": "Factory space 3",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -8648,7 +8629,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": -471.4662195384234,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "#ffd8a8",
-			"width": 74,
+			"width": 74.87994384765625,
 			"height": 25,
 			"seed": 1248326445,
 			"groupIds": [],
@@ -8667,7 +8648,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Level 8",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -8705,8 +8686,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 315,
-			"versionNonce": 421058290,
+			"version": 317,
+			"versionNonce": 701274837,
 			"isDeleted": false,
 			"id": "kyuLcY9D",
 			"fillStyle": "hachure",
@@ -8715,18 +8696,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3105.0677789805213,
+			"x": 3104.5078348276893,
 			"y": -372.3146187791572,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 140,
+			"width": 141.11988830566406,
 			"height": 25,
 			"seed": 188689645,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668240,
+			"updated": 1691672879456,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8738,7 +8719,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "C8FyTY1kYw7jwavHLkmVv",
 			"originalText": "Factory roof 1",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -8756,7 +8737,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": -469.7995819361172,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "#ffd8a8",
-			"width": 71,
+			"width": 71.75994873046875,
 			"height": 25,
 			"seed": 1174734669,
 			"groupIds": [],
@@ -8775,7 +8756,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Level 9",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -8813,8 +8794,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 337,
-			"versionNonce": 793015150,
+			"version": 339,
+			"versionNonce": 1199339573,
 			"isDeleted": false,
 			"id": "v3ivSRJL",
 			"fillStyle": "hachure",
@@ -8823,18 +8804,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3508.2821104711725,
+			"x": 3507.8121702856256,
 			"y": -382.3147059722372,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 149,
+			"width": 149.93988037109375,
 			"height": 25,
 			"seed": 1892957187,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668240,
+			"updated": 1691672879457,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8846,7 +8827,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "u_-JbtvptTtTIuBDQzcuu",
 			"originalText": "Factory roof 2",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -8864,7 +8845,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": -479.79966912919724,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "#ffd8a8",
-			"width": 78,
+			"width": 78.75994873046875,
 			"height": 25,
 			"seed": 1670628259,
 			"groupIds": [],
@@ -8883,7 +8864,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Level 10",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -8930,7 +8911,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 1847.7157457643402,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 73,
+			"width": 74.0045166015625,
 			"height": 25.066297977152026,
 			"seed": 771163778,
 			"groupIds": [],
@@ -8949,7 +8930,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Level 2",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -9045,8 +9026,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 243,
-			"versionNonce": 1597652914,
+			"version": 245,
+			"versionNonce": 1376364949,
 			"isDeleted": false,
 			"id": "K9zb3C8G",
 			"fillStyle": "hachure",
@@ -9055,18 +9036,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 89.5347402943026,
+			"x": 88.90478118785728,
 			"y": -593.2555286420168,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 88,
+			"width": 89.25991821289062,
 			"height": 50,
 			"seed": 1299492062,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668240,
+			"updated": 1691672879458,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -9078,7 +9059,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "LRVN3P5L7Polv33P6ZUVZ",
 			"originalText": "Cinematic 1",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
@@ -9125,7 +9106,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": 689.6418929392449,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 103,
+			"width": 104.67991638183594,
 			"height": 25,
 			"seed": 1204408030,
 			"groupIds": [],
@@ -9144,7 +9125,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Cinematic 1",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -9240,8 +9221,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 240,
-			"versionNonce": 1954366706,
+			"version": 242,
+			"versionNonce": 1789505269,
 			"isDeleted": false,
 			"id": "RrDHGcxz",
 			"fillStyle": "hachure",
@@ -9250,18 +9231,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -544.3890158851463,
+			"x": -544.8889929969627,
 			"y": 1103.1989006568565,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 64,
+			"width": 64.99995422363281,
 			"height": 25,
 			"seed": 1580530957,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668240,
+			"updated": 1691672879459,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -9273,7 +9254,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "obmJL3-B085N6w5xj5H0p",
 			"originalText": "Level 1",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -9311,8 +9292,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 485,
-			"versionNonce": 1177278130,
+			"version": 487,
+			"versionNonce": 1877084245,
 			"isDeleted": false,
 			"id": "B6D0cq9k",
 			"fillStyle": "hachure",
@@ -9321,18 +9302,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1878.8966635233364,
+			"x": 1878.4866903788052,
 			"y": 1139.6130705133367,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 73,
+			"width": 73.8199462890625,
 			"height": 25,
 			"seed": 1480918605,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668240,
+			"updated": 1691672879460,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -9344,7 +9325,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "sQzjFZhk34-5MCp4yXjvK",
 			"originalText": "Level 2",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "diamond",
@@ -9382,8 +9363,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 318,
-			"versionNonce": 262287474,
+			"version": 320,
+			"versionNonce": 1401435573,
 			"isDeleted": false,
 			"id": "9ZWnqF35",
 			"fillStyle": "hachure",
@@ -9392,18 +9373,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -398.5077109802402,
+			"x": -399.1376700866855,
 			"y": -583.494434631686,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 88,
+			"width": 89.25991821289062,
 			"height": 50,
 			"seed": 1433114445,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668240,
+			"updated": 1691672879462,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -9415,7 +9396,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "75ch7j9x_FbyVK3CVmxTg",
 			"originalText": "Cinematic Intro",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "diamond",
@@ -9453,8 +9434,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 446,
-			"versionNonce": 346509874,
+			"version": 448,
+			"versionNonce": 818001685,
 			"isDeleted": false,
 			"id": "eU2e0gUt",
 			"fillStyle": "hachure",
@@ -9463,18 +9444,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -813.1697260804627,
+			"x": -813.799685186908,
 			"y": -578.9557884052819,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 88,
+			"width": 89.25991821289062,
 			"height": 50,
 			"seed": 1648083139,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668240,
+			"updated": 1691672879463,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -9486,7 +9467,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "fnI-R6UmaXkH1t5ZCGvBI",
 			"originalText": "Cinematic Title",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
@@ -9524,8 +9505,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 187,
-			"versionNonce": 136461298,
+			"version": 189,
+			"versionNonce": 570690677,
 			"isDeleted": false,
 			"id": "Yo1XFulB",
 			"fillStyle": "hachure",
@@ -9534,18 +9515,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -593.0291666965447,
+			"x": -594.1991343479119,
 			"y": -379.62170448580315,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 97,
+			"width": 99.33993530273438,
 			"height": 25,
 			"seed": 1421256717,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668240,
+			"updated": 1691672879465,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -9557,7 +9538,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "X5CGBxh53j0De92UPrSUL",
 			"originalText": "Main Menu",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -9624,8 +9605,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 270,
-			"versionNonce": 1896513134,
+			"version": 272,
+			"versionNonce": 1460975061,
 			"isDeleted": false,
 			"id": "FlNNEoYi",
 			"fillStyle": "hachure",
@@ -9634,18 +9615,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1082.8275351170084,
+			"x": -1082.8275122288248,
 			"y": -56.02015473841294,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 71,
+			"width": 70.99995422363281,
 			"height": 25,
 			"seed": 1889988121,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668240,
+			"updated": 1691672879466,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -9657,7 +9638,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "n3FZ3cSvU3Md_-RmXigCs",
 			"originalText": "START",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -9695,8 +9676,8 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		},
 		{
 			"type": "text",
-			"version": 258,
-			"versionNonce": 1414299822,
+			"version": 260,
+			"versionNonce": 1795765045,
 			"isDeleted": false,
 			"id": "D2d1xSMr",
 			"fillStyle": "hachure",
@@ -9705,18 +9686,18 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1073.5093144582725,
-			"y": 38.207179024016,
+			"x": -1073.6892995046592,
+			"y": 38.20717902401611,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 55,
+			"width": 55.35997009277344,
 			"height": 25,
 			"seed": 1732586553,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691391668240,
+			"updated": 1691672879467,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -9728,7 +9709,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": "a96M2AzcPlNNkbqJGCl04",
 			"originalText": "QUIT",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -9746,7 +9727,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"y": -383.4949820520768,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 402,
+			"width": 405.6996765136719,
 			"height": 25,
 			"seed": 1478519129,
 			"groupIds": [],
@@ -9765,7 +9746,7 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"containerId": null,
 			"originalText": "Cutscene to go to the Main Menu screen",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "freedraw",
@@ -13453,12 +13434,12 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			]
 		},
 		{
-			"id": "orMyJLcddSRTzzdYQlPuR",
-			"type": "freedraw",
-			"x": -1380.8448201108104,
-			"y": 65.16844194322539,
-			"width": 76.57139369419633,
-			"height": 127.42854527064736,
+			"id": "XTNuy0YH",
+			"type": "text",
+			"x": -1760.5955608997026,
+			"y": 461.07847024398563,
+			"width": 257.9197998046875,
+			"height": 450,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -13470,191 +13451,32 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 752448178,
-			"version": 34,
-			"versionNonce": 1473410418,
-			"isDeleted": true,
+			"seed": 342644699,
+			"version": 479,
+			"versionNonce": 1457404731,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1691391658141,
+			"updated": 1691674526565,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-3.4286063058034415,
-					5.714285714285722
-				],
-				[
-					-8.571428571428442,
-					17.714276994977695
-				],
-				[
-					-13.142874581473052,
-					30.857151576450917
-				],
-				[
-					-17.142857142856883,
-					46.28570556640631
-				],
-				[
-					-17.714320591517662,
-					58.28574044363842
-				],
-				[
-					-16.00001743861594,
-					68.57142857142861
-				],
-				[
-					-8.000052315848052,
-					74.28571428571428
-				],
-				[
-					0,
-					70.28573172433033
-				],
-				[
-					11.428571428571558,
-					59.42858014787947
-				],
-				[
-					16.57139369419656,
-					51.99999128069197
-				],
-				[
-					34.28571428571445,
-					23.428562709263417
-				],
-				[
-					47.42850167410734,
-					-8.000008719308028
-				],
-				[
-					54.85709054129484,
-					-26.857125418526778
-				],
-				[
-					58.85707310267867,
-					-41.142839704241055
-				],
-				[
-					56.57139369419656,
-					-50.28568812779014
-				],
-				[
-					46.28566196986617,
-					-52.5714111328125
-				],
-				[
-					37.14285714285734,
-					-43.42856270926336
-				],
-				[
-					24.571358816964448,
-					-26.28570556640625
-				],
-				[
-					14.857090541294838,
-					-4.571402413504472
-				],
-				[
-					3.9999825613840585,
-					18.857160295758945
-				],
-				[
-					-5.142909458705162,
-					49.71431187220986
-				],
-				[
-					-7.4285888671875,
-					63.42856270926342
-				],
-				[
-					-6.285749162946331,
-					71.42857142857139
-				],
-				[
-					-2.8571428571426623,
-					74.85713413783486
-				],
-				[
-					5.142822265625,
-					74.28571428571428
-				],
-				[
-					13.714250837053669,
-					71.42857142857139
-				],
-				[
-					20.571376255580617,
-					65.71428571428572
-				],
-				[
-					27.999965122768117,
-					60.57141985212053
-				],
-				[
-					35.42855398995562,
-					57.14285714285717
-				],
-				[
-					41.71421595982156,
-					54.28571428571428
-				],
-				[
-					41.71421595982156,
-					54.28571428571428
-				]
-			],
-			"pressures": [
-				0.1904296875,
-				0.2109375,
-				0.220703125,
-				0.2607421875,
-				0.310546875,
-				0.357421875,
-				0.390625,
-				0.3974609375,
-				0.3974609375,
-				0.3916015625,
-				0.3857421875,
-				0.3525390625,
-				0.3671875,
-				0.3681640625,
-				0.3681640625,
-				0.359375,
-				0.318359375,
-				0.2958984375,
-				0.291015625,
-				0.330078125,
-				0.3798828125,
-				0.43359375,
-				0.4521484375,
-				0.4580078125,
-				0.453125,
-				0.4306640625,
-				0.388671875,
-				0.3251953125,
-				0.2734375,
-				0.1943359375,
-				0.0126953125,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				41.71421595982156,
-				54.28571428571428
-			]
+			"text": "PLAYER\n-----------------------\n* movement\n    + run / infinite runner\n    + sprint\n    + crouch\n    + jump\n    + climb ledge\n    + climb ladder / net\n    + wall jump\n    + zipline top / bottom\n    + swim\n    + press trigger\n    + jetpack\n    - push / pull\n    - charge jump\n    - dash\n    - double jump",
+			"rawText": "PLAYER\n-----------------------\n* movement\n    + run / infinite runner\n    + sprint\n    + crouch\n    + jump\n    + climb ledge\n    + climb ladder / net\n    + wall jump\n    + zipline top / bottom\n    + swim\n    + press trigger\n    + jetpack\n    - push / pull\n    - charge jump\n    - dash\n    - double jump",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 443,
+			"containerId": null,
+			"originalText": "PLAYER\n-----------------------\n* movement\n    + run / infinite runner\n    + sprint\n    + crouch\n    + jump\n    + climb ledge\n    + climb ladder / net\n    + wall jump\n    + zipline top / bottom\n    + swim\n    + press trigger\n    + jetpack\n    - push / pull\n    - charge jump\n    - dash\n    - double jump",
+			"lineHeight": 1.25
 		},
 		{
-			"id": "HSLEs9tEvOh0SvHCUnhKh",
-			"type": "freedraw",
-			"x": -1184.8448898652748,
-			"y": 133.16849425907355,
-			"width": 126.85712541852695,
-			"height": 10.85715157645086,
+			"id": "1WhKaQif",
+			"type": "text",
+			"x": -1467.5400053441467,
+			"y": 495.24513691065226,
+			"width": 230.15960693359375,
+			"height": 350,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -13666,243 +13488,98 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 483349166,
-			"version": 46,
-			"versionNonce": 1819806062,
-			"isDeleted": true,
+			"seed": 1173748155,
+			"version": 374,
+			"versionNonce": 1549750517,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1691391668241,
+			"updated": 1691674534000,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-3.428606305803669,
-					0
-				],
-				[
-					-6.857125418526948,
-					0
-				],
-				[
-					-18.28569684709828,
-					-1.14288330078125
-				],
-				[
-					-27.4285888671875,
-					-2.857142857142776
-				],
-				[
-					-34.857177734375,
-					-5.142865862165081
-				],
-				[
-					-46.28574916294633,
-					-9.14289202008922
-				],
-				[
-					-53.71433803013383,
-					-10.285731724330276
-				],
-				[
-					-58.85716029575883,
-					-10.85715157645086
-				],
-				[
-					-62.85714285714289,
-					-9.714311872209805
-				],
-				[
-					-66.85712541852695,
-					-9.14289202008922
-				],
-				[
-					-69.14289202008945,
-					-8.571428571428555
-				],
-				[
-					-72.00003487723211,
-					-9.14289202008922
-				],
-				[
-					-73.71433803013383,
-					-9.14289202008922
-				],
-				[
-					-76.00001743861617,
-					-9.14289202008922
-				],
-				[
-					-77.14285714285711,
-					-9.14289202008922
-				],
-				[
-					-78.85716029575883,
-					-9.14289202008922
-				],
-				[
-					-80,
-					-8.571428571428555
-				],
-				[
-					-81.14283970424117,
-					-8.571428571428555
-				],
-				[
-					-82.2857666015625,
-					-8.571428571428555
-				],
-				[
-					-83.42860630580367,
-					-8.571428571428555
-				],
-				[
-					-85.14290945870539,
-					-8.571428571428555
-				],
-				[
-					-86.85712541852695,
-					-8.571428571428555
-				],
-				[
-					-88.57142857142867,
-					-8.571428571428555
-				],
-				[
-					-90.85719517299117,
-					-8.00000871930797
-				],
-				[
-					-92.00003487723211,
-					-8.00000871930797
-				],
-				[
-					-94.857177734375,
-					-8.00000871930797
-				],
-				[
-					-96.00001743861617,
-					-8.00000871930797
-				],
-				[
-					-100,
-					-8.00000871930797
-				],
-				[
-					-102.2857666015625,
-					-8.00000871930797
-				],
-				[
-					-103.99998256138383,
-					-8.00000871930797
-				],
-				[
-					-104.57144601004461,
-					-7.4285888671875
-				],
-				[
-					-106.85712541852695,
-					-7.4285888671875
-				],
-				[
-					-108.00005231584828,
-					-6.857169015066916
-				],
-				[
-					-112.5714111328125,
-					-6.285749162946331
-				],
-				[
-					-114.28571428571445,
-					-6.285749162946331
-				],
-				[
-					-116.57148088727695,
-					-5.714285714285666
-				],
-				[
-					-119.42862374441961,
-					-5.142865862165081
-				],
-				[
-					-123.99998256138383,
-					-4.000026157924026
-				],
-				[
-					-125.14290945870539,
-					-4.000026157924026
-				],
-				[
-					-126.85712541852695,
-					-3.428606305803555
-				],
-				[
-					-125.14290945870539,
-					-3.428606305803555
-				],
-				[
-					-114.857177734375,
-					-10.285731724330276
-				],
-				[
-					-114.857177734375,
-					-10.285731724330276
-				]
-			],
-			"pressures": [
-				0.2490234375,
-				0.275390625,
-				0.2998046875,
-				0.4267578125,
-				0.4619140625,
-				0.4892578125,
-				0.5205078125,
-				0.5205078125,
-				0.5126953125,
-				0.51953125,
-				0.51953125,
-				0.51953125,
-				0.5146484375,
-				0.5126953125,
-				0.5126953125,
-				0.5126953125,
-				0.5205078125,
-				0.5205078125,
-				0.5205078125,
-				0.5205078125,
-				0.5205078125,
-				0.515625,
-				0.513671875,
-				0.513671875,
-				0.513671875,
-				0.517578125,
-				0.521484375,
-				0.5244140625,
-				0.5390625,
-				0.5390625,
-				0.5390625,
-				0.5419921875,
-				0.546875,
-				0.552734375,
-				0.5693359375,
-				0.564453125,
-				0.56640625,
-				0.5703125,
-				0.578125,
-				0.580078125,
-				0.580078125,
-				0.4716796875,
-				0.0166015625,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-114.857177734375,
-				-10.285731724330276
-			]
+			"text": "LEVEL STRUCTURES\n----------------------------\n+ floor\n+ death zone\n+ ziplines top / bottom\n+ water\n+ push areas\n+ trigger areas\n+ moving platforms\n+ moving ladders\n+ rotating platforms\n+ path mover\n- elevator\n",
+			"rawText": "LEVEL STRUCTURES\n----------------------------\n+ floor\n+ death zone\n+ ziplines top / bottom\n+ water\n+ push areas\n+ trigger areas\n+ moving platforms\n+ moving ladders\n+ rotating platforms\n+ path mover\n- elevator\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 343,
+			"containerId": null,
+			"originalText": "LEVEL STRUCTURES\n----------------------------\n+ floor\n+ death zone\n+ ziplines top / bottom\n+ water\n+ push areas\n+ trigger areas\n+ moving platforms\n+ moving ladders\n+ rotating platforms\n+ path mover\n- elevator\n",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 1046,
+			"versionNonce": 1732483163,
+			"isDeleted": true,
+			"id": "yR2XCUWk",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1997.6884368238652,
+			"y": 520.7069390436827,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 172.6197052001953,
+			"height": 375,
+			"seed": 1011417484,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1691674326513,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Abilities \n-------------------\n- Crouch\n- Jump\n- Pull / Push\n- Sling Shot Jump\n- Edge Climb\n- Climb ladder\n- Elevator\n---------------------\n- Wall Jump\n- Wall Slide\n- Slide\n- ZipLine\n",
+			"rawText": "Abilities \n-------------------\n- Crouch\n- Jump\n- Pull / Push\n- Sling Shot Jump\n- Edge Climb\n- Climb ladder\n- Elevator\n---------------------\n- Wall Jump\n- Wall Slide\n- Slide\n- ZipLine\n",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Abilities \n-------------------\n- Crouch\n- Jump\n- Pull / Push\n- Sling Shot Jump\n- Edge Climb\n- Climb ladder\n- Elevator\n---------------------\n- Wall Jump\n- Wall Slide\n- Slide\n- ZipLine\n",
+			"lineHeight": 1.25,
+			"baseline": 368
+		},
+		{
+			"id": "z9i9WKTO",
+			"type": "text",
+			"x": -1706.1511164552585,
+			"y": 531.0784702439855,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1652425371,
+			"version": 2,
+			"versionNonce": 239945877,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1691673364020,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -13920,10 +13597,10 @@ Cutscene to go to the Main Menu screen ^jqAvLTlE
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2166.8449247425065,
-		"scrollY": 389.5458372315791,
+		"scrollX": 2727.6193704235147,
+		"scrollY": 1075.9423630893448,
 		"zoom": {
-			"value": 0.7000000000000001
+			"value": 0.35
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
