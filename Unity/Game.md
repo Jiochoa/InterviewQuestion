@@ -1,5 +1,18 @@
 ```toc
 ```
+---
+current progress:
+```mermaid
+flowchart LR
+	MainMenu --> Cutscene_1
+	Cutscene_1 --> Level_1
+
+```
+
+
+---
+
+
 ## Story
 This is going to be the whole story from start to end.
 

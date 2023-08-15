@@ -325,6 +325,7 @@ clicks
 climb
 cq
 crouch
+current
 of
 once
 out
