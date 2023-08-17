@@ -6,7 +6,6 @@
       {
         "id": "ffa69e2a78182444",
         "type": "tabs",
-        "dimension": 40.405117270788914,
         "children": [
           {
             "id": "2563b1e6665ce36e",
@@ -19,16 +18,9 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "17fa2dd41f4fead4",
-        "type": "tabs",
-        "dimension": 59.594882729211086,
-        "children": [
+          },
           {
-            "id": "0e066ad8f21294e9",
+            "id": "00a807fd7431a095",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -37,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +202,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "0e066ad8f21294e9",
+  "active": "00a807fd7431a095",
   "lastOpenFiles": [
     "Unity/Game.md",
     "Unity/Levels.md",
