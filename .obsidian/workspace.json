@@ -8,29 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ca0cb9798e9452a",
+            "id": "8e6a1f5aa8558bc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/CyberCat QuickGame.md",
+                "file": "Unity/Transition Scenes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8e6a1f5aa8558bc2",
+            "id": "a1b4a731cc3cfc0e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Unity/CyberCat QuickLevels.md"
+                "file": "Unity/CyberCat Levels.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/CyberCat QuickLevels.md",
+                "file": "Unity/Transition Scenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/CyberCat QuickLevels.md",
+                "file": "Unity/Transition Scenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/CyberCat QuickLevels.md"
+                "file": "Unity/Transition Scenes.md"
               }
             }
           },
@@ -204,17 +203,28 @@
   },
   "active": "8e6a1f5aa8558bc2",
   "lastOpenFiles": [
-    "Unity/CyberCat QuickGame.md",
-    "Unity/CyberCat QuickLevels.md",
-    "Unity/CyberCat Game.md",
     "Unity/CyberCat Levels.md",
+    "Unity/Transition Scenes.md",
+    "Images/Pasted image 20230823123308.png",
     "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
+    "Main.md",
+    "Pasted image 20230823102242.png.md",
+    "Images/Pasted image 20230823103723.png",
+    "Images",
+    "Untitled/Untitled.md",
+    "Pasted image 20230823102042.png",
+    "Pasted image 20230823103334.png",
+    "Unity/CyberCat QuickGame.md",
+    "Pasted image 20230823103226.png",
+    "Pasted image 20230823102242.png",
+    "Pasted image 20230823102113.png",
+    "Unity/CyberCat Game.md",
+    "Unity/CyberCat QuickLevels.md",
     "Android + Jetpack/Diagram.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "AI/Useful Prompts.md",
     "AI/Using AI.md",
-    "Untitled/Untitled.md",
     "Unity",
     "Android + Jetpack/Untitled.md",
     "Untitled",
@@ -226,7 +236,6 @@
     "Android Studio/Kotlin & Jetpack compose/Drawing 2023-06-20 20.57.36.excalidraw.md",
     "README.md",
     "Pasted image 20230529053608.png",
-    "Main.md",
     "Data Structures/Symbolic.excalidraw.md",
     "AI",
     "Android Studio/Kotlin & Jetpack compose/TODO.md",
@@ -236,19 +245,8 @@
     "Android Studio",
     "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.svg",
     "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md",
-    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
-    "Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
-    "Excalidraw/Main.excalidraw.md",
-    "CodeWars/Untitled Diagram.svg",
-    "LeetCode/Untitled Diagram.svg",
-    "Data Structures",
-    "Diagrams/Duck Diagram 1.svg",
-    "01 Observer Pattern/Untitled Diagram.svg",
-    "Pasted image 20230318133956.jpg"
+    "Excalidraw"
   ]
 }

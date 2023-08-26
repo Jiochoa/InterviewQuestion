@@ -42,3 +42,7 @@ As the player enters the apartment 2 that where the level will start. The player
 
 #### Level 9: Factory (floor 1)
 #### Level 10: Factory (floor 2)
+
+I still have no idea what is going on with the game, it seems that I might have missed some important basic things. I might have to take one of those tutorials. Also, I need to start the video tutorial on how to use the `2D Character Controller` 
+
+As for now I need to decide if I want the coin base system or something else like just a simple runner game. Which is not too bad but I would need to do a lot more of art since there's no going back to pick up coins.
