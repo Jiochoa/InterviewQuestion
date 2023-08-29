@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Cutscenes.md",
+                "file": "Unity/Light Sources & Foreground blur.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Cutscenes.md",
+                "file": "Unity/Light Sources & Foreground blur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/Cutscenes.md",
+                "file": "Unity/Light Sources & Foreground blur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/Cutscenes.md"
+                "file": "Unity/Light Sources & Foreground blur.md"
               }
             }
           },
@@ -203,8 +203,9 @@
   },
   "active": "8e6a1f5aa8558bc2",
   "lastOpenFiles": [
-    "Unity/Transition Scenes.md",
     "Unity/Cutscenes.md",
+    "Unity/Light Sources & Foreground blur.md",
+    "Unity/Transition Scenes.md",
     "Unity/CyberCat QuickLevels.md",
     "Unity/CyberCat QuickGame.md",
     "Unity/CyberCat Game.md",
@@ -245,7 +246,6 @@
     "Android Studio/Kotlin & Jetpack compose",
     "Android Studio",
     "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.svg",
-    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw"
