@@ -26,6 +26,9 @@ SJ
 Script
 StartCoroutine
 SceneManager
+Setup
+Settings
+Slow
 This
 The
 Tutorial
@@ -38,6 +41,9 @@ There
 Try
 Tutorials
 That
+Trying
+To
+Theres
 is
 in
 it
@@ -64,6 +70,10 @@ interactable
 interview
 immediately
 int
+illuminated
+inner
+ignore
+incomplete
 going
 get
 game
@@ -83,6 +93,7 @@ gK
 gJBiAT
 good
 gQ
+ground
 to
 the
 tutorial
@@ -136,6 +147,9 @@ transitions
 transitionTime
 testing
 talk
+turn
+thta
+tree
 be
 butterfly
 but
@@ -206,6 +220,7 @@ wRTq
 wKbEFf
 wG
 waitForSeconds
+why
 story
 start
 stand
@@ -282,6 +297,13 @@ same
 steps
 setTrigger
 section
+shape
+shaped
+spots
+sun
+sprites
+stages
+slow
 from
 for
 first
@@ -317,6 +339,10 @@ full
 fff
 float
 finish
+fix
+few
+form
+foreground
 end
 escape
 elevator
@@ -350,6 +376,8 @@ else
 eY
 each
 eWQQ
+earlier
+enemies
 Level
 Look
 Long
@@ -369,6 +397,8 @@ LevelLoarer
 LoadNextLevel
 LoadLevel
 LoadScene
+Lights
+Light
 parking
 player
 position
@@ -414,6 +444,8 @@ pO
 plug
 purposes
 pMOfPeGA
+previous
+pace
 lot
 level
 learn
@@ -436,6 +468,12 @@ last
 lccc
 levelIndex
 load
+lights
+light
+lamp
+lets
+layer
+lie
 Cutscene
 Code
 Credit
@@ -462,6 +500,7 @@ Canvas
 Crossfade
 Circle
 CircleWipe
+CCv
 cutscene
 cat
 charge
@@ -520,6 +559,12 @@ condition
 coroutine
 calling
 cutscenes
+create
+created
+choose
+could
+check
+controllers
 of
 once
 out
@@ -549,6 +594,7 @@ ob
 oZfjVG
 option
 ogg
+outer
 after
 again
 along
@@ -604,6 +650,9 @@ application
 accordingly
 aside
 about
+assign
+adjusted
+angles
 hand
 have
 how
@@ -643,6 +692,7 @@ returns
 right
 rcQWW
 return
+re
 jump
 joke
 just
@@ -661,6 +711,7 @@ Opbed
 On
 Om
 Outro
+One
 move
 movements
 maybe
@@ -694,6 +745,7 @@ md
 mmm
 mjjRuD
 mii
+minimalist
 different
 do
 down
@@ -764,6 +816,7 @@ Note
 NHh
 New
 Np
+Not
 zoom
 zipline
 ziplining
@@ -788,6 +841,9 @@ usknR
 uHCHNibH
 uEUEfM
 uuu
+upgraded
+uses
+us
 Might
 Mechanics
 Movements
@@ -850,6 +906,10 @@ PhQR
 Pomodoro
 Python
 Pv
+Project
+Pink
+Pipeline
+Point
 you
 your
 yt
@@ -866,6 +926,7 @@ valet
 video
 vtt
 vuww
+version
 Interactions
 Install
 Intro
@@ -890,6 +951,9 @@ UlGhBpfj
 UQBo
 UU
 Update
+UniversalRP
+URP
+Use
 What
 Where
 While
@@ -909,12 +973,14 @@ Work
 Ws
 WJqiBa
 Wipe
+With
 How
 HM
 HC
 Hang
 Hjmg
 HUSoO
+Has
 Questions
 Quit
 QZ
@@ -969,6 +1035,7 @@ Room
 Record
 Raycast
 RuemmRxY
+Requires
 End
 EXCALIDRAW
 Elements
@@ -980,6 +1047,8 @@ Edge
 EkNz
 EpxldSKq
 Every
+Edit
+Everything
 Factory
 FlNNEoYi
 FcXUNDlm
@@ -987,10 +1056,13 @@ Features
 FYZraF
 For
 FA
+Free
+Form
 VIEW
 VNBXdAFo
 VzRCZTgr
 VYy
+Versions
 KOmb
 KiHeXge
 KcAAtuak
@@ -1015,6 +1087,8 @@ GG
 GS
 GetMouseButtonDown
 GetActiveScene
+Glow
+Graphics
 XnebrG
 XFxnWaUJ
 XFulB
@@ -1052,6 +1126,7 @@ kitchen
 kyuLcY
 kGsgu
 key
+know
 YJ
 Yo
 YH
@@ -1067,3 +1142,4 @@ Br
 Building
 Bg
 Bi
+Blur

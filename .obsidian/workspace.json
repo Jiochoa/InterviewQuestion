@@ -23,10 +23,8 @@
             "id": "a1b4a731cc3cfc0e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Unity/CyberCat Levels.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -197,8 +195,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "8e6a1f5aa8558bc2",
@@ -206,10 +204,10 @@
     "Unity/Cutscenes.md",
     "Unity/Light Sources & Foreground blur.md",
     "Unity/Transition Scenes.md",
-    "Unity/CyberCat QuickLevels.md",
     "Unity/CyberCat QuickGame.md",
     "Unity/CyberCat Game.md",
     "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
+    "Unity/CyberCat QuickLevels.md",
     "Unity/CyberCat Levels.md",
     "Images/Pasted image 20230823123308.png",
     "Main.md",

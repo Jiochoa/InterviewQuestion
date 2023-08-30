@@ -14,3 +14,14 @@ This section will talk about how to make cutscenes. Starting with `Intro Scene -
 
 
 ## Any Intro Cutscene -> Outro Cutscene
+
+
+
+
+
+
+
+
+
+
+
