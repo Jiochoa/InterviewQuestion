@@ -21,6 +21,7 @@ Free-Form can be shaped. As for why? Not sure yet. we could use it to light up t
 
 Sprite-Light. With this one we can pick a different shape like spots lie those done when the sun is on top of a tree. 
 
+TODO: the lights are showing on every layer. need them for only a couple of layers
 ## Blur
 
 

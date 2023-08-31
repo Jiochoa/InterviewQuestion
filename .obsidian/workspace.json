@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Light Sources & Foreground blur.md",
+                "file": "Unity/CyberCat QuickGame.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a1b4a731cc3cfc0e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -110,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Light Sources & Foreground blur.md",
+                "file": "Unity/CyberCat QuickGame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/Light Sources & Foreground blur.md",
+                "file": "Unity/CyberCat QuickGame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/Light Sources & Foreground blur.md"
+                "file": "Unity/CyberCat QuickGame.md"
               }
             }
           },
@@ -201,8 +193,8 @@
   },
   "active": "8e6a1f5aa8558bc2",
   "lastOpenFiles": [
-    "Unity/Cutscenes.md",
     "Unity/Light Sources & Foreground blur.md",
+    "Unity/Cutscenes.md",
     "Unity/Transition Scenes.md",
     "Unity/CyberCat QuickGame.md",
     "Unity/CyberCat Game.md",

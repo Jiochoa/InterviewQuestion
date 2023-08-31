@@ -44,6 +44,7 @@ That
 Trying
 To
 Theres
+TODO
 is
 in
 it
@@ -304,6 +305,7 @@ sun
 sprites
 stages
 slow
+showing
 from
 for
 first
@@ -474,6 +476,7 @@ lamp
 lets
 layer
 lie
+layers
 Cutscene
 Code
 Credit
@@ -565,6 +568,7 @@ choose
 could
 check
 controllers
+couple
 of
 once
 out
@@ -653,6 +657,7 @@ about
 assign
 adjusted
 angles
+assets
 hand
 have
 how
@@ -693,6 +698,7 @@ right
 rcQWW
 return
 re
+redo
 jump
 joke
 just
@@ -746,6 +752,7 @@ mmm
 mjjRuD
 mii
 minimalist
+mobile
 different
 do
 down
