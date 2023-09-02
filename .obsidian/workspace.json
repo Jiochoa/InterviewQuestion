@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/CyberCat QuickGame.md",
-                "mode": "source",
+                "file": "Unity/Light Sources & Foreground blur.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/CyberCat QuickGame.md",
+                "file": "Unity/Light Sources & Foreground blur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/CyberCat QuickGame.md",
+                "file": "Unity/Light Sources & Foreground blur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/CyberCat QuickGame.md"
+                "file": "Unity/Light Sources & Foreground blur.md"
               }
             }
           },
@@ -193,14 +193,14 @@
   },
   "active": "8e6a1f5aa8558bc2",
   "lastOpenFiles": [
-    "Unity/Light Sources & Foreground blur.md",
-    "Unity/Cutscenes.md",
     "Unity/Transition Scenes.md",
     "Unity/CyberCat QuickGame.md",
+    "Unity/CyberCat Levels.md",
     "Unity/CyberCat Game.md",
+    "Unity/Cutscenes.md",
+    "Unity/Light Sources & Foreground blur.md",
     "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
     "Unity/CyberCat QuickLevels.md",
-    "Unity/CyberCat Levels.md",
     "Images/Pasted image 20230823123308.png",
     "Main.md",
     "Pasted image 20230823102242.png.md",
