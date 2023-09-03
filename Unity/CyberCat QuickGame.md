@@ -1,9 +1,16 @@
- ```toc
-```
-
-
+---
+aliases:
+  - Gaming
+tags:
+  - 2D
+  - Pixel
+  - Art
+  - Unity2D
+test:
 ---
 
+```toc
+```
 ---
 This is going to be a quick game, mostly because I'm running out of time so I will focus only on what I already have and use that to make a fun game but most of what's going to suffer is in the story telling of the game. The art seems fine so I will still use that, though I still need to make more for level variation. 
 
