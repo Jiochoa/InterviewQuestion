@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/CyberCat QuickGame.md",
-                "mode": "preview",
+                "file": "Unity/Game Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65803401fea5f60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Light Sources & Foreground blur.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/CyberCat QuickGame.md",
+                "file": "Unity/Light Sources & Foreground blur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/CyberCat QuickGame.md",
+                "file": "Unity/Light Sources & Foreground blur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/CyberCat QuickGame.md"
+                "file": "Unity/Light Sources & Foreground blur.md"
               }
             }
           },
@@ -202,15 +214,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e6a1f5aa8558bc2",
+  "active": "65803401fea5f60b",
   "lastOpenFiles": [
-    "Unity/CyberCat QuickLevels.md",
+    "Unity/Game Manager.md",
+    "Unity/Cutscenes.md",
     "Unity/CyberCat QuickGame.md",
+    "Unity/CyberCat QuickLevels.md",
     "Unity/CyberCat Game.md",
     "Unity/CyberCat Levels.md",
-    "Unity/Game Manager.md",
     "Unity/Light Sources & Foreground blur.md",
-    "Unity/Cutscenes.md",
     "Unity/Transition Scenes.md",
     "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
     "Images/Pasted image 20230823123308.png",

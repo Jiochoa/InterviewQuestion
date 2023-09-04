@@ -125,6 +125,8 @@ The player will reach the gray cat but this will not notice and keep running and
 
 
 
+
+
 I still have no idea what is going on with the game, it seems that I might have missed some important basic things. I might have to take one of those tutorials. Also, I need to start the video tutorial on how to use the `2D Character Controller` 
 
 As for now I need to decide if I want the coin base system or something else like just a simple runner game. Which is not too bad but I would need to do a lot more of art since there's no going back to pick up coins.

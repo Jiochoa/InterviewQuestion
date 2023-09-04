@@ -159,6 +159,7 @@ toxic
 twisting
 traps
 timing
+track
 be
 butterfly
 but
@@ -236,6 +237,7 @@ wG
 waitForSeconds
 why
 waste
+whats
 story
 start
 stand
@@ -327,6 +329,7 @@ sustained
 skating
 swimming
 st
+sum
 from
 for
 first
@@ -408,6 +411,7 @@ enemies
 exits
 extend
 exploding
+enough
 Level
 Look
 Long
@@ -618,6 +622,8 @@ chandelier
 cameras
 corner
 conclude
+character
+collected
 of
 once
 out
@@ -757,6 +763,7 @@ redo
 rd
 revealing
 rain
+reason
 jump
 joke
 just
@@ -845,6 +852,7 @@ dims
 discovers
 detection
 disappearing
+display
 need
 neon
 next
@@ -918,6 +926,7 @@ uses
 us
 under
 updated
+unlocks
 Might
 Mechanics
 Movements
@@ -1172,6 +1181,7 @@ GetActiveScene
 Glow
 Graphics
 Gaming
+Game
 XnebrG
 XFxnWaUJ
 XFulB
