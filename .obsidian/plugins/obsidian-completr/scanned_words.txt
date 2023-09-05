@@ -29,6 +29,7 @@ SceneManager
 Setup
 Settings
 Slow
+So
 This
 The
 Tutorial
@@ -78,6 +79,8 @@ ignore
 incomplete
 including
 introducing
+iteration
+itself
 going
 get
 game
@@ -330,6 +333,8 @@ skating
 swimming
 st
 sum
+somewhere
+said
 from
 for
 first
@@ -412,6 +417,7 @@ exits
 extend
 exploding
 enough
+entirely
 Level
 Look
 Long
@@ -731,6 +737,7 @@ hsmRdwOT
 hard
 hammers
 he
+hidden
 rail
 room
 reach
@@ -764,6 +771,7 @@ rd
 revealing
 rain
 reason
+reference
 jump
 joke
 just
@@ -897,6 +905,7 @@ NHh
 New
 Np
 Not
+No
 zoom
 zipline
 ziplining
@@ -927,6 +936,7 @@ us
 under
 updated
 unlocks
+unlocking
 Might
 Mechanics
 Movements
@@ -1029,6 +1039,7 @@ IDATx
 Interview
 IEND
 IEnumerator
+In
 Unity
 UI
 UxvXF
@@ -1149,6 +1160,7 @@ For
 FA
 Free
 Form
+FszQnp
 VIEW
 VNBXdAFo
 VzRCZTgr
@@ -1182,6 +1194,7 @@ Glow
 Graphics
 Gaming
 Game
+GameManager
 XnebrG
 XFxnWaUJ
 XFulB
@@ -1222,6 +1235,7 @@ key
 know
 kill
 keep
+keys
 YJ
 Yo
 YH
