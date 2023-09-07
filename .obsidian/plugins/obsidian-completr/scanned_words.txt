@@ -30,6 +30,7 @@ Setup
 Settings
 Slow
 So
+STORAGE
 This
 The
 Tutorial
@@ -81,6 +82,7 @@ including
 introducing
 iteration
 itself
+ihRgbQ
 going
 get
 game
@@ -163,6 +165,8 @@ twisting
 traps
 timing
 track
+tmhBO
+tb
 be
 butterfly
 but
@@ -202,6 +206,7 @@ begin
 baskets
 broken
 big
+battery
 whole
 will
 with
@@ -418,6 +423,7 @@ extend
 exploding
 enough
 entirely
+eiPO
 Level
 Look
 Long
@@ -439,6 +445,8 @@ LoadLevel
 LoadScene
 Lights
 Light
+LJ
+LIkkF
 parking
 player
 position
@@ -630,6 +638,7 @@ corner
 conclude
 character
 collected
+center
 of
 once
 out
@@ -738,6 +747,7 @@ hard
 hammers
 he
 hidden
+hKd
 rail
 room
 reach
@@ -782,6 +792,7 @@ jetpack
 jh
 jjuPT
 jobs
+joystick
 Once
 OPTIONS
 OBxeOJcW
@@ -791,6 +802,7 @@ On
 Om
 Outro
 One
+OVmNgDoJ
 move
 movements
 maybe
@@ -937,6 +949,7 @@ under
 updated
 unlocks
 unlocking
+uCUZjon
 Might
 Mechanics
 Movements
@@ -1006,6 +1019,7 @@ Pink
 Pipeline
 Point
 Pixel
+Ps
 you
 your
 yt
@@ -1040,6 +1054,7 @@ Interview
 IEND
 IEnumerator
 In
+IShUoUXe
 Unity
 UI
 UxvXF
@@ -1135,6 +1150,7 @@ Raycast
 RuemmRxY
 Requires
 Roof
+ROOM
 End
 EXCALIDRAW
 Elements
@@ -1175,6 +1191,7 @@ Kmq
 Kd
 Kotlin
 Khz
+Kmm
 GJioXrEd
 Get
 GBHPMFQy
