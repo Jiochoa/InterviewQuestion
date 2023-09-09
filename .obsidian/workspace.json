@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -192,14 +193,14 @@
   "active": "2a5acc4fc696b097",
   "lastOpenFiles": [
     "Unity/CyberCat QuickGame.md",
-    "Unity/CyberCat Levels.md",
-    "Unity/CyberCat Game.md",
     "Unity/CyberCat QuickLevels.md",
+    "Unity/CyberCat Levels.md",
     "Unity/000 Needed Animation.md",
     "Unity/ElectricDoor.md",
     "Unity/Game Manager.md",
-    "Unity/Transition Scenes.md",
     "Unity/Light Sources & Foreground blur.md",
+    "Unity/Transition Scenes.md",
+    "Unity/CyberCat Game.md",
     "Unity/Cutscenes.md",
     "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
     "Images/Pasted image 20230823123308.png",
