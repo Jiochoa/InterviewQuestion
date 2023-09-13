@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -167,6 +166,16 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {}
+            }
+          },
+          {
+            "id": "93539f4cbf4f7c18",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
