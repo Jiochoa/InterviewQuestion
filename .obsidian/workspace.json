@@ -16,6 +16,18 @@
                 "file": "Unity/CyberCat QuickLevels.md"
               }
             }
+          },
+          {
+            "id": "227ae976273f2a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/CyberCat QuickGame.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -84,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd9d8be6b514de6c",

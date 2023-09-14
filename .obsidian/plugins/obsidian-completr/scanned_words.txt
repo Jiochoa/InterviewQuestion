@@ -36,6 +36,9 @@ Saz
 Solid
 Stairs
 Sb
+Small
+SP
+SbR
 This
 The
 Tutorial
@@ -54,6 +57,7 @@ Theres
 TODO
 Toxic
 Trigger
+TRHw
 is
 in
 it
@@ -90,6 +94,7 @@ iteration
 itself
 ihRgbQ
 id
+iS
 going
 get
 game
@@ -117,6 +122,9 @@ gw
 gOvTKXWp
 gx
 gYrz
+gpoQ
+guacTqe
+gZMdZX
 to
 the
 tutorial
@@ -230,6 +238,9 @@ big
 battery
 bPrHLEZ
 bsl
+bu
+bZcJ
+bbmkZ
 whole
 will
 with
@@ -270,6 +281,8 @@ why
 waste
 whats
 wAoKY
+wwNZPC
+wahCnPZy
 story
 start
 stand
@@ -368,6 +381,10 @@ surface
 ss
 sEOwk
 sT
+sZpJSN
+sn
+sJ
+sBIslQZQ
 from
 for
 first
@@ -414,6 +431,8 @@ falling
 fPJok
 faSkZ
 fpEFNX
+feAbb
+fGuIvcW
 end
 escape
 elevator
@@ -455,6 +474,9 @@ exploding
 enough
 entirely
 eiPO
+ekojt
+eS
+eZBQr
 Level
 Look
 Long
@@ -539,6 +561,7 @@ pc
 pgHjHd
 pd
 prbm
+pF
 lot
 level
 learn
@@ -580,6 +603,11 @@ later
 ls
 ljAtO
 lfFdwqdF
+lclrqJ
+lTApTuu
+lpu
+lLvwW
+lXS
 Cutscene
 Code
 Credit
@@ -609,6 +637,7 @@ CircleWipe
 CCv
 City
 CdRnczMT
+CNRRg
 cutscene
 cat
 charge
@@ -687,6 +716,9 @@ center
 closing
 cVqwfMP
 cvAj
+cYgTMW
+cOp
+cspYCD
 of
 once
 out
@@ -720,6 +752,7 @@ outer
 opening
 openable
 oi
+oIU
 after
 again
 along
@@ -783,6 +816,10 @@ approach
 across
 aliases
 alFOG
+ayRZy
+aeM
+arQCcrik
+afVaeu
 hand
 have
 how
@@ -799,6 +836,9 @@ hammers
 he
 hidden
 hKd
+hR
+huC
+hYzv
 rail
 room
 reach
@@ -840,6 +880,8 @@ rcxZwvrr
 ru
 rUJuEgVt
 rotate
+rNK
+rCTucB
 jump
 joke
 just
@@ -853,6 +895,7 @@ jobs
 joystick
 jT
 jgjGDFQJ
+jw
 Once
 OPTIONS
 OBxeOJcW
@@ -867,6 +910,8 @@ Or
 OwWBBMAz
 OmXtdYMs
 OOIEHUpZ
+Ott
+Oum
 move
 movements
 maybe
@@ -904,6 +949,7 @@ minimalist
 mobile
 mainly
 many
+ms
 different
 do
 down
@@ -939,6 +985,8 @@ detection
 disappearing
 display
 doors
+ds
+dMeJ
 need
 neon
 next
@@ -970,6 +1018,7 @@ needed
 nd
 none
 ngH
+nz
 Now
 Need
 NrlQHM
@@ -1024,6 +1073,9 @@ uCUZjon
 uXnijJXE
 uMWJQ
 ubo
+uwD
+uik
+uqPkrEdd
 Might
 Mechanics
 Movements
@@ -1047,6 +1099,10 @@ MmUauxRW
 Mx
 MvF
 MPeyQRai
+MF
+MeGFYm
+MS
+MVi
 After
 As
 All
@@ -1078,6 +1134,10 @@ Any
 At
 Art
 Ak
+AD
+AeL
+APK
+ARr
 Puzzle
 Play
 Push
@@ -1104,6 +1164,10 @@ PgICXE
 PzFp
 PJr
 PnRsWLHd
+PkaS
+PJCssn
+PlPrWAsu
+Px
 you
 your
 yt
@@ -1147,6 +1211,8 @@ Inner
 IyWeT
 Ic
 IdZ
+IHUut
+Ieu
 Unity
 UI
 UxvXF
@@ -1161,6 +1227,9 @@ Use
 UQ
 Uh
 UmRfaHtU
+UDp
+Ufsh
+Uzx
 What
 Where
 While
@@ -1185,6 +1254,7 @@ WHpwLocj
 Wwk
 WVPku
 WeKaoms
+WL
 How
 HM
 HC
@@ -1196,6 +1266,8 @@ He
 HxJotM
 HA
 HwHwdQ
+HxGHlKaL
+HOju
 Questions
 Quit
 QZ
@@ -1212,6 +1284,8 @@ QLBfmGFP
 Qobau
 QVx
 QhcK
+QyTpN
+QH
 Jump
 JWe
 JumpParticles
@@ -1224,6 +1298,8 @@ JT
 Jobs
 Jc
 JtW
+JGcjAOWy
+JDkT
 Do
 Don
 DLyswqdy
@@ -1268,6 +1344,8 @@ Roof
 ROOM
 RG
 RFIsqh
+RwZP
+RaoRS
 End
 EXCALIDRAW
 Elements
@@ -1300,6 +1378,11 @@ Form
 FszQnp
 FDKts
 FxP
+FP
+FgL
+Fx
+FW
+Fb
 VIEW
 VNBXdAFo
 VzRCZTgr
@@ -1321,6 +1404,10 @@ KnEWh
 KWPalgEf
 KoYjDV
 KT
+KrGX
+KunU
+KKePzVhL
+KTEIXHJM
 GJioXrEd
 Get
 GBHPMFQy
@@ -1342,6 +1429,9 @@ Gaming
 Game
 GameManager
 GAME
+GE
+GEjGnW
+GXDT
 XnebrG
 XFxnWaUJ
 XFulB
@@ -1351,6 +1441,8 @@ XJE
 Xh
 XLWkmYUG
 XANHP
+XVNkX
+Xz
 qwBuPV
 qL
 qttWw
@@ -1366,6 +1458,8 @@ qqT
 qpOJpWsH
 qXcU
 qa
+qwDHrJZ
+qRg
 Zjzee
 ZfLC
 ZWnqF
@@ -1374,6 +1468,7 @@ ZEkI
 Zone
 Zr
 ZB
+ZkpGZ
 xbzj
 xAcZOHy
 xSMr
@@ -1383,6 +1478,10 @@ xBvVLrS
 xw
 xu
 xrldiemm
+xN
+xijtMLf
+xih
+xzs
 kitchen
 kyuLcY
 kGsgu
@@ -1392,6 +1491,10 @@ kill
 keep
 keys
 kSkVo
+kRIprC
+kN
+kR
+kCiUov
 YJ
 Yo
 YH
@@ -1402,6 +1505,8 @@ Yl
 YIIKWmj
 YMgGNiLK
 YC
+Yqzk
+YdJmB
 Be
 BC
 Bd
@@ -1411,3 +1516,6 @@ Building
 Bg
 Bi
 Blur
+BBuq
+BAMQF
+BApCx
