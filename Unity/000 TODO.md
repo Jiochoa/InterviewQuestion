@@ -13,9 +13,9 @@ The plan for today will be to finish the UI including how the items interact wit
 Bit of a change in pace since i getting board and I feel i need some variation.
 
 - Interview questions
+- Learning something new in Unity[^2]
 - The Game
 - Learning something in Unreal Engine [^1]
-- Learning something new in Unity[^2]
 
 ### Interview Questions
 I'm going to start my day, hopefully before working out, with an interview question to learn remind myself of java and design patterns and what not. to make it more specific, I will try to finish the problem in the first hour then the last half hour I'm going to simulate an interview question. i might record it just to make it more realistic. 

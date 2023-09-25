@@ -209,3 +209,12 @@ Play cinematic then end the scene by switching to level 2
 
 [^1]: Need to find a way to save the progress. maybe just the level
 [^2]: Don't overwhelm the player, just show necessary for completing the next level
+
+
+#### Features
+I cant think about anything new that it needs, though, I guess it needs a lot of things that I just haven't give it a thought like the acid puddles or the rain (acid rain)
+
+- acid puddles
+- rain
+	- acid rain
+- 
