@@ -2,12 +2,15 @@
 ```
 
 ## What will i do right now
-The plan for today will be to finish the UI including how the items interact with the player i.e. Player picking up batteries and the meter filling in the right direction.
+The plan for tomorrow:
+Levels 1, 2, and 3 have something in them, the rest don't. I'm thinking in putting something in them to at least have something to show. I also need to get some opinions on the art, I think its good but I might get some new ideas and opinions. Also I might get people excited and make them want to donate money. This includes youTube video tutorials to get even more people. St up a go fund me
 
-- need full battery Sprite
-- need joystick sprites off-center
 
-- need cat swimming
+- [ ] Get a background on every level
+- [ ] Start thinking on where to post some demos of the art for criticism
+- [ ] Make a script for a Unity tutorial thatshocase the Game
+- [ ] Social media for the page as well as donation pages set up
+
 
 ## The Plan
 Bit of a change in pace since i getting board and I feel i need some variation.
