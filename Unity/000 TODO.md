@@ -3,14 +3,8 @@
 
 ## What will i do right now
 The plan for tomorrow:
-Levels 1, 2, and 3 have something in them, the rest don't. I'm thinking in putting something in them to at least have something to show. I also need to get some opinions on the art, I think its good but I might get some new ideas and opinions. Also I might get people excited and make them want to donate money. This includes youTube video tutorials to get even more people. St up a go fund me
-
-
-- [ ] Get a background on every level
-- [ ] Start thinking on where to post some demos of the art for criticism
-- [ ] Make a script for a Unity tutorial that showcase the Game
-- [ ] Social media for the page as well as donation pages set up
-
+Make a Aseprite for every level. from top to bottom how It should look. Its important to have something to aim for and this will be it. Il do it in one file so it doesnt take too much space but it will have a lot of things.
+ 
 
 
 

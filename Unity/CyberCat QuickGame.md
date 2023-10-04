@@ -82,7 +82,7 @@ As the player reaches the top he will notice the gray cat running to the right a
 - [ ] decide on the background sunset / already dark
 
 #### Level 5: Building (Roof)
-The player will start at the top of the building. There will be a bunch of `acid puddles` as well as `cleaning drones` and some cloth drying in the sun (`nets`)  that will be hold by ropes (`zipline cables`)  The player will then need to move forward in to a corner of the building. At the end of the building the level will end.
+The player will start at the top of the building when the sun has already set. There will be a bunch of `acid puddles` as well as `cleaning drones` and some cloth drying in the sun (`nets`)  that will be hold by ropes (`zipline cables`)  The player will then need to move forward in to a corner of the building. At the end of the building the level will end.
 
 **Exit Cutscene:**
 The player will stop for a second to see the ads being lifter by drones and plan its way around that.
@@ -93,8 +93,12 @@ The player will stop for a second to see the ads being lifter by drones and plan
 - introduce zipline
 
 ##### What's Missing 5
+- [ ] cloth drying in hangers
+- [ ] sprites of night sky
 #### Level 6: Building (Zipline to the bottom)
-The player will start at the end of the building roof and will have to zipline its way to the ground. He will do this by using the ads flags that are being sustained by drones until he reaches the bottom where we will reach a back pond with a lake and lots of toxic waste.
+The player will start at the end of the building roof and will have to `zipline` using the ads its way to the ground. He will do this by using the ads flags that are being sustained by `drones` until he reaches the bottom where we will reach a back pond with a lake and lots of toxic waste.
+
+<u>Note to self</u>: This is meant to be an easy level and mainly for sightseeing so I need to make it pretty.
 
 **Exit Cutscene:**
 The player will get to the ground and walk past the broken entrance to the pond at the back of the Factory.
@@ -105,6 +109,10 @@ The player will get to the ground and walk past the broken entrance to the pond 
 - introduce falling with purpose
 
 ##### What's Missing 6
+- [ ] sprites of the ads
+- [ ] sprites of the drones holding the ads
+- [ ] sprites of night sky (Need to be really good and shiny)
+
 #### Level 7: Factory (Toxic pond)
 The player will land in a pond that is at the back of a factory. the and will have a lot of toxic waste as well as a swimming level which will have some traps and sightseeing. The level will end at the back entrance of the factory.
 
