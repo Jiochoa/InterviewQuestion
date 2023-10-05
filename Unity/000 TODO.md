@@ -3,7 +3,7 @@
 
 ## What will i do right now
 The plan for tomorrow:
-Make a Aseprite for every level. from top to bottom how It should look. Its important to have something to aim for and this will be it. Il do it in one file so it doesnt take too much space but it will have a lot of things.
+Make an Aseprite file for every level. F rom top to bottom how It should look. Its important to have something to aim for and this will be it. Il do it in one file so it doesnt take too much space but it will have a lot of things.
  
 
 

@@ -11,11 +11,9 @@
             "id": "2a5acc4fc696b097",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Unity/CyberCat QuickGame.md",
-                "mode": "preview",
-                "source": false
+                "file": "Unity/CyberCat QuickLevels.md"
               }
             }
           }
@@ -86,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/CyberCat QuickGame.md",
+                "file": "Unity/CyberCat QuickLevels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/CyberCat QuickGame.md",
+                "file": "Unity/CyberCat QuickLevels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/CyberCat QuickGame.md"
+                "file": "Unity/CyberCat QuickLevels.md"
               }
             }
           },
@@ -203,9 +202,9 @@
   },
   "active": "2a5acc4fc696b097",
   "lastOpenFiles": [
-    "Unity/CyberCat QuickLevels.md",
-    "Unity/000 TODO.md",
     "Unity/CyberCat QuickGame.md",
+    "Unity/000 TODO.md",
+    "Unity/CyberCat QuickLevels.md",
     "Unity/CyberCat Levels.md",
     "Unity/Light Sources & Foreground blur.md",
     "Unity/Transition Scenes.md",
