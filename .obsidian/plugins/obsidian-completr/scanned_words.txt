@@ -141,6 +141,7 @@ idI
 intersection
 iKQYbZRr
 iC
+iAgpdGr
 going
 get
 game
@@ -176,6 +177,7 @@ gym
 games
 guess
 gzAB
+grOt
 to
 the
 tutorial
@@ -272,6 +274,8 @@ taking
 teyHt
 tvD
 tYvJoi
+tncJt
+tZb
 be
 butterfly
 but
@@ -331,6 +335,7 @@ breaking
 bB
 bOac
 bdg
+bUUDYsIh
 whole
 will
 with
@@ -653,6 +658,7 @@ LfIt
 Levels
 LJb
 LzMeyaZJ
+LJguMUBL
 parking
 player
 position
@@ -1177,6 +1183,7 @@ rom
 rails
 release
 rock
+rDxdli
 jump
 joke
 just
@@ -1220,6 +1227,8 @@ OhCi
 OjVcavCE
 OOWQ
 OvwY
+OJiiaB
+OuBKsxvW
 move
 movements
 maybe
@@ -1272,6 +1281,7 @@ mess
 music
 mZqvbJmL
 mPsxN
+mLy
 different
 do
 down
@@ -1412,6 +1422,7 @@ za
 zBh
 zdE
 zCb
+zuxZptXJ
 up
 use
 unlock
@@ -1448,6 +1459,8 @@ uIYLdt
 undecided
 uxxGj
 uHKCy
+ujM
+uv
 Might
 Mechanics
 Movements
@@ -1528,6 +1541,7 @@ ABJt
 Aseprite
 Antenna
 AC
+AN
 Puzzle
 Play
 Push
@@ -1603,6 +1617,7 @@ viJOVSwq
 value
 vehicle
 vT
+vee
 Interactions
 Install
 Intro
@@ -1657,6 +1672,8 @@ UxP
 Unit
 UFffGIa
 UApgSMDH
+UKpRciiI
+UWJIuBkI
 What
 Where
 While
@@ -1685,6 +1702,7 @@ WL
 WCZF
 WpwyAp
 WTAYkZRG
+WRmLnfzL
 How
 HM
 HC
@@ -1778,6 +1796,8 @@ Dkf
 Dxs
 DbXXHAX
 Data
+DMyN
+DMR
 Roomba
 Roombas
 RhZtrxjb
@@ -1839,6 +1859,7 @@ Ended
 Esf
 ERojtMep
 EZtvHPTn
+EYl
 Factory
 FlNNEoYi
 FcXUNDlm
@@ -1943,6 +1964,7 @@ Xz
 XYIn
 XEZLhzf
 XfueLZry
+XD
 qwBuPV
 qL
 qttWw
@@ -1965,6 +1987,8 @@ qec
 qZ
 qo
 qtPJx
+qQEWc
+qrndKXQ
 Zjzee
 ZfLC
 ZWnqF
