@@ -3,13 +3,8 @@
 
 ## What will i do right now
 
-This is still in the plate but... Since it's Friday I think I should work on some advertisement, I'm planning to release a small scene of the player running around the stage jumping all over, maybe breaking stuff (?) with some heavy rock music on the background.
+Almost every stage has something that needs a lot of work so I will focus on that. I will be rotating between all of them starting in `level 4`. I will also keep a note of what I did in the current iteration and what I'll do in the next one. Some of them might be empty but that's fine.
 
-I'll work on that today.
-
-The plan for tomorrow:
-Make an Aseprite file for every level. F rom top to bottom how It should look. Its important to have something to aim for and this will be it. Il do it in one file so it doesnt take too much space but it will have a lot of things.
- 
 
 
 

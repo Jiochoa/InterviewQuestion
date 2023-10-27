@@ -142,6 +142,8 @@ intersection
 iKQYbZRr
 iC
 iAgpdGr
+intuitive
+increase
 going
 get
 game
@@ -276,6 +278,7 @@ tvD
 tYvJoi
 tncJt
 tZb
+tune
 be
 butterfly
 but
@@ -336,6 +339,8 @@ bB
 bOac
 bdg
 bUUDYsIh
+between
+buildings
 whole
 will
 with
@@ -383,6 +388,8 @@ worth
 ways
 was
 wE
+worked
+wave
 story
 start
 stand
@@ -512,6 +519,8 @@ spaceship
 stage
 stuff
 sSpDYfTo
+sections
+speed
 from
 for
 first
@@ -567,6 +576,8 @@ fgslhPxB
 front
 fVZ
 fund
+faster
+floors
 end
 escape
 elevator
@@ -757,6 +768,9 @@ pots
 posts
 plate
 panel
+picked
+predictable
+polish
 lot
 level
 learn
@@ -818,6 +832,7 @@ life
 lastly
 ll
 large
+less
 Cutscene
 Code
 Credit
@@ -1085,6 +1100,7 @@ asIU
 aim
 advertisement
 aL
+appealing
 hand
 have
 how
@@ -1118,6 +1134,7 @@ hold
 hangers
 holding
 heavy
+harder
 rail
 room
 reach
@@ -1184,6 +1201,7 @@ rails
 release
 rock
 rDxdli
+reachable
 jump
 joke
 just
@@ -1282,6 +1300,7 @@ music
 mZqvbJmL
 mPsxN
 mLy
+middle
 different
 do
 down
@@ -1344,6 +1363,7 @@ dark
 drying
 doesnt
 delivery
+did
 need
 neon
 next
@@ -1494,6 +1514,7 @@ Material
 Maybe
 Missing
 Mgcx
+Made
 After
 As
 All
@@ -1542,6 +1563,9 @@ Aseprite
 Antenna
 AC
 AN
+Almost
+Added
+Alto
 Puzzle
 Play
 Push
@@ -1798,6 +1822,7 @@ DbXXHAX
 Data
 DMyN
 DMR
+Divided
 Roomba
 Roombas
 RhZtrxjb
@@ -1886,6 +1911,8 @@ FMvfDrS
 Flying
 Friday
 Fvl
+Fine
+Fix
 VIEW
 VNBXdAFo
 VzRCZTgr
