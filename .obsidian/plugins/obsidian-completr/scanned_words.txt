@@ -181,6 +181,7 @@ games
 guess
 gzAB
 grOt
+goals
 to
 the
 tutorial
@@ -1736,6 +1737,7 @@ WpwyAp
 WTAYkZRG
 WRmLnfzL
 WOO
+Weekly
 How
 HM
 HC

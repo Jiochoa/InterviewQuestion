@@ -11,11 +11,9 @@
             "id": "4028b42a1d833bd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Unity/000 TODO.md",
-                "mode": "source",
-                "source": false
+                "file": "Unity/CyberCat QuickLevels 2.md"
               }
             }
           }
@@ -86,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/000 TODO.md",
+                "file": "Unity/CyberCat QuickLevels 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/000 TODO.md",
+                "file": "Unity/CyberCat QuickLevels 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/000 TODO.md"
+                "file": "Unity/CyberCat QuickLevels 2.md"
               }
             }
           },
@@ -203,16 +202,16 @@
   },
   "active": "4028b42a1d833bd4",
   "lastOpenFiles": [
-    "Unity/CyberCat QuickGame.md",
-    "Unity/000 TODO.md",
-    "Unity/CyberCat Levels.md",
-    "Unity/CyberCat Game.md",
-    "Unity/CyberCat QuickLevels 2.md",
     "Unity/CyberCat QuickLevels 1.md",
+    "Unity/CyberCat QuickLevels 2.md",
+    "Unity/CyberCat QuickGame.md",
     "Unity/Light Sources & Foreground blur.md",
     "Unity/ElectricDoor.md",
     "Unity/Game Manager.md",
     "Unity/Cutscenes.md",
+    "Unity/CyberCat Levels.md",
+    "Unity/000 TODO.md",
+    "Unity/CyberCat Game.md",
     "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
     "Unity/Transition Scenes.md",
     "Data Structures/Symbolic.excalidraw.md",

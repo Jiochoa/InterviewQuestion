@@ -72,7 +72,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.27",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.24",
     "libraryItems": [
       {
         "id": "VHYQTSB3oXIH89TP5jAOP",
@@ -1791,7 +1791,7 @@
             "containerId": "TKSgyjsJM6yIIuhzx01RA",
             "originalText": "while",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -1944,7 +1944,7 @@
             "containerId": "jB1dfqyu19pPhf3G9D1iE",
             "originalText": "i < nums.lenght",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -2150,7 +2150,7 @@
             "containerId": "LYSHi70MzNphaTBYLNwTO",
             "originalText": "if ( i < nums.lenght )",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "arrow",
@@ -2234,7 +2234,7 @@
             "containerId": "ha6nYUGTCaa2bshuQeiN8",
             "originalText": "t",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "arrow",
@@ -2322,7 +2322,7 @@
             "containerId": "O9zrbHGQFZXcQ7soobxV7",
             "originalText": "f",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           }
         ],
         "id": "duGbbgoegGNC70UBEoTJf",
@@ -2398,7 +2398,7 @@
             "containerId": "F6V6R4xqinYn1HBb3cNN9",
             "originalText": "for i = 0",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -2551,7 +2551,7 @@
             "containerId": "mcLyZYKtUt3jonJP1OoxV",
             "originalText": "i++",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -2620,7 +2620,7 @@
             "containerId": "uth7URQT9Xy8Y17uPUoSk",
             "originalText": "i < nums.lenght",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -8653,9 +8653,10 @@
     }
   },
   "defaultTrayMode": true,
-  "previousRelease": "1.9.28",
+  "previousRelease": "1.9.24",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
+  "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
   "latexBoilerplate": "\\color{blue}",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
@@ -8979,16 +8980,7 @@
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 20,
-  "pdfGroupPages": false,
   "pdfLockAfterImport": true,
   "pdfNumColumns": 1,
-  "pdfNumRows": 1,
-  "pdfDirection": "right",
-  "pdfImportScale": 0.3,
-  "laserSettings": {
-    "DECAY_LENGTH": 50,
-    "DECAY_TIME": 1000,
-    "COLOR": "#ff0000"
-  },
-  "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
+  "pdfImportScale": 0.3
 }

@@ -1,13 +1,18 @@
  ```toc
 ```
+--- 
+## Monthly Plan
+By the end of the month I want a playable game. From start to finish, even if i have to use dubs. The first week will be only connecting everything with a switch scene triggers. The second week I will focus mainly in cutscenes( at least thats the plan but I will have to readjust for upcoming quality like fog). The third week I want 5 minutes of each level. The last week I will be doing the Main Menu and the credit scenes.
+### November Plans
 
-## What will i do right now
+- [ ] **Week 1:** Connect everything with triggers.
+- [ ] **Week 2:** All cutscenes
+- [ ] **Week 3:** Enlarge levels to make them 5 minutes+
+- [ ] **Week 4:** Main Menus and Credit scene
 
-Almost every stage has something that needs a lot of work so I will focus on that. I will be rotating between all of them starting in `level 4`. I will also keep a note of what I did in the current iteration and what I'll do in the next one. Some of them might be empty but that's fine.
+Note: I'm still planning to work in iterations but that will have to wait a little bit until I get my shit together.
 
-
-
-
+--- 
 ## The Plan
 Bit of a change in pace since i getting board and I feel i need some variation.
 
