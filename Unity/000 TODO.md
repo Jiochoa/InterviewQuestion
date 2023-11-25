@@ -12,6 +12,17 @@ By the end of the month I want a playable game. From start to finish, even if i 
 
 Note: I'm still planning to work in iterations but that will have to wait a little bit until I get my shit together.
 
+
+
+### RL TODO
+- [ ] Cancel Microsoft Suite 365 and other money grabber subscriptions
+- [ ] Sell massage thing
+- [ ] Lift up car from the dirt and into car stands
+- [ ] carve hourglass hole
+- [ ] Subscribe to eBay seller
+- [ ] buy mouse sharing software
+
+
 --- 
 ## The Plan
 Bit of a change in pace since i getting board and I feel i need some variation.

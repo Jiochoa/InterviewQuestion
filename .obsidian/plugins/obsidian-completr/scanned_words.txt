@@ -145,6 +145,7 @@ iC
 iAgpdGr
 intuitive
 increase
+iterations
 going
 get
 game
@@ -281,6 +282,10 @@ tYvJoi
 tncJt
 tZb
 tune
+triggers
+thats
+third
+together
 be
 butterfly
 but
@@ -392,6 +397,7 @@ was
 wE
 worked
 wave
+week
 story
 start
 stand
@@ -523,6 +529,7 @@ stuff
 sSpDYfTo
 sections
 speed
+shit
 from
 for
 first
@@ -580,6 +587,7 @@ fVZ
 fund
 faster
 floors
+fog
 end
 escape
 elevator
@@ -636,6 +644,7 @@ enqueue
 eqG
 excited
 electric
+everything
 Level
 Look
 Long
@@ -774,6 +783,7 @@ picked
 predictable
 polish
 pN
+playable
 lot
 level
 learn
@@ -875,6 +885,7 @@ CjJDMDcF
 CEpU
 Chimnney
 Cloth
+Connect
 cutscene
 cat
 charge
@@ -982,6 +993,7 @@ cleaning
 crossing
 constructions
 ck
+connecting
 of
 once
 out
@@ -1207,6 +1219,7 @@ release
 rock
 rDxdli
 reachable
+readjust
 jump
 joke
 just
@@ -1307,6 +1320,7 @@ mPsxN
 mLy
 middle
 mKtU
+month
 different
 do
 down
@@ -1370,6 +1384,8 @@ drying
 doesnt
 delivery
 did
+dubs
+doing
 need
 neon
 next
@@ -1434,6 +1450,7 @@ Nte
 NULL
 Node
 NrOVQkPN
+November
 zoom
 zipline
 ziplining
@@ -1489,6 +1506,7 @@ uHKCy
 ujM
 uv
 umRyZh
+upcoming
 Might
 Mechanics
 Movements
@@ -1523,6 +1541,8 @@ Maybe
 Missing
 Mgcx
 Made
+Monthly
+Menus
 After
 As
 All
@@ -1618,6 +1638,7 @@ Postorder
 Put
 PyoZsSm
 Poq
+Plans
 you
 your
 yt
@@ -1738,6 +1759,7 @@ WTAYkZRG
 WRmLnfzL
 WOO
 Weekly
+Week
 How
 HM
 HC
@@ -1899,6 +1921,7 @@ ERojtMep
 EZtvHPTn
 EYl
 EyF
+Enlarge
 Factory
 FlNNEoYi
 FcXUNDlm
@@ -1927,6 +1950,7 @@ Friday
 Fvl
 Fine
 Fix
+From
 VIEW
 VNBXdAFo
 VzRCZTgr
@@ -2031,6 +2055,7 @@ qo
 qtPJx
 qQEWc
 qrndKXQ
+quality
 Zjzee
 ZfLC
 ZWnqF
@@ -2111,3 +2136,4 @@ BkoeLqKu
 Billboards
 BnAGq
 BqKVUE
+By
