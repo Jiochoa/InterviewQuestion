@@ -3,7 +3,7 @@
 --- 
 ## Monthly Plan
 By the end of the month I want a playable game. From start to finish, even if i have to use dubs. The first week will be only connecting everything with a switch scene triggers. The second week I will focus mainly in cutscenes( at least that's the plan but I will have to readjust for upcoming quality like fog). The third week I want 5 minutes of each level. The last week I will be doing the Main Menu and the credit scenes.
-### November Plans
+### March Plans
 
 - [ ] **Week 1:** Connect everything with triggers.
 - [ ] **Week 2:** All cutscenes
@@ -78,13 +78,14 @@ Level 1 to 3 with intro cutscenes.
 
 **CCv10**
 All about mobile and URP. Then I might need to redo some assets
-
+ 
 **CCv11**
 The point of this iteration is to work on the game itself. In other words what is the purpose of the game, where is the player going and why. So the goal of the player is to reach the end of the level and they are going to do that by unlocking it with 10 coins that are going to be hidden somewhere in the level. No keys needed just coins to make it simple.
 
 I'm thinking using a GameManager to do it but I'm not entirely sure what they are used for. As the video said, they are meant have a reference of every part of the game. as well as keep track of things so I'm going to do just that.
 
-
+**CCv12**
+Starting a new project, same as the others but use <u>Shader</u> instead of crescent from Aseprite and a <u>Blur</u> effect for  the background
 
 
 [^1]: Since this is my target engine for Cyberpunk games
