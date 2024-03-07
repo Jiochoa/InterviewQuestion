@@ -21,5 +21,11 @@
   "promptDelete": false,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

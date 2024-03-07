@@ -11,28 +11,13 @@
             "id": "4028b42a1d833bd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Unity/000 TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "373c10527733bed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity/000 TODO.md",
-                "mode": "source",
-                "source": false
+                "file": "Unity/CyberCat Levels.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/000 TODO.md",
+                "file": "Unity/CyberCat Levels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/000 TODO.md",
+                "file": "Unity/CyberCat Levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/000 TODO.md"
+                "file": "Unity/CyberCat Levels.md"
               }
             }
           },
@@ -216,13 +201,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "373c10527733bed2",
+  "active": "4028b42a1d833bd4",
   "lastOpenFiles": [
-    "Unity/CyberCat Game.md",
-    "Unity/000 TODO.md",
     "Unity/Cutscenes.md",
-    "Unity/CyberCat QuickGame.md",
     "Unity/CyberCat Levels.md",
+    "Unity/CyberCat QuickGame.md",
+    "Unity/000 TODO.md",
+    "Unity/CyberCat Game.md",
     "Unity/CyberCat QuickLevels 2.md",
     "Unity/CyberCat QuickLevels 1.md",
     "Unity/Light Sources & Foreground blur.md",
