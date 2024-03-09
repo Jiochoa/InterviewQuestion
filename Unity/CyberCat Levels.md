@@ -242,7 +242,7 @@ The coroutine is needed because we need to make the game wait for the transition
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.16",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -2253,8 +2253,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "arrow",
-			"version": 750,
-			"versionNonce": 18445662,
+			"version": 752,
+			"versionNonce": 1866700748,
 			"isDeleted": false,
 			"id": "yYQDDnOFiaxCo_W096L8v",
 			"fillStyle": "hachure",
@@ -2263,12 +2263,12 @@ The coroutine is needed because we need to make the game wait for the transition
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -72.54014823091144,
+			"x": -72.54014958513561,
 			"y": 200.3205775389187,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
-			"width": 44.29205193439428,
-			"height": 140.95077756114785,
+			"width": 44.29205328861845,
+			"height": 140.9507781206858,
 			"seed": 1285821452,
 			"groupIds": [],
 			"frameId": null,
@@ -2276,7 +2276,7 @@ The coroutine is needed because we need to make the game wait for the transition
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692815577638,
+			"updated": 1710009018242,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2298,8 +2298,8 @@ The coroutine is needed because we need to make the game wait for the transition
 					0
 				],
 				[
-					44.29205193439428,
-					140.95077756114785
+					44.29205328861845,
+					140.9507781206858
 				]
 			]
 		},
@@ -2380,8 +2380,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "arrow",
-			"version": 790,
-			"versionNonce": 51337026,
+			"version": 792,
+			"versionNonce": 1656820940,
 			"isDeleted": false,
 			"id": "t-rPGxHvHZymj7iVl-bA5",
 			"fillStyle": "hachure",
@@ -2390,12 +2390,12 @@ The coroutine is needed because we need to make the game wait for the transition
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 22.742856216464823,
+			"x": 22.742870399223587,
 			"y": 116.51929726791485,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 53.10609704155393,
-			"height": 85.71313983434982,
+			"width": 53.10608285879516,
+			"height": 85.71312923815873,
 			"seed": 319663156,
 			"groupIds": [],
 			"frameId": null,
@@ -2403,7 +2403,7 @@ The coroutine is needed because we need to make the game wait for the transition
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692815577639,
+			"updated": 1710009018244,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2425,8 +2425,8 @@ The coroutine is needed because we need to make the game wait for the transition
 					0
 				],
 				[
-					53.10609704155393,
-					85.71313983434982
+					53.10608285879516,
+					85.71312923815873
 				]
 			]
 		},
@@ -2715,8 +2715,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "arrow",
-			"version": 514,
-			"versionNonce": 1334218242,
+			"version": 516,
+			"versionNonce": 1757630924,
 			"isDeleted": false,
 			"id": "vnHhPxWImF4qbsKUzUAst",
 			"fillStyle": "hachure",
@@ -2738,7 +2738,7 @@ The coroutine is needed because we need to make the game wait for the transition
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692815577639,
+			"updated": 1710009018245,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3407,8 +3407,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 814,
-			"versionNonce": 1188533058,
+			"version": 816,
+			"versionNonce": 428236,
 			"isDeleted": false,
 			"id": "wRrxYeIM",
 			"fillStyle": "hachure",
@@ -3417,23 +3417,23 @@ The coroutine is needed because we need to make the game wait for the transition
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1474.0001647789404,
+			"x": 1479.0001647789404,
 			"y": 132.91046767623448,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#ffffff",
-			"width": 93,
+			"width": 83,
 			"height": 50,
 			"seed": 1735314444,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577639,
+			"updated": 1710009018250,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Elevator \nswitch",
+			"text": "Elevator\nswitch",
 			"rawText": "Elevator switch",
 			"textAlign": "center",
 			"verticalAlign": "middle",
@@ -3444,8 +3444,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "arrow",
-			"version": 292,
-			"versionNonce": 1653586398,
+			"version": 294,
+			"versionNonce": 1335233484,
 			"isDeleted": false,
 			"id": "G43xsgHquC9Mv6R4y8A-B",
 			"fillStyle": "hachure",
@@ -3454,11 +3454,11 @@ The coroutine is needed because we need to make the game wait for the transition
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1520.8188765837028,
+			"x": 1520.8193150526427,
 			"y": 193.4104812396024,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
-			"width": 32.16427262700313,
+			"width": 32.16390541218152,
 			"height": 104.00002835976966,
 			"seed": 562117644,
 			"groupIds": [],
@@ -3467,7 +3467,7 @@ The coroutine is needed because we need to make the game wait for the transition
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692815577639,
+			"updated": 1710009018249,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3489,15 +3489,15 @@ The coroutine is needed because we need to make the game wait for the transition
 					0
 				],
 				[
-					32.16427262700313,
+					32.16390541218152,
 					104.00002835976966
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 260,
-			"versionNonce": 449305346,
+			"version": 262,
+			"versionNonce": 924470988,
 			"isDeleted": false,
 			"id": "xes7YulzvHsRvyWjRbd8E",
 			"fillStyle": "hachure",
@@ -3519,7 +3519,7 @@ The coroutine is needed because we need to make the game wait for the transition
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692815577639,
+			"updated": 1710009018247,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3582,8 +3582,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 106,
-			"versionNonce": 1624844994,
+			"version": 107,
+			"versionNonce": 80811084,
 			"isDeleted": false,
 			"id": "Y7fJsHIE",
 			"fillStyle": "hachure",
@@ -3603,7 +3603,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577639,
+			"updated": 1710009018345,
 			"link": null,
 			"locked": true,
 			"fontSize": 20,
@@ -3619,8 +3619,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 267,
-			"versionNonce": 347429470,
+			"version": 268,
+			"versionNonce": 1001530996,
 			"isDeleted": false,
 			"id": "XnebrG71",
 			"fillStyle": "hachure",
@@ -3640,7 +3640,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577639,
+			"updated": 1710009018346,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3872,7 +3872,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"y": 779.1183704974148,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
-			"width": 477,
+			"width": 408,
 			"height": 75,
 			"seed": 1902859276,
 			"groupIds": [],
@@ -4017,8 +4017,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 319,
-			"versionNonce": 586882974,
+			"version": 320,
+			"versionNonce": 750824140,
 			"isDeleted": false,
 			"id": "pJILEGOk",
 			"fillStyle": "hachure",
@@ -4038,7 +4038,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577639,
+			"updated": 1710009018346,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4121,7 +4121,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"y": 977.746483834019,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
-			"width": 486,
+			"width": 408,
 			"height": 75,
 			"seed": 1690414772,
 			"groupIds": [],
@@ -4144,8 +4144,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 402,
-			"versionNonce": 1658534146,
+			"version": 403,
+			"versionNonce": 2098018292,
 			"isDeleted": false,
 			"id": "d882DXuB",
 			"fillStyle": "hachure",
@@ -4165,7 +4165,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577639,
+			"updated": 1710009018347,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4181,8 +4181,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 491,
-			"versionNonce": 911364126,
+			"version": 492,
+			"versionNonce": 259617100,
 			"isDeleted": false,
 			"id": "3Zjzee5i",
 			"fillStyle": "hachure",
@@ -4202,7 +4202,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577639,
+			"updated": 1710009018348,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4290,8 +4290,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 1144,
-			"versionNonce": 83779714,
+			"version": 1146,
+			"versionNonce": 1543881420,
 			"isDeleted": false,
 			"id": "jsWk1e1G",
 			"fillStyle": "hachure",
@@ -4300,23 +4300,23 @@ The coroutine is needed because we need to make the game wait for the transition
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1943.1689649525888,
+			"x": 1948.1689649525888,
 			"y": 2315.4190454577515,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#ffffff",
-			"width": 93,
+			"width": 83,
 			"height": 50,
 			"seed": 1750354235,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577639,
+			"updated": 1710009018251,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Elevator \nswitch",
+			"text": "Elevator\nswitch",
 			"rawText": "Elevator switch",
 			"textAlign": "center",
 			"verticalAlign": "middle",
@@ -4327,8 +4327,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "arrow",
-			"version": 1289,
-			"versionNonce": 418865310,
+			"version": 1291,
+			"versionNonce": 1648084428,
 			"isDeleted": false,
 			"id": "AiEYb1ApHqwEtu3TojmH-",
 			"fillStyle": "hachure",
@@ -4337,11 +4337,11 @@ The coroutine is needed because we need to make the game wait for the transition
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1989.6691005862695,
+			"x": 1989.66910058627,
 			"y": 2375.9190590211197,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
-			"width": 31.111111111111768,
+			"width": 31.111111111111086,
 			"height": 103.99997287326369,
 			"seed": 1259170267,
 			"groupIds": [],
@@ -4350,7 +4350,7 @@ The coroutine is needed because we need to make the game wait for the transition
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692815577640,
+			"updated": 1710009018250,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4372,7 +4372,7 @@ The coroutine is needed because we need to make the game wait for the transition
 					0
 				],
 				[
-					31.111111111111768,
+					31.111111111111086,
 					103.99997287326369
 				]
 			]
@@ -4751,8 +4751,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 692,
-			"versionNonce": 751462082,
+			"version": 693,
+			"versionNonce": 1409948020,
 			"isDeleted": false,
 			"id": "wBp8WhoR",
 			"fillStyle": "hachure",
@@ -4772,7 +4772,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577640,
+			"updated": 1710009018349,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5154,8 +5154,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 341,
-			"versionNonce": 1112730946,
+			"version": 342,
+			"versionNonce": 1549101004,
 			"isDeleted": false,
 			"id": "bYLndyoR",
 			"fillStyle": "cross-hatch",
@@ -5175,7 +5175,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577640,
+			"updated": 1710009018350,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5191,8 +5191,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 428,
-			"versionNonce": 1921974238,
+			"version": 429,
+			"versionNonce": 1273940724,
 			"isDeleted": false,
 			"id": "TH8nHuZN",
 			"fillStyle": "cross-hatch",
@@ -5212,7 +5212,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577640,
+			"updated": 1710009018351,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5228,8 +5228,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 385,
-			"versionNonce": 29881602,
+			"version": 386,
+			"versionNonce": 1198427724,
 			"isDeleted": false,
 			"id": "znUFCY96",
 			"fillStyle": "cross-hatch",
@@ -5249,7 +5249,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577640,
+			"updated": 1710009018351,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5323,8 +5323,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 367,
-			"versionNonce": 907747422,
+			"version": 368,
+			"versionNonce": 390155380,
 			"isDeleted": false,
 			"id": "WuLo0oNq",
 			"fillStyle": "cross-hatch",
@@ -5344,7 +5344,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577640,
+			"updated": 1710009018352,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5360,8 +5360,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 491,
-			"versionNonce": 619453570,
+			"version": 492,
+			"versionNonce": 1906238668,
 			"isDeleted": false,
 			"id": "aTqZLtwX",
 			"fillStyle": "cross-hatch",
@@ -5381,7 +5381,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577640,
+			"updated": 1710009018353,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5732,8 +5732,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 88,
-			"versionNonce": 1942667742,
+			"version": 89,
+			"versionNonce": 667393524,
 			"isDeleted": false,
 			"id": "8AmIuv51",
 			"fillStyle": "cross-hatch",
@@ -5753,7 +5753,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577640,
+			"updated": 1710009018353,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5769,8 +5769,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 207,
-			"versionNonce": 346116866,
+			"version": 208,
+			"versionNonce": 1350593356,
 			"isDeleted": false,
 			"id": "xbzj1fqc",
 			"fillStyle": "cross-hatch",
@@ -5790,7 +5790,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577640,
+			"updated": 1710009018354,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6009,8 +6009,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 302,
-			"versionNonce": 1745273346,
+			"version": 303,
+			"versionNonce": 1183301492,
 			"isDeleted": false,
 			"id": "1W89ZfLC",
 			"fillStyle": "hachure",
@@ -6030,7 +6030,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577640,
+			"updated": 1710009018355,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6046,8 +6046,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 271,
-			"versionNonce": 306173726,
+			"version": 272,
+			"versionNonce": 376250828,
 			"isDeleted": false,
 			"id": "1xAcZOHy",
 			"fillStyle": "hachure",
@@ -6067,7 +6067,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577640,
+			"updated": 1710009018355,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6083,8 +6083,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 377,
-			"versionNonce": 329462210,
+			"version": 378,
+			"versionNonce": 734507252,
 			"isDeleted": false,
 			"id": "HM41WlYg",
 			"fillStyle": "hachure",
@@ -6104,7 +6104,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577640,
+			"updated": 1710009018356,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6120,8 +6120,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 225,
-			"versionNonce": 1353925470,
+			"version": 226,
+			"versionNonce": 444532812,
 			"isDeleted": false,
 			"id": "VNBXdAFo",
 			"fillStyle": "hachure",
@@ -6141,7 +6141,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577640,
+			"updated": 1710009018357,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7913,8 +7913,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 115,
-			"versionNonce": 78423262,
+			"version": 116,
+			"versionNonce": 386757236,
 			"isDeleted": false,
 			"id": "mIzoYf2G",
 			"fillStyle": "hachure",
@@ -7934,7 +7934,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577641,
+			"updated": 1710009018357,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8021,8 +8021,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 165,
-			"versionNonce": 501469122,
+			"version": 166,
+			"versionNonce": 1083186892,
 			"isDeleted": false,
 			"id": "ANQHjpkg",
 			"fillStyle": "hachure",
@@ -8042,7 +8042,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577641,
+			"updated": 1710009018357,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8129,8 +8129,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 158,
-			"versionNonce": 1127688606,
+			"version": 159,
+			"versionNonce": 1730085876,
 			"isDeleted": false,
 			"id": "hsmRdwOT",
 			"fillStyle": "hachure",
@@ -8150,7 +8150,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577641,
+			"updated": 1710009018357,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8237,8 +8237,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 258,
-			"versionNonce": 1461325570,
+			"version": 259,
+			"versionNonce": 1631216972,
 			"isDeleted": false,
 			"id": "RhZtrxjb",
 			"fillStyle": "hachure",
@@ -8258,7 +8258,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577641,
+			"updated": 1710009018357,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8345,8 +8345,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 248,
-			"versionNonce": 93251166,
+			"version": 249,
+			"versionNonce": 839017844,
 			"isDeleted": false,
 			"id": "01i6Y166",
 			"fillStyle": "hachure",
@@ -8366,7 +8366,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577641,
+			"updated": 1710009018358,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8493,8 +8493,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 176,
-			"versionNonce": 36923102,
+			"version": 177,
+			"versionNonce": 836230092,
 			"isDeleted": false,
 			"id": "LmD2A6AP",
 			"fillStyle": "hachure",
@@ -8514,7 +8514,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577641,
+			"updated": 1710009018358,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8601,8 +8601,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 290,
-			"versionNonce": 119958978,
+			"version": 291,
+			"versionNonce": 1560123124,
 			"isDeleted": false,
 			"id": "AfdVGiEy",
 			"fillStyle": "hachure",
@@ -8622,7 +8622,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577641,
+			"updated": 1710009018359,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8709,8 +8709,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 265,
-			"versionNonce": 509422494,
+			"version": 266,
+			"versionNonce": 746750540,
 			"isDeleted": false,
 			"id": "7KiHeXge",
 			"fillStyle": "hachure",
@@ -8730,7 +8730,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577641,
+			"updated": 1710009018360,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8817,8 +8817,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 300,
-			"versionNonce": 1119448322,
+			"version": 301,
+			"versionNonce": 882284660,
 			"isDeleted": false,
 			"id": "eNsn9j25",
 			"fillStyle": "hachure",
@@ -8838,7 +8838,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577641,
+			"updated": 1710009018360,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8925,8 +8925,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 325,
-			"versionNonce": 865871966,
+			"version": 326,
+			"versionNonce": 2014599372,
 			"isDeleted": false,
 			"id": "Be4UxvXF",
 			"fillStyle": "hachure",
@@ -8946,7 +8946,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577641,
+			"updated": 1710009018361,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8991,8 +8991,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 408,
-			"versionNonce": 1022586014,
+			"version": 409,
+			"versionNonce": 76769780,
 			"isDeleted": false,
 			"id": "BC7X5gmz",
 			"fillStyle": "hachure",
@@ -9005,14 +9005,14 @@ The coroutine is needed because we need to make the game wait for the transition
 			"y": 1847.7157457643402,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 73,
+			"width": 73.19359009328392,
 			"height": 25.066297977152026,
 			"seed": 771163778,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577641,
+			"updated": 1710009018361,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.05303838172162,
@@ -9186,8 +9186,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 183,
-			"versionNonce": 2070808926,
+			"version": 184,
+			"versionNonce": 1344757580,
 			"isDeleted": false,
 			"id": "CCzK6JWe",
 			"fillStyle": "hachure",
@@ -9207,7 +9207,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577641,
+			"updated": 1710009018361,
 			"link": null,
 			"locked": true,
 			"fontSize": 20,
@@ -9807,8 +9807,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 187,
-			"versionNonce": 532885406,
+			"version": 188,
+			"versionNonce": 804916084,
 			"isDeleted": false,
 			"id": "jqAvLTlE",
 			"fillStyle": "hachure",
@@ -9828,7 +9828,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577642,
+			"updated": 1710009018362,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -9844,8 +9844,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 529,
-			"versionNonce": 352297282,
+			"version": 530,
+			"versionNonce": 1830131148,
 			"isDeleted": false,
 			"id": "XTNuy0YH",
 			"fillStyle": "hachure",
@@ -9865,7 +9865,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577642,
+			"updated": 1710009018363,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -9881,8 +9881,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 423,
-			"versionNonce": 1966574558,
+			"version": 424,
+			"versionNonce": 1225817332,
 			"isDeleted": false,
 			"id": "1WhKaQif",
 			"fillStyle": "hachure",
@@ -9902,7 +9902,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577642,
+			"updated": 1710009018364,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10040,8 +10040,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 300,
-			"versionNonce": 518344834,
+			"version": 301,
+			"versionNonce": 1811479628,
 			"isDeleted": false,
 			"id": "GyIFFF5J",
 			"fillStyle": "hachure",
@@ -10061,7 +10061,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577642,
+			"updated": 1710009018364,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -14271,8 +14271,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 175,
-			"versionNonce": 1407242718,
+			"version": 176,
+			"versionNonce": 693943924,
 			"isDeleted": false,
 			"id": "UlGhBpfj",
 			"fillStyle": "hachure",
@@ -14292,7 +14292,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577643,
+			"updated": 1710009018365,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15102,8 +15102,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 152,
-			"versionNonce": 180001154,
+			"version": 153,
+			"versionNonce": 917213900,
 			"isDeleted": false,
 			"id": "nYOl2Kmq",
 			"fillStyle": "hachure",
@@ -15123,7 +15123,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577643,
+			"updated": 1710009018365,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15168,8 +15168,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 49,
-			"versionNonce": 1894783298,
+			"version": 50,
+			"versionNonce": 161796084,
 			"isDeleted": false,
 			"id": "3rV4nASB",
 			"fillStyle": "hachure",
@@ -15189,7 +15189,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577643,
+			"updated": 1710009018366,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -24423,8 +24423,8 @@ The coroutine is needed because we need to make the game wait for the transition
 		},
 		{
 			"type": "text",
-			"version": 385,
-			"versionNonce": 462601310,
+			"version": 386,
+			"versionNonce": 1808226636,
 			"isDeleted": false,
 			"id": "uo6I2VYy",
 			"fillStyle": "hachure",
@@ -24444,7 +24444,7 @@ The coroutine is needed because we need to make the game wait for the transition
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692815577644,
+			"updated": 1710009018367,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -24488,29 +24488,29 @@ The coroutine is needed because we need to make the game wait for the transition
 			"locked": false
 		},
 		{
-			"id": "yyVrAr1kXGauiVD2O5OIO",
 			"type": "rectangle",
-			"x": 1912.6609173690226,
-			"y": -203.46875777821714,
-			"width": 146,
-			"height": 35,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 126,
+			"versionNonce": 284655774,
+			"isDeleted": false,
+			"id": "yyVrAr1kXGauiVD2O5OIO",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1912.6609173690226,
+			"y": -203.46875777821714,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 146,
+			"height": 35,
+			"seed": 1356149790,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1356149790,
-			"version": 126,
-			"versionNonce": 284655774,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -24522,41 +24522,41 @@ The coroutine is needed because we need to make the game wait for the transition
 			"locked": false
 		},
 		{
-			"id": "Ag0HUSoO",
 			"type": "text",
-			"x": 1927.6609173690226,
-			"y": -198.46875777821714,
-			"width": 116,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 79,
+			"versionNonce": 1018486850,
+			"isDeleted": false,
+			"id": "Ag0HUSoO",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1927.6609173690226,
+			"y": -198.46875777821714,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 116,
+			"height": 25,
+			"seed": 1752925570,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1752925570,
-			"version": 79,
-			"versionNonce": 1018486850,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1692815577644,
 			"link": null,
 			"locked": false,
-			"text": "LevelLoader",
-			"rawText": "LevelLoader",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "LevelLoader",
+			"rawText": "LevelLoader",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 17,
 			"containerId": "yyVrAr1kXGauiVD2O5OIO",
 			"originalText": "LevelLoader",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -24630,70 +24630,79 @@ The coroutine is needed because we need to make the game wait for the transition
 			"baseline": 17
 		},
 		{
-			"id": "ybRvbzcX",
 			"type": "text",
-			"x": 2182.016119226178,
-			"y": -25.231004490333362,
-			"width": 1020,
-			"height": 775,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 74,
+			"versionNonce": 435073396,
+			"isDeleted": false,
+			"id": "ybRvbzcX",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2182.016119226178,
+			"y": -25.231004490333362,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1020,
+			"height": 775,
+			"seed": 746472514,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 746472514,
-			"version": 73,
-			"versionNonce": 260519874,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1692815577644,
+			"boundElements": [],
+			"updated": 1710009018368,
 			"link": null,
 			"locked": false,
-			"text": "public class LevelLoarer: MonoBehavior\n{\n\tpublic Animator transition;\n\tpublic float transitionTime = 1f;\n\tvoid Update()\n\t{\n\t\tif(Input.GetMouseButtonDown(0))\n\t\t{\n\t\t\tLoadNextLevel();\n\t\t}\n\t}\n\t\n\tpublic void LoadNextLevel()\n\t{\n\t\tStartCoroutine(\n\t\t\tLoadLevel(\n\t\t\t\tSceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1))\n\t\t);\n\t\t\n\t}\n\n\tIEnumerator LoadLevel(int levelIndex)\n\t{\n\t\t// Play animation\n\t\ttransition.setTrigger(\"Start\");\n\t\t// wait for animation\n\t\tyield return waitForSeconds(transitionTime);\n\t\t// load scene\n\t\tSceneManager.LoadScene(levelIndex)\n\t}\n}",
-			"rawText": "public class LevelLoarer: MonoBehavior\n{\n\tpublic Animator transition;\n\tpublic float transitionTime = 1f;\n\tvoid Update()\n\t{\n\t\tif(Input.GetMouseButtonDown(0))\n\t\t{\n\t\t\tLoadNextLevel();\n\t\t}\n\t}\n\t\n\tpublic void LoadNextLevel()\n\t{\n\t\tStartCoroutine(\n\t\t\tLoadLevel(\n\t\t\t\tSceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1))\n\t\t);\n\t\t\n\t}\n\n\tIEnumerator LoadLevel(int levelIndex)\n\t{\n\t\t// Play animation\n\t\ttransition.setTrigger(\"Start\");\n\t\t// wait for animation\n\t\tyield return waitForSeconds(transitionTime);\n\t\t// load scene\n\t\tSceneManager.LoadScene(levelIndex)\n\t}\n}",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "public class LevelLoarer: MonoBehavior\n{\n\tpublic Animator transition;\n\tpublic float transitionTime = 1f;\n\tvoid Update()\n\t{\n\t\tif(Input.GetMouseButtonDown(0))\n\t\t{\n\t\t\tLoadNextLevel();\n\t\t}\n\t}\n\t\n\tpublic void LoadNextLevel()\n\t{\n\t\tStartCoroutine(\n\t\t\tLoadLevel(\n\t\t\t\tSceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1))\n\t\t);\n\t\t\n\t}\n\n\tIEnumerator LoadLevel(int levelIndex)\n\t{\n\t\t// Play animation\n\t\ttransition.setTrigger(\"Start\");\n\t\t// wait for animation\n\t\tyield return waitForSeconds(transitionTime);\n\t\t// load scene\n\t\tSceneManager.LoadScene(levelIndex)\n\t}\n}",
+			"rawText": "public class LevelLoarer: MonoBehavior\n{\n\tpublic Animator transition;\n\tpublic float transitionTime = 1f;\n\tvoid Update()\n\t{\n\t\tif(Input.GetMouseButtonDown(0))\n\t\t{\n\t\t\tLoadNextLevel();\n\t\t}\n\t}\n\t\n\tpublic void LoadNextLevel()\n\t{\n\t\tStartCoroutine(\n\t\t\tLoadLevel(\n\t\t\t\tSceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1))\n\t\t);\n\t\t\n\t}\n\n\tIEnumerator LoadLevel(int levelIndex)\n\t{\n\t\t// Play animation\n\t\ttransition.setTrigger(\"Start\");\n\t\t// wait for animation\n\t\tyield return waitForSeconds(transitionTime);\n\t\t// load scene\n\t\tSceneManager.LoadScene(levelIndex)\n\t}\n}",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 767,
 			"containerId": null,
 			"originalText": "public class LevelLoarer: MonoBehavior\n{\n\tpublic Animator transition;\n\tpublic float transitionTime = 1f;\n\tvoid Update()\n\t{\n\t\tif(Input.GetMouseButtonDown(0))\n\t\t{\n\t\t\tLoadNextLevel();\n\t\t}\n\t}\n\t\n\tpublic void LoadNextLevel()\n\t{\n\t\tStartCoroutine(\n\t\t\tLoadLevel(\n\t\t\t\tSceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1))\n\t\t);\n\t\t\n\t}\n\n\tIEnumerator LoadLevel(int levelIndex)\n\t{\n\t\t// Play animation\n\t\ttransition.setTrigger(\"Start\");\n\t\t// wait for animation\n\t\tyield return waitForSeconds(transitionTime);\n\t\t// load scene\n\t\tSceneManager.LoadScene(levelIndex)\n\t}\n}",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 767
 		},
 		{
-			"id": "WUX54Ci29rx4i81DsEeZd",
 			"type": "arrow",
-			"x": 2414.941740580573,
-			"y": 91.7025223992319,
-			"width": 248.4045550989904,
-			"height": 41.311321600853915,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 52,
+			"versionNonce": 1180404044,
+			"isDeleted": false,
+			"id": "WUX54Ci29rx4i81DsEeZd",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2414.941740580573,
+			"y": 91.7025223992319,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 248.4045550989904,
+			"height": 41.311321600853915,
+			"seed": 2084897054,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 2084897054,
-			"version": 51,
-			"versionNonce": 449113026,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1692815587428,
+			"boundElements": [],
+			"updated": 1710009018267,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "UhoZEfzm73j37KzRIVSSg",
+				"gap": 10.141902299861158,
+				"focus": 0.5071220652971478
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -24703,41 +24712,32 @@ The coroutine is needed because we need to make the game wait for the transition
 					248.4045550989904,
 					-41.311321600853915
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "UhoZEfzm73j37KzRIVSSg",
-				"focus": 0.5071220652971478,
-				"gap": 10.141902299861158
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "UhoZEfzm73j37KzRIVSSg",
 			"type": "rectangle",
-			"x": 2673.4881979794245,
-			"y": 23.09298361101962,
-			"width": 204,
-			"height": 70,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 108,
+			"versionNonce": 154878366,
+			"isDeleted": false,
+			"id": "UhoZEfzm73j37KzRIVSSg",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2673.4881979794245,
+			"y": 23.09298361101962,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 204,
+			"height": 70,
+			"seed": 614035294,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 614035294,
-			"version": 108,
-			"versionNonce": 154878366,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -24753,70 +24753,79 @@ The coroutine is needed because we need to make the game wait for the transition
 			"locked": false
 		},
 		{
-			"id": "pMOfPeGA",
 			"type": "text",
-			"x": 2678.9881979794245,
-			"y": 33.09298361101962,
-			"width": 193,
-			"height": 50,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 153,
+			"versionNonce": 246064716,
+			"isDeleted": false,
+			"id": "pMOfPeGA",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2683.9881979794245,
+			"y": 33.09298361101962,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 183,
+			"height": 50,
+			"seed": 1040288542,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1040288542,
-			"version": 151,
-			"versionNonce": 743026498,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1692815577644,
+			"boundElements": [],
+			"updated": 1710009018268,
 			"link": null,
 			"locked": false,
-			"text": "This is for testing \npurposes for now",
-			"rawText": "This is for testing purposes for now",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "This is for testing\npurposes for now",
+			"rawText": "This is for testing purposes for now",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 42,
 			"containerId": "UhoZEfzm73j37KzRIVSSg",
 			"originalText": "This is for testing purposes for now",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 42
 		},
 		{
-			"id": "VS3uZCXkznTckS3gvQ3Nx",
 			"type": "arrow",
-			"x": 2406.8940773389104,
-			"y": 328.8402957476034,
-			"width": 237.6743374434409,
-			"height": 63.3082596082246,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 40,
+			"versionNonce": 1503036236,
+			"isDeleted": false,
+			"id": "VS3uZCXkznTckS3gvQ3Nx",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2406.8940773389104,
+			"y": 328.8402957476034,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 237.6743374434409,
+			"height": 63.308259608224546,
+			"seed": 787211906,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 787211906,
-			"version": 39,
-			"versionNonce": 287451486,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1692815587428,
+			"boundElements": [],
+			"updated": 1710009018268,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "tEbgl9BK3fhGfimkwpWdE",
+				"gap": 15.860918477487303,
+				"focus": 0.25373459924646113
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -24824,43 +24833,34 @@ The coroutine is needed because we need to make the game wait for the transition
 				],
 				[
 					237.6743374434409,
-					-63.3082596082246
+					-63.308259608224546
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "tEbgl9BK3fhGfimkwpWdE",
-				"focus": 0.25373459924646113,
-				"gap": 15.860918477487303
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "tEbgl9BK3fhGfimkwpWdE",
 			"type": "rectangle",
-			"x": 2660.4293332598386,
-			"y": 206.08276137367048,
-			"width": 214,
-			"height": 91,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 99,
+			"versionNonce": 697826508,
+			"isDeleted": false,
+			"id": "tEbgl9BK3fhGfimkwpWdE",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2660.4293332598386,
+			"y": 206.08276137367045,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 214,
+			"height": 91,
+			"seed": 183844510,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 183844510,
-			"version": 98,
-			"versionNonce": 762595010,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -24871,75 +24871,84 @@ The coroutine is needed because we need to make the game wait for the transition
 					"type": "arrow"
 				}
 			],
-			"updated": 1692815577644,
+			"updated": 1710009018268,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "EpxldSKq",
 			"type": "text",
-			"x": 2679.9293332598386,
-			"y": 226.58276137367048,
-			"width": 175,
-			"height": 50,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 91,
+			"versionNonce": 921641036,
+			"isDeleted": false,
+			"id": "EpxldSKq",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2679.9293332598386,
+			"y": 226.58276137367045,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 175,
+			"height": 50,
+			"seed": 2073582658,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2073582658,
-			"version": 89,
-			"versionNonce": 1206517342,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1692815577644,
+			"boundElements": [],
+			"updated": 1710009018269,
 			"link": null,
 			"locked": false,
-			"text": "This is how you \nstart a coroutine",
-			"rawText": "This is how you start a coroutine",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "This is how you\nstart a coroutine",
+			"rawText": "This is how you start a coroutine",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 42,
 			"containerId": "tEbgl9BK3fhGfimkwpWdE",
 			"originalText": "This is how you start a coroutine",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 42
 		},
 		{
-			"id": "6JhnnS7Tq9tjnkqRzOGPS",
 			"type": "arrow",
-			"x": 2623.6445231000544,
-			"y": 416.82808870961804,
-			"width": 105.3719315694807,
-			"height": 48.67045290826212,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 248,
+			"versionNonce": 42237260,
+			"isDeleted": false,
+			"id": "6JhnnS7Tq9tjnkqRzOGPS",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2623.6445231000544,
+			"y": 416.82808870961804,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 105.3719315694807,
+			"height": 48.67045290826218,
+			"seed": 1786776194,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1786776194,
-			"version": 247,
-			"versionNonce": 678830978,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1692815587429,
+			"boundElements": [],
+			"updated": 1710009018269,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "bthmCh6lZRPI9kXCW2Kdq",
+				"gap": 19.038624717172752,
+				"focus": -0.48125272318294204
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -24947,43 +24956,34 @@ The coroutine is needed because we need to make the game wait for the transition
 				],
 				[
 					105.3719315694807,
-					48.67045290826212
+					48.67045290826218
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "bthmCh6lZRPI9kXCW2Kdq",
-				"focus": -0.48125272318294204,
-				"gap": 19.038624717172752
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "bthmCh6lZRPI9kXCW2Kdq",
 			"type": "rectangle",
-			"x": 2748.055079386708,
-			"y": 411.9918480628069,
-			"width": 160,
-			"height": 110,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 137,
+			"versionNonce": 121452236,
+			"isDeleted": false,
+			"id": "bthmCh6lZRPI9kXCW2Kdq",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2748.055079386708,
+			"y": 411.99184806280687,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 160,
+			"height": 110,
+			"seed": 1134620354,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1134620354,
-			"version": 136,
-			"versionNonce": 1870593602,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -24994,71 +24994,71 @@ The coroutine is needed because we need to make the game wait for the transition
 					"type": "arrow"
 				}
 			],
-			"updated": 1692815577644,
+			"updated": 1710009018269,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "RuemmRxY",
 			"type": "text",
-			"x": 2758.555079386708,
-			"y": 429.4918480628069,
-			"width": 139,
-			"height": 75,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 158,
+			"versionNonce": 1680251468,
+			"isDeleted": false,
+			"id": "RuemmRxY",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2763.555079386708,
+			"y": 429.49184806280687,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 129,
+			"height": 75,
+			"seed": 422492638,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 422492638,
-			"version": 156,
-			"versionNonce": 178814686,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1692815577644,
+			"boundElements": [],
+			"updated": 1710009018270,
 			"link": null,
 			"locked": false,
-			"text": "This is to go \nthe ne next \nscene",
-			"rawText": "This is to go the ne next scene",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "This is to go\nthe ne next\nscene",
+			"rawText": "This is to go the ne next scene",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 67,
 			"containerId": "bthmCh6lZRPI9kXCW2Kdq",
 			"originalText": "This is to go the ne next scene",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 67
 		},
 		{
-			"id": "WkklSFLUelMMPMqi3ScfM",
 			"type": "rectangle",
-			"x": 2686.5389641462484,
-			"y": 555.7843950692283,
-			"width": 165,
-			"height": 210,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 92,
+			"versionNonce": 283235778,
+			"isDeleted": false,
+			"id": "WkklSFLUelMMPMqi3ScfM",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2686.5389641462484,
+			"y": 555.7843950692283,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 165,
+			"height": 210,
+			"seed": 1624992606,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1624992606,
-			"version": 92,
-			"versionNonce": 283235778,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -25074,70 +25074,79 @@ The coroutine is needed because we need to make the game wait for the transition
 			"locked": false
 		},
 		{
-			"id": "MmUauxRW",
 			"type": "text",
-			"x": 2694.5389641462484,
-			"y": 560.7843950692283,
-			"width": 149,
-			"height": 200,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 157,
+			"versionNonce": 84979148,
+			"isDeleted": false,
+			"id": "MmUauxRW",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2699.5389641462484,
+			"y": 560.7843950692283,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 139,
+			"height": 200,
+			"seed": 563467778,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 563467778,
-			"version": 155,
-			"versionNonce": 1193336670,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1692815577645,
+			"boundElements": [],
+			"updated": 1710009018271,
 			"link": null,
 			"locked": false,
-			"text": "The coroutine \nis needed \nbecause we \nneed to make \nthe game wait \nfor the \ntransition to \nfinish",
-			"rawText": "The coroutine is needed because we need to make the game wait for the transition to finish",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "The coroutine\nis needed\nbecause we\nneed to make\nthe game wait\nfor the\ntransition to\nfinish",
+			"rawText": "The coroutine is needed because we need to make the game wait for the transition to finish",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 192,
 			"containerId": "WkklSFLUelMMPMqi3ScfM",
 			"originalText": "The coroutine is needed because we need to make the game wait for the transition to finish",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 192
 		},
 		{
-			"id": "NU4KKSvf7ybNM7g_YUorj",
 			"type": "arrow",
-			"x": 2578.577559827708,
-			"y": 512.863524447029,
-			"width": 94.42594811486379,
-			"height": 123.3975030388226,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 63,
+			"versionNonce": 1400205516,
+			"isDeleted": false,
+			"id": "NU4KKSvf7ybNM7g_YUorj",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2578.577559827708,
+			"y": 512.863524447029,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 94.42594811486379,
+			"height": 123.39750303882249,
+			"seed": 1913590814,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1913590814,
-			"version": 62,
-			"versionNonce": 1544637854,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1692815587429,
+			"boundElements": [],
+			"updated": 1710009018270,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "WkklSFLUelMMPMqi3ScfM",
+				"gap": 13.535456203676858,
+				"focus": -0.47449039365962625
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -25145,886 +25154,8 @@ The coroutine is needed because we need to make the game wait for the transition
 				],
 				[
 					94.42594811486379,
-					123.3975030388226
+					123.39750303882249
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "WkklSFLUelMMPMqi3ScfM",
-				"focus": -0.47449039365962625,
-				"gap": 13.535456203676858
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "WJqiBa0Y",
-			"type": "text",
-			"x": 2250.0139752303503,
-			"y": -174.851130466062,
-			"width": 69,
-			"height": 50,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1667728286,
-			"version": 39,
-			"versionNonce": 1198158110,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1692815577644,
-			"link": null,
-			"locked": false,
-			"text": "Canvas\n",
-			"rawText": "Canvas\n",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 42,
-			"containerId": null,
-			"originalText": "Canvas\n",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "gt9NnNuF",
-			"type": "text",
-			"x": 2680.5146275554303,
-			"y": 90.62949654042373,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 264132098,
-			"version": 5,
-			"versionNonce": 1729032066,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1692815577644,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "YbUw8NUA",
-			"type": "text",
-			"x": 2777.9881979794245,
-			"y": 138.21870927162274,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 702249282,
-			"version": 5,
-			"versionNonce": 1507679710,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1692815577644,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 17,
-			"containerId": "UhoZEfzm73j37KzRIVSSg",
-			"originalText": "",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "qxcmdSEU",
-			"type": "text",
-			"x": 2739.530824660954,
-			"y": 128.185258334848,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 545425182,
-			"version": 5,
-			"versionNonce": 1133934338,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1692815577644,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "aqOlUqxB",
-			"type": "text",
-			"x": 2785.9389832751813,
-			"y": 488.720555188308,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1786627614,
-			"version": 5,
-			"versionNonce": 42081922,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1692815577644,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "peFD2dpm",
-			"type": "text",
-			"x": 2482.5420626914993,
-			"y": 588.5115507321486,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1816824414,
-			"version": 5,
-			"versionNonce": 826926594,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1692815577645,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "nkaClPDT",
-			"type": "text",
-			"x": 2698.219503060101,
-			"y": 636.7975301821227,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1326127618,
-			"version": 5,
-			"versionNonce": 1295053598,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1692815577645,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "IXPSngTx68PkyhhonYoLq",
-			"type": "freedraw",
-			"x": 2580.1871088490534,
-			"y": 543.4446283923331,
-			"width": 68.67340936853134,
-			"height": 53.651088277748954,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1569297886,
-			"version": 77,
-			"versionNonce": 1600507266,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1692815577645,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.5365436288029741,
-					0
-				],
-				[
-					3.7555598064295737,
-					-0.5365026962710999
-				],
-				[
-					10.730217655549495,
-					-2.1460107850843997
-				],
-				[
-					20.387429918557245,
-					-2.682554413887374
-				],
-				[
-					27.36208776767762,
-					-3.7555598064295737
-				],
-				[
-					34.33674561679754,
-					-5.365108827774861
-				],
-				[
-					38.09230542322712,
-					-5.365108827774861
-				],
-				[
-					39.70185444457229,
-					-5.365108827774861
-				],
-				[
-					40.77485983711449,
-					-5.365108827774861
-				],
-				[
-					41.84786522965669,
-					-5.365108827774861
-				],
-				[
-					43.457414251001865,
-					-5.365108827774861
-				],
-				[
-					45.603425036086264,
-					-3.2190571101584737
-				],
-				[
-					48.28597944997364,
-					0
-				],
-				[
-					49.35898484251629,
-					2.6825544138874875
-				],
-				[
-					50.43207210012224,
-					5.901652456577949
-				],
-				[
-					52.57808288520664,
-					9.120709566736537
-				],
-				[
-					53.65108827774884,
-					14.485818394511398
-				],
-				[
-					54.72409367029104,
-					16.631870112127785
-				],
-				[
-					54.72409367029104,
-					17.168372808398885
-				],
-				[
-					54.72409367029104,
-					18.241378200941085
-				],
-				[
-					54.72409367029104,
-					19.314424526015273
-				],
-				[
-					54.72409367029104,
-					20.923932614828573
-				],
-				[
-					54.72409367029104,
-					21.996978939902647
-				],
-				[
-					54.72409367029104,
-					22.533481636173747
-				],
-				[
-					54.72409367029104,
-					23.069984332444847
-				],
-				[
-					54.187631906551815,
-					23.069984332444847
-				],
-				[
-					54.187631906551815,
-					23.606487028715947
-				],
-				[
-					53.65108827774884,
-					24.142989724987046
-				],
-				[
-					53.114626514009615,
-					24.679533353790134
-				],
-				[
-					52.04153925640367,
-					25.752538746332334
-				],
-				[
-					50.96853386386147,
-					25.752538746332334
-				],
-				[
-					49.89552847131927,
-					26.289041442603434
-				],
-				[
-					49.35898484251629,
-					27.362087767677508
-				],
-				[
-					48.28597944997364,
-					28.435093160219708
-				],
-				[
-					46.67643042862892,
-					29.508098552761908
-				],
-				[
-					46.67643042862892,
-					30.044642181564996
-				],
-				[
-					46.13996866488924,
-					30.581144877836095
-				],
-				[
-					46.13996866488924,
-					31.117647574107195
-				],
-				[
-					46.13996866488924,
-					32.72719659545248
-				],
-				[
-					45.603425036086264,
-					33.26369929172358
-				],
-				[
-					45.06696327234749,
-					34.87320738053688
-				],
-				[
-					45.06696327234749,
-					35.94625370561096
-				],
-				[
-					45.603425036086264,
-					38.092305423227344
-				],
-				[
-					46.13996866488924,
-					39.701813512040644
-				],
-				[
-					46.13996866488924,
-					40.238316208311744
-				],
-				[
-					46.67643042862892,
-					40.238316208311744
-				],
-				[
-					47.21297405743189,
-					40.77485983711483
-				],
-				[
-					47.74951768623487,
-					41.31136253338593
-				],
-				[
-					48.28597944997364,
-					41.84786522965703
-				],
-				[
-					48.28597944997364,
-					42.38436792592813
-				],
-				[
-					49.35898484251629,
-					42.92087062219923
-				],
-				[
-					49.89552847131927,
-					43.457414251002206
-				],
-				[
-					50.43207210012224,
-					43.457414251002206
-				],
-				[
-					52.04153925640367,
-					43.457414251002206
-				],
-				[
-					52.57808288520664,
-					43.457414251002206
-				],
-				[
-					53.65108827774884,
-					43.993916947273306
-				],
-				[
-					54.187631906551815,
-					43.993916947273306
-				],
-				[
-					57.406648084178414,
-					44.530419643544406
-				],
-				[
-					59.55274073432702,
-					45.066922339815505
-				],
-				[
-					61.69875151941142,
-					45.066922339815505
-				],
-				[
-					62.77175691195316,
-					45.603425036086605
-				],
-				[
-					63.844844169559565,
-					45.603425036086605
-				],
-				[
-					65.45431132584054,
-					46.13996866488969
-				],
-				[
-					65.99085495464396,
-					46.67647136116079
-				],
-				[
-					66.52739858344694,
-					46.67647136116079
-				],
-				[
-					67.06386034718616,
-					46.67647136116079
-				],
-				[
-					67.60040397598914,
-					47.21297405743189
-				],
-				[
-					68.13686573972836,
-					47.21297405743189
-				],
-				[
-					68.67340936853134,
-					47.21297405743189
-				],
-				[
-					68.67340936853134,
-					47.74947675370299
-				],
-				[
-					68.67340936853134,
-					48.28597944997409
-				],
-				[
-					68.67340936853134,
-					48.28597944997409
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				68.67340936853134,
-				48.28597944997409
-			]
-		},
-		{
-			"id": "rOP4ZfNKIOv7rHFtOrBih",
-			"type": "freedraw",
-			"x": 2648.8605182175847,
-			"y": 591.7306078423072,
-			"width": 56.87018632043964,
-			"height": 115.88634249343136,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1696609054,
-			"version": 65,
-			"versionNonce": 214516638,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1692815577645,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.5365436288029741,
-					0
-				],
-				[
-					-2.1460107850843997,
-					0.5365436288030878
-				],
-				[
-					-4.8285651989717735,
-					0.5365436288030878
-				],
-				[
-					-6.974657849119922,
-					1.0730463250741877
-				],
-				[
-					-10.193674026746976,
-					1.0730463250741877
-				],
-				[
-					-11.266761284352924,
-					1.6095490213452877
-				],
-				[
-					-12.87622844063435,
-					2.1460517176163876
-				],
-				[
-					-13.949315698240298,
-					2.6825544138874875
-				],
-				[
-					-14.485777461979524,
-					3.2190980426904616
-				],
-				[
-					-15.558782854521723,
-					3.7556007389615615
-				],
-				[
-					-15.558782854521723,
-					4.2921034352326615
-				],
-				[
-					-16.095326483324698,
-					4.2921034352326615
-				],
-				[
-					-16.095326483324698,
-					5.365108827774861
-				],
-				[
-					-16.63187011212767,
-					6.438155152849049
-				],
-				[
-					-16.63187011212767,
-					7.511160545391249
-				],
-				[
-					-16.63187011212767,
-					8.584206870465437
-				],
-				[
-					-16.63187011212767,
-					10.730217655549723
-				],
-				[
-					-16.63187011212767,
-					14.485818394511398
-				],
-				[
-					-16.095326483324698,
-					17.16837280839877
-				],
-				[
-					-15.022321090782498,
-					20.38742991855736
-				],
-				[
-					-13.949315698240298,
-					23.606487028715947
-				],
-				[
-					-11.266761284352924,
-					27.898590463948608
-				],
-				[
-					-5.9016524565781765,
-					33.80020198799457
-				],
-				[
-					-5.365108827775202,
-					35.40975100933986
-				],
-				[
-					-3.7555598064295737,
-					37.01925909815316
-				],
-				[
-					-1.609549021345174,
-					38.628808119498444
-				],
-				[
-					-0.5365436288029741,
-					40.77485983711472
-				],
-				[
-					2.1460107850843997,
-					42.92087062219912
-				],
-				[
-					4.8285651989717735,
-					45.603425036086605
-				],
-				[
-					8.047663241662576,
-					48.82252307877707
-				],
-				[
-					9.657212263007295,
-					50.43203116759037
-				],
-				[
-					10.193674026746976,
-					51.505077492664554
-				],
-				[
-					10.73021765554995,
-					54.18763190655204
-				],
-				[
-					11.266761284352924,
-					56.870186320439416
-				],
-				[
-					12.339766676895124,
-					59.016197105523815
-				],
-				[
-					12.339766676895124,
-					61.1622488231402
-				],
-				[
-					12.339766676895124,
-					63.84480323702769
-				],
-				[
-					12.339766676895124,
-					68.13690667226035
-				],
-				[
-					12.339766676895124,
-					70.81946108614773
-				],
-				[
-					12.339766676895124,
-					74.57502089257741
-				],
-				[
-					12.339766676895124,
-					75.11152358884851
-				],
-				[
-					11.803223048091695,
-					77.2575753064649
-				],
-				[
-					8.58420687046555,
-					81.01317604542646
-				],
-				[
-					6.4381142203169475,
-					82.62268413423976
-				],
-				[
-					4.292103435232548,
-					84.23223315558505
-				],
-				[
-					1.609549021345174,
-					86.37828487320132
-				],
-				[
-					-5.9016524565781765,
-					91.7433937009763
-				],
-				[
-					-11.266761284352924,
-					95.49895350740587
-				],
-				[
-					-17.168331875866897,
-					99.79105694263865
-				],
-				[
-					-22.5334407036421,
-					104.08311944533932
-				],
-				[
-					-26.28900051007122,
-					106.76567385922681
-				],
-				[
-					-30.044642181564996,
-					108.37522288057198
-				],
-				[
-					-35.94621277307897,
-					111.59432092326256
-				],
-				[
-					-39.70177257950854,
-					113.20378807954387
-				],
-				[
-					-41.31132160085372,
-					113.74033170834696
-				],
-				[
-					-42.38432699339637,
-					114.27687533714993
-				],
-				[
-					-42.920870622199345,
-					114.81333710088916
-				],
-				[
-					-43.45741425100232,
-					114.81333710088916
-				],
-				[
-					-43.993876014741545,
-					115.34988072969213
-				],
-				[
-					-44.53041964354452,
-					115.88634249343136
-				],
-				[
-					-44.53041964354452,
-					115.88634249343136
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-44.53041964354452,
-				115.88634249343136
 			]
 		}
 	],
@@ -26043,13 +25174,17 @@ The coroutine is needed because we need to make the game wait for the transition
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1444.4154225124287,
-		"scrollY": 357.6831072525803,
+		"scrollX": 2331.8388341306986,
+		"scrollY": 649.0391897840273,
 		"zoom": {
-			"value": 0.39555803589522814
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
 		"currentStrokeOptions": null,
 		"previousGridSize": null,
 		"frameRendering": {
