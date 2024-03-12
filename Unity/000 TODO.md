@@ -2,7 +2,7 @@
 ```
 --- 
 ## Monthly Plan
-By the end of the month I want a playable game. From start to finish, even if i have to use dubs. The first week will be only connecting everything with a switch scene triggers. The second week I will focus mainly in cutscenes( at least that's the plan but I will have to readjust for upcoming quality like fog). The third week I want 5 minutes of each level. The last week I will be doing the Main Menu and the credit scenes.
+By the end of the month I want a playable game. From start to finish, even if I have to use dubs. The first week will be only connecting everything with a switch scene triggers. The second week I will focus mainly in cutscenes (at least that's the plan but I will have to readjust for upcoming quality like fog). The third week I want 5 minutes of each level. The last week I will be doing the Main Menu and the credit scenes.
 ### March Plans
 
 - [ ] **Week 1:** Connect everything with triggers.
