@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/000 TODO.md",
+                "file": "Untitled/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a190791b0053a7f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/000 TODO.md",
+                "file": "Untitled/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/000 TODO.md",
+                "file": "Untitled/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/000 TODO.md"
+                "file": "Untitled/Untitled.md"
               }
             }
           },
@@ -203,21 +214,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4028b42a1d833bd4",
+  "active": "5a190791b0053a7f",
   "lastOpenFiles": [
-    "Unity/CyberCat Game.md",
-    "Unity/CyberCat Levels.md",
     "Unity/CyberCat QuickGame.md",
+    "Untitled.canvas",
+    "Unity/CyberCat Levels.md",
+    "Unity/CyberCat Game.md",
+    "Unity/Cutscenes.md",
+    "Unity/000 TODO.md",
+    "Unity/Transition Scenes.md",
+    "Unity/Game Manager.md",
     "Unity/CyberCat QuickLevels 1.md",
     "Unity/CyberCat QuickLevels 2.md",
     "Unity/CyberCat QuickLevels 1.png",
-    "Unity/Cutscenes.md",
-    "Unity/000 TODO.md",
     "Unity/Light Sources & Foreground blur.md",
     "Unity/ElectricDoor.md",
-    "Unity/Game Manager.md",
     "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
-    "Unity/Transition Scenes.md",
     "Data Structures/Symbolic.excalidraw.md",
     "Data Structures/README.md",
     "AI/Using AI.md",
