@@ -1,17 +1,18 @@
 ```toc
 ```
 ## Current Schedule
-- Wake up (1:00 PM) 
-- Interview question (1:30 PM)
-	- do interview question with a coffee, breakfast only when done
-- Game
-	- At first just use the time to see what needs to be done
-- Work (eBay)
-	- right before workout, leave like an hour for rest sitting down
-- Workout
+- [x] **Wake up (11:00 PM)** 
+- [ ] **Interview question (11:30 PM)**
+	- do interview question with a coffee, no food only after workout
+- [ ] **Workout**
 	- Park (2:00 - 2:30 AM)
 	- Gym (3:00 - 4:00 AM)
-	
+- [ ] **Game (No set time, whenever I finish the last step)**
+	- At first just use the time to see what needs to be done -todo-
+	- solidify the big picture (i already lost track of it)
+- [ ] **Work eBay (11:00 PM? -todo-)**
+	- when the sun's down before workout, leave like an hour for rest sitting down
+
 ## What I need to do?
 Getting a job is important but I'm afraid it might be too late now to apply as is. What I could do is finish the game I'm making then use that as leverage / excuse for current projects. 
 

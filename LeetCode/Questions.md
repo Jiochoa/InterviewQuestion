@@ -26,7 +26,7 @@ Output: [0,1]
 
 **Follow-up:** Can you come up with an algorithm that is less than `O(n2)` time complexity?
 
-### [[Walkthrough#1. Two Sum|Answer]]
+### [[Walkthrough 1#1. Two Sum|Answer]]
 
 ### Solution 1
 ```Java
@@ -78,7 +78,7 @@ Output: [8,9,9,9,0,0,0,1]
 - `0 <= Node.val <= 9`
 - It is guaranteed that the list represents a number that does not have leading zeros.
 
-### [[Walkthrough#2. Add Two Numbers|Answer]]
+### [[Walkthrough 1#2. Add Two Numbers|Answer]]
 
 ### Solution 2
 ```Java
@@ -154,7 +154,7 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 - `0 <= s.length <= 5 * 104`
 - `s` consists of English letters, digits, symbols and spaces.
 
-### [[Walkthrough#3. Longest Substring Without Repeating Characters|Answer]]
+### [[Walkthrough 1#3. Longest Substring Without Repeating Characters|Answer]]
 
 ### Solution 3
 
@@ -191,7 +191,7 @@ Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 - `1 <= m + n <= 2000`
 - `-106 <= nums1[i], nums2[i] <= 106`
 
-### [[Walkthrough#4. Median of Two Sorted Arrays|Answer]]
+### [[Walkthrough 1#4. Median of Two Sorted Arrays|Answer]]
 
 ### Solution 4
 
@@ -281,7 +281,7 @@ Output: "bb"
 - `1 <= s.length <= 1000`
 - `s` consist of only digits and English letters.
 
-### [[Walkthrough#5. Longest Palindromic substring|Answer]]
+### [[Walkthrough 1#5. Longest Palindromic substring|Answer]]
 
 ### Solution 5
 
@@ -357,7 +357,7 @@ Since 4193 is in the range [-231, 231 - 1], the final result is 4193.
 
 - `0 <= s.length <= 200`
 - `s` consists of English letters (lower-case and upper-case), digits (`0-9`), `' '`, `'+'`, `'-'`, and `'.'`.
-### [[Walkthrough#8. String to Integer (atoi)|Answer]]
+### [[Walkthrough 1#8. String to Integer (atoi)|Answer]]
 
 ### Solution 8
 
@@ -397,7 +397,7 @@ Explanation: ".*" means "zero or more (*) of any character (.)".
 - `p` contains only lowercase English letters, `'.'`, and `'*'`.
 - It is guaranteed for each appearance of the character `'*'`, there will be a previous valid character to match.
 
-### [[Walkthrough#10. Regular Expression Matching|Answer]]
+### [[Walkthrough 1#10. Regular Expression Matching|Answer]]
 
 ### Solution 10
 
@@ -435,7 +435,7 @@ Output: 1
 - `2 <= n <= 105`
 - `0 <= height[i] <= 104`
 
-### [[Walkthrough#11. Container With Most Water|Answer]]
+### [[Walkthrough 1#11. Container With Most Water|Answer]]
 
 ### Solution 10
 
@@ -492,7 +492,7 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 - `s` contains only the characters `('I', 'V', 'X', 'L', 'C', 'D', 'M')`.
 - It is **guaranteed** that `s` is a valid roman numeral in the range `[1, 3999]`.
 
-### [[Walkthrough#13. Roman to integer|Answer]]
+### [[Walkthrough 1#13. Roman to integer|Answer]]
 
 ### Solution 13
 
@@ -531,7 +531,7 @@ Output: false
 - `s` consists of parentheses only `'()[]{}'`.
 
 
-### [[Walkthrough#20. Valid Parentheses|Answer]]
+### [[Walkthrough 1#20. Valid Parentheses|Answer]]
 
 ### Solution 20
 

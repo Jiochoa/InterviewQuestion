@@ -6,6 +6,7 @@
       {
         "id": "30e2bd0c36724f76",
         "type": "tabs",
+        "dimension": 64.97613365155132,
         "children": [
           {
             "id": "4028b42a1d833bd4",
@@ -15,6 +16,46 @@
               "state": {
                 "file": "Planner/The Plan.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f4cefaff2034aa6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "LeetCode/Walkthrough 1.md"
+              }
+            }
+          },
+          {
+            "id": "5c94a937288c2924",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "LeetCode/Walkthrough 1.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d36fc916d73c47ef",
+        "type": "tabs",
+        "dimension": 35.02386634844869,
+        "children": [
+          {
+            "id": "e95f836c97de0220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/Questions.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/The Plan.md",
+                "file": "LeetCode/Walkthrough 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/The Plan.md",
+                "file": "LeetCode/Walkthrough 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/The Plan.md"
+                "file": "LeetCode/Walkthrough 1.md"
               }
             }
           },
@@ -203,15 +244,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4028b42a1d833bd4",
+  "active": "5c94a937288c2924",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "LeetCode/Questions.md",
+    "LeetCode/Walkthrough 1.md",
+    "LeetCode/Walkthrough 2.md",
+    "LeetCode/Drawing 2024-06-21 01.39.10.excalidraw.md",
     "Planner/The Plan.md",
+    "Data Structures/Symbolic.excalidraw.md",
+    "Unity/Cutscenes.md",
+    "Unity/000 TODO.md",
+    "Images/Pasted image 20230823123308.png",
+    "Images/Pasted image 20230823103723.png",
+    "CodeWars/README.md",
+    "CodeWars/Questions.md",
+    "Untitled.canvas",
     "Unity/CyberCat QuickGame.md",
     "Unity/CyberCat Levels.md",
     "Unity/CyberCat Game.md",
-    "Unity/Cutscenes.md",
-    "Unity/000 TODO.md",
     "Unity/Transition Scenes.md",
     "Unity/Game Manager.md",
     "Unity/CyberCat QuickLevels 1.md",
@@ -220,17 +270,12 @@
     "Unity/Light Sources & Foreground blur.md",
     "Unity/ElectricDoor.md",
     "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
-    "Data Structures/Symbolic.excalidraw.md",
     "Data Structures/README.md",
     "AI/Using AI.md",
     "AI/Useful Prompts.md",
     "AI/RoadMap.excalidraw.md",
     "Android + Jetpack/Untitled.md",
     "Android + Jetpack/Diagram.md",
-    "Images/Pasted image 20230823123308.png",
-    "Main.md",
-    "Pasted image 20230823102242.png.md",
-    "Images/Pasted image 20230823103723.png",
     "Images",
     "Pasted image 20230823102042.png",
     "Pasted image 20230823103334.png",
@@ -238,11 +283,8 @@
     "Pasted image 20230823102242.png",
     "Pasted image 20230823102113.png",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Unity",
     "Planner",
-    "LeetCode/Walkthrough.md",
-    "LeetCode/Questions.md",
     "Android + Jetpack",
     "Pasted image 20230529053608.png",
     "AI",
