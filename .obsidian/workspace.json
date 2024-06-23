@@ -6,7 +6,6 @@
       {
         "id": "30e2bd0c36724f76",
         "type": "tabs",
-        "dimension": 64.97613365155132,
         "children": [
           {
             "id": "4028b42a1d833bd4",
@@ -26,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "LeetCode/Walkthrough 1.md"
+                "file": "LeetCode/Walkthrough 2.md"
               }
             }
           },
@@ -34,20 +33,10 @@
             "id": "5c94a937288c2924",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "LeetCode/Walkthrough 1.md"
-              }
+              "type": "empty",
+              "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "d36fc916d73c47ef",
-        "type": "tabs",
-        "dimension": 35.02386634844869,
-        "children": [
+          },
           {
             "id": "e95f836c97de0220",
             "type": "leaf",
@@ -143,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Walkthrough 1.md",
+                "file": "Planner/The Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Walkthrough 1.md",
+                "file": "Planner/The Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Walkthrough 1.md"
+                "file": "Planner/The Plan.md"
               }
             }
           },
@@ -240,15 +229,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "copilot:Copilot Chat": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "5c94a937288c2924",
+  "active": "969bda908d1da7ab",
   "lastOpenFiles": [
-    "LeetCode/Questions.md",
-    "LeetCode/Walkthrough 1.md",
     "LeetCode/Walkthrough 2.md",
+    "LeetCode/Walkthrough 1.md",
+    "LeetCode/Questions.md",
     "LeetCode/Drawing 2024-06-21 01.39.10.excalidraw.md",
     "Planner/The Plan.md",
     "Data Structures/Symbolic.excalidraw.md",
