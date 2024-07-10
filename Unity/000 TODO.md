@@ -87,6 +87,14 @@ I'm thinking using a GameManager to do it but I'm not entirely sure what they ar
 **CCv12**
 Starting a new project, same as the others but use <u>Shader</u> instead of crescent from Aseprite and a <u>Blur</u> effect for  the background
 
+**CybrCat**
+Redone menu art
+
+**CybrCat_v1**
+added febinaci Editor Defaut Resources
+added All-in-1-shaders
+added 2D flexible Platformer Controller
+
 
 [^1]: Since this is my target engine for Cyberpunk games
 [^2]: Since this is my current engine
