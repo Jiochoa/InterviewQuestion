@@ -16,6 +16,10 @@
 ## What I need to do?
 Getting a job is important but I'm afraid it might be too late now to apply as is. What I could do is finish the game I'm making then use that as leverage / excuse for current projects. 
 
+So that was quick. Tried unreal engine then notice the work flow for 2d animations and it would be a headache to do a 2d game in there. 
+
+maybe unity is not that bad for 2d games I'm still figuring it out.
+
 ### Game
 I remember this guy saying that there is a good income in making video games but I might be too new for that. So in other words, the game is priority. 
 
@@ -34,10 +38,3 @@ I remember that is important working on important things in the morning (wheneve
 the first round will be about figuring out what I need. I forgotten a lot of things so I need a reminder.
 
 I will start with this for now, then ill do the career stuff then the interview question. I'm aiming for one a day but I guess ill have to adjust. It has to be professional so I'm also thinking in making a video with the answer, maybe not publish it but the practice is definitely needed
-
-
-## TO-DO list
-- [ ] Interview Question
-- [ ] Sell on eBay
-- [ ] Game
-
