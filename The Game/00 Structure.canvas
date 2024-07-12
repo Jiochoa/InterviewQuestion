@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"dc46e9b7a040ce3f","type":"text","text":"The Game","x":-220,"y":-60,"width":250,"height":60},
+		{"id":"487d01329ba11de0","type":"file","file":"Media/Inspiration.gif","x":280,"y":-360,"width":286,"height":400}
+	],
+	"edges":[
+		{"id":"0b33d2824959bab8","fromNode":"dc46e9b7a040ce3f","fromSide":"right","toNode":"487d01329ba11de0","toSide":"left"}
+	]
+}

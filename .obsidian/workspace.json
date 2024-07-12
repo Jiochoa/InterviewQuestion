@@ -11,11 +11,14 @@
             "id": "4028b42a1d833bd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Unity/000 TODO.md",
-                "mode": "source",
-                "source": false
+                "file": "The Game/00 Structure.canvas",
+                "viewState": {
+                  "x": 294.6024610170719,
+                  "y": -25.41794733028478,
+                  "zoom": -0.6590905762721131
+                }
               }
             }
           },
@@ -112,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/000 TODO.md",
+                "file": "The Game/00 Structure.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/000 TODO.md",
+                "file": "The Game/00 Structure.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/000 TODO.md"
+                "file": "The Game/00 Structure.canvas"
               }
             }
           },
@@ -215,48 +218,48 @@
   },
   "active": "4028b42a1d833bd4",
   "lastOpenFiles": [
+    "Media/Inspiration.gif",
+    "The Game/00 Structure.canvas",
+    "The Game/Transition Scenes.md",
+    "The Game/Light Sources & Foreground blur.md",
+    "The Game/Game Manager.md",
+    "The Game/CyberCat QuickGame.md",
+    "The Game/CyberCat QuickLevels 1.md",
+    "The Game/CyberCat QuickLevels 2.md",
+    "The Game/Drawing 2023-07-15 06.48.08.excalidraw.md",
+    "The Game/ElectricDoor.md",
+    "The Game/Cutscenes.md",
     "Planner/The Plan.md",
+    "The Game/01 Summary.md",
     "LeetCode/Walkthrough 2.md",
+    "The Game/CyberCat Levels.md",
+    "AI/Using AI.md",
+    "AI/Useful Prompts.md",
+    "AI/RoadMap.excalidraw.md",
+    "Android + Jetpack/Diagram.md",
+    "Android Studio/Kotlin & Jetpack compose/Drawing 2023-06-20 20.57.36.excalidraw.md",
+    "Android Studio/Kotlin & Jetpack compose/TODO.md",
+    "Media/Pasted image 20230823123308.png",
+    "Media/Pasted image 20230823103723.png",
+    "The Game/CyberCat Game.md",
     "Unreal Engine/00 TODO.md",
     "Unreal Engine/2D animations.md",
     "Main.md",
     "Unreal Engine",
     "README.md",
     "LeetCode/Questions.md",
-    "LeetCode/Walkthrough 1.md",
-    "LeetCode/Drawing 2024-06-21 01.39.10.excalidraw.md",
-    "Data Structures/Symbolic.excalidraw.md",
-    "Unity/Cutscenes.md",
-    "Unity/000 TODO.md",
-    "Images/Pasted image 20230823123308.png",
-    "Images/Pasted image 20230823103723.png",
-    "CodeWars/README.md",
-    "CodeWars/Questions.md",
     "Untitled.canvas",
-    "Unity/CyberCat QuickGame.md",
-    "Unity/CyberCat Levels.md",
-    "Unity/CyberCat Game.md",
-    "Unity/Transition Scenes.md",
-    "Unity/Game Manager.md",
-    "Unity/CyberCat QuickLevels 1.md",
-    "Unity/CyberCat QuickLevels 2.md",
     "Unity/CyberCat QuickLevels 1.png",
-    "Unity/Light Sources & Foreground blur.md",
-    "Unity/ElectricDoor.md",
-    "Unity/Drawing 2023-07-15 06.48.08.excalidraw.md",
-    "Data Structures/README.md",
-    "AI/Using AI.md",
-    "Images",
+    "Media",
     "Pasted image 20230823102042.png",
     "Pasted image 20230823103334.png",
     "Pasted image 20230823103226.png",
     "Pasted image 20230823102242.png",
     "Pasted image 20230823102113.png",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
-    "Unity",
+    "The Game",
     "Planner",
     "Android + Jetpack",
-    "Pasted image 20230529053608.png",
     "AI",
     "Android Studio/Kotlin & Jetpack compose",
     "Android Studio",
