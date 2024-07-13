@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4028b42a1d833bd4",
+            "id": "1f4cefaff2034aa6",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "The Game/00 Structure.canvas",
                 "viewState": {
-                  "x": 294.6024610170719,
-                  "y": -25.41794733028478,
-                  "zoom": -0.6590905762721131
+                  "x": 219.9819830266601,
+                  "y": -161.05774779284008,
+                  "zoom": 0.013629941909263575
                 }
-              }
-            }
-          },
-          {
-            "id": "1f4cefaff2034aa6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "LeetCode/Walkthrough 2.md"
               }
             }
           }
@@ -216,22 +206,22 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "4028b42a1d833bd4",
+  "active": "969bda908d1da7ab",
   "lastOpenFiles": [
-    "Media/Inspiration.gif",
+    "LeetCode/Walkthrough 2.md",
+    "The Game/Drawing 2023-07-15 06.48.08.excalidraw.md",
+    "The Game/CyberCat QuickLevels 2.md",
+    "The Game/Cutscenes.md",
     "The Game/00 Structure.canvas",
+    "The Game/CyberCat QuickLevels 1.md",
+    "The Game/01 Summary.md",
+    "Media/Inspiration.gif",
     "The Game/Transition Scenes.md",
     "The Game/Light Sources & Foreground blur.md",
     "The Game/Game Manager.md",
     "The Game/CyberCat QuickGame.md",
-    "The Game/CyberCat QuickLevels 1.md",
-    "The Game/CyberCat QuickLevels 2.md",
-    "The Game/Drawing 2023-07-15 06.48.08.excalidraw.md",
     "The Game/ElectricDoor.md",
-    "The Game/Cutscenes.md",
     "Planner/The Plan.md",
-    "The Game/01 Summary.md",
-    "LeetCode/Walkthrough 2.md",
     "The Game/CyberCat Levels.md",
     "AI/Using AI.md",
     "AI/Useful Prompts.md",
