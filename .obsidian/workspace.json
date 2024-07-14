@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "30e2bd0c36724f76",
+        "id": "b347261786c0550b",
         "type": "tabs",
         "children": [
           {
-            "id": "1f4cefaff2034aa6",
+            "id": "dec53bdf85199e70",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "The Game/00 Structure.canvas",
                 "viewState": {
-                  "x": 219.9819830266601,
-                  "y": -161.05774779284008,
-                  "zoom": 0.013629941909263575
+                  "x": 1285.8861134235956,
+                  "y": -302.2704592003619,
+                  "zoom": -1.801200298623056
                 }
               }
             }
@@ -206,18 +206,18 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "969bda908d1da7ab",
+  "active": "dec53bdf85199e70",
   "lastOpenFiles": [
+    "The Game/Drawing 2023-07-15 06.48.08.excalidraw.md",
+    "The Game/Transition Scenes.md",
+    "The Game/01 Summary.md",
+    "The Game/00 Structure.canvas",
     "Planner/Untitled.md",
     "LeetCode/Walkthrough 2.md",
-    "The Game/Drawing 2023-07-15 06.48.08.excalidraw.md",
     "The Game/CyberCat QuickLevels 2.md",
     "The Game/Cutscenes.md",
-    "The Game/00 Structure.canvas",
     "The Game/CyberCat QuickLevels 1.md",
-    "The Game/01 Summary.md",
     "Media/Inspiration.gif",
-    "The Game/Transition Scenes.md",
     "The Game/Light Sources & Foreground blur.md",
     "The Game/Game Manager.md",
     "The Game/CyberCat QuickGame.md",
@@ -238,7 +238,6 @@
     "Main.md",
     "Unreal Engine",
     "README.md",
-    "LeetCode/Questions.md",
     "Untitled.canvas",
     "Unity/CyberCat QuickLevels 1.png",
     "Media",
