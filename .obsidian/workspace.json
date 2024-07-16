@@ -15,9 +15,9 @@
               "state": {
                 "file": "The Game/00 Structure.canvas",
                 "viewState": {
-                  "x": 750.4473442071367,
-                  "y": -209.24893444237242,
-                  "zoom": -1.6864435077086088
+                  "x": 188.8784452625639,
+                  "y": -511.46716836016753,
+                  "zoom": -1.2276151311101628
                 }
               }
             }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -208,10 +209,13 @@
   },
   "active": "dec53bdf85199e70",
   "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
+    "The Game/00 Structure.canvas",
     "The Game/Drawing 2023-07-15 06.48.08.excalidraw.md",
     "The Game/Transition Scenes.md",
     "The Game/01 Summary.md",
-    "The Game/00 Structure.canvas",
     "Planner/Untitled.md",
     "LeetCode/Walkthrough 2.md",
     "The Game/CyberCat QuickLevels 2.md",
@@ -245,8 +249,6 @@
     "Pasted image 20230823103334.png",
     "Pasted image 20230823103226.png",
     "Pasted image 20230823102242.png",
-    "Pasted image 20230823102113.png",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "The Game",
     "Planner",
     "Android + Jetpack",

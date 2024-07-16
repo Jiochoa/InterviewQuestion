@@ -99,6 +99,9 @@ SN
 SVn
 SV
 Sd
+SVG
+Simply
+Store
 This
 The
 Tutorial
@@ -169,6 +172,8 @@ TW
 Td
 TWM
 Ty
+Tested
+ToolIcon
 is
 in
 it
@@ -281,6 +286,9 @@ iO
 ikT
 iL
 ix
+inversion
+ink
+isEraser
 going
 get
 game
@@ -358,6 +366,9 @@ gN
 gA
 goz
 gb
+getExcalidrawAPI
+getAppState
+getViewElements
 to
 the
 tutorial
@@ -496,6 +507,10 @@ tcA
 tW
 tX
 tF
+text
+tool
+toolbar
+tip
 be
 butterfly
 but
@@ -608,6 +623,8 @@ bADz
 bY
 bIIKr
 bnI
+btns
+bug
 whole
 will
 with
@@ -697,6 +714,10 @@ wBH
 wEl
 wC
 wY
+width
+windows
+writable
+web
 story
 start
 stand
@@ -897,6 +918,14 @@ sa
 sCt
 sg
 su
+svg
+style
+stroke
+supported
+stay
+strict
+setActiveTool
+setView
 from
 for
 first
@@ -1007,6 +1036,7 @@ fn
 fY
 fxg
 fx
+fill
 end
 escape
 elevator
@@ -1116,6 +1146,12 @@ eM
 eE
 ej
 eHD
+encoding
+enable
+eraser
+erase
+ea
+elements
 Level
 Look
 Long
@@ -1187,6 +1223,7 @@ Li
 La
 Lc
 Ldz
+Layer
 parking
 player
 position
@@ -1335,6 +1372,14 @@ ph
 pP
 psns
 pM
+px
+preserve
+polygon
+pen
+probably
+pointerType
+pointerdown
+pointermove
 lot
 level
 learn
@@ -1450,6 +1495,9 @@ lc
 lck
 lDG
 lf
+linecap
+leaves
+limbo
 Cutscene
 Code
 Credit
@@ -1534,6 +1582,7 @@ CP
 CB
 CMkY
 Cb
+Compatible
 cutscene
 cat
 charge
@@ -1705,6 +1754,11 @@ cQ
 csp
 cV
 cB
+css
+const
+checked
+caused
+capture
 of
 once
 out
@@ -1777,6 +1831,7 @@ ofsd
 ou
 oY
 og
+opacity
 after
 again
 along
@@ -1906,6 +1961,10 @@ aw
 azG
 az
 aK
+active
+activated
+activeTool
+addEventListener
 hand
 have
 how
@@ -1987,6 +2046,8 @@ hC
 hG
 hH
 ho
+hardware
+handlePointer
 rail
 room
 reach
@@ -2111,6 +2172,10 @@ rt
 rz
 rc
 rBV
+restored
+revert
+radio
+recognize
 jump
 joke
 just
@@ -2167,6 +2232,7 @@ jl
 jwf
 jQ
 jdc
+javascript
 Once
 OPTIONS
 OBxeOJcW
@@ -2222,6 +2288,8 @@ OtTTP
 OO
 Ob
 Oo
+Obsidian
+Object
 move
 movements
 maybe
@@ -2335,6 +2403,7 @@ mnq
 mK
 mp
 mw
+miterlimit
 different
 do
 down
@@ -2438,6 +2507,12 @@ dM
 dwM
 dW
 dX
+devices
+defineProperty
+doesn
+during
+del
+deleteViewElements
 need
 neon
 next
@@ -2715,6 +2790,7 @@ ui
 uy
 uA
 uz
+utf
 Might
 Mechanics
 Movements
@@ -2891,6 +2967,11 @@ ARh
 Ajmr
 Ac
 AeIJ
+Adobe
+Adds
+Auto
+App
+Activate
 Puzzle
 Play
 Push
@@ -2971,6 +3052,8 @@ PzE
 PC
 PiF
 PU
+Plug
+Pen
 you
 your
 yt
@@ -3083,6 +3166,8 @@ vZj
 vD
 vy
 vw
+viewBox
+var
 Interactions
 Install
 Intro
@@ -3152,6 +3237,7 @@ Ih
 IuU
 Ix
 Ik
+Illustrator
 Unity
 UI
 UxvXF
@@ -3496,6 +3582,7 @@ Ds
 DX
 DlHc
 DmKN
+Draw
 Roomba
 Roombas
 RhZtrxjb
@@ -3580,6 +3667,7 @@ RX
 Ry
 RV
 Ru
+Revert
 End
 EXCALIDRAW
 Elements
@@ -3651,6 +3739,7 @@ Eno
 Ena
 EY
 EA
+Export
 Factory
 FlNNEoYi
 FcXUNDlm
@@ -3711,6 +3800,7 @@ FX
 FJ
 FH
 Fie
+Force
 VIEW
 VNBXdAFo
 VzRCZTgr
@@ -3767,6 +3857,7 @@ Vi
 Vy
 Vo
 Vv
+Version
 KOmb
 KiHeXge
 KcAAtuak
@@ -3818,6 +3909,7 @@ KN
 KM
 Kf
 Klb
+Keep
 GJioXrEd
 Get
 GBHPMFQy
@@ -3878,6 +3970,7 @@ GF
 GH
 GWi
 GB
+Generator
 XnebrG
 XFxnWaUJ
 XFulB
@@ -3972,6 +4065,7 @@ qgs
 qsg
 qmw
 qQ
+querySelectorAll
 Zjzee
 ZfLC
 ZWnqF
@@ -4065,6 +4159,9 @@ xg
 xG
 xFH
 xV
+xml
+xmlns
+xlink
 kitchen
 kyuLcY
 kGsgu
@@ -4168,6 +4265,7 @@ Yh
 YZ
 Yi
 Yk
+Your
 Be
 BC
 Bd
@@ -4220,3 +4318,4 @@ Bw
 Bl
 BIP
 BHxw
+Build
