@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b347261786c0550b",
+        "id": "b659556d2fb2f5b8",
         "type": "tabs",
         "children": [
           {
-            "id": "dec53bdf85199e70",
+            "id": "ca914b0f0b8eed6a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "The Game/00 Structure.canvas",
-                "viewState": {
-                  "x": 188.8784452625639,
-                  "y": -511.46716836016753,
-                  "zoom": -1.2276151311101628
-                }
+                "file": "The Game/00 Design Doc.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd9d8be6b514de6c",
@@ -106,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Game/00 Structure.canvas",
+                "file": "The Game/00 Design Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Game/00 Structure.canvas",
+                "file": "The Game/00 Design Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Game/00 Structure.canvas"
+                "file": "The Game/00 Design Doc.md"
               }
             }
           },
@@ -207,13 +203,16 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "dec53bdf85199e70",
+  "active": "ca914b0f0b8eed6a",
   "lastOpenFiles": [
+    "The Game/01 Structure.canvas",
+    "The Game/00 Design Doc.md",
+    "The Game/Design Docs ggggg.md",
+    "The Game/Drawing 2023-07-15 06.48.08.excalidraw.md",
+    "The Game/00 Design Doc.canvas",
     "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "The Game/00 Structure.canvas",
-    "The Game/Drawing 2023-07-15 06.48.08.excalidraw.md",
     "The Game/Transition Scenes.md",
     "The Game/01 Summary.md",
     "Planner/Untitled.md",
@@ -238,10 +237,7 @@
     "Media/Pasted image 20230823103723.png",
     "The Game/CyberCat Game.md",
     "Unreal Engine/00 TODO.md",
-    "Unreal Engine/2D animations.md",
-    "Main.md",
     "Unreal Engine",
-    "README.md",
     "Untitled.canvas",
     "Unity/CyberCat QuickLevels 1.png",
     "Media",

@@ -102,6 +102,10 @@ Sd
 SVG
 Simply
 Store
+Selling
+Scope
+Systems
+Single
 This
 The
 Tutorial
@@ -174,6 +178,8 @@ TWM
 Ty
 Tested
 ToolIcon
+Target
+TBD
 is
 in
 it
@@ -289,6 +295,9 @@ ix
 inversion
 ink
 isEraser
+interesting
+interests
+interest
 going
 get
 game
@@ -369,6 +378,13 @@ gb
 getExcalidrawAPI
 getAppState
 getViewElements
+gameplay
+genre
+genres
+gender
+giant
+gaining
+gloomy
 to
 the
 tutorial
@@ -511,6 +527,10 @@ text
 tool
 toolbar
 tip
+tweet
+tired
+takes
+tries
 be
 butterfly
 but
@@ -625,6 +645,9 @@ bIIKr
 bnI
 btns
 bug
+brief
+become
+best
 whole
 will
 with
@@ -718,6 +741,7 @@ width
 windows
 writable
 web
+wonder
 story
 start
 stand
@@ -926,6 +950,13 @@ stay
 strict
 setActiveTool
 setView
+sentences
+say
+she
+solving
+setting
+sense
+solve
 from
 for
 first
@@ -1037,6 +1068,10 @@ fY
 fxg
 fx
 fill
+futuristic
+finds
+friend
+friends
 end
 escape
 elevator
@@ -1152,6 +1187,7 @@ eraser
 erase
 ea
 elements
+etc
 Level
 Look
 Long
@@ -1224,6 +1260,8 @@ La
 Lc
 Ldz
 Layer
+Loops
+Limbo
 parking
 player
 position
@@ -1380,6 +1418,10 @@ probably
 pointerType
 pointerdown
 pointermove
+production
+potentially
+puzzles
+practically
 lot
 level
 learn
@@ -1583,6 +1625,10 @@ CB
 CMkY
 Cb
 Compatible
+Concept
+Core
+Cybr
+Critically
 cutscene
 cat
 charge
@@ -1759,6 +1805,12 @@ const
 checked
 caused
 capture
+communicate
+clearer
+combinations
+cyberpunk
+cheap
+closer
 of
 once
 out
@@ -1832,6 +1884,7 @@ ou
 oY
 og
 opacity
+often
 after
 again
 along
@@ -1965,6 +2018,9 @@ active
 activated
 activeTool
 addEventListener
+audience
+age
+aimlessly
 hand
 have
 how
@@ -2048,6 +2104,9 @@ hH
 ho
 hardware
 handlePointer
+her
+him
+happening
 rail
 room
 reach
@@ -2176,6 +2235,12 @@ restored
 revert
 radio
 recognize
+risky
+relevant
+rating
+roaming
+relaxing
+revelation
 jump
 joke
 just
@@ -2404,6 +2469,9 @@ mK
 mp
 mw
 miterlimit
+makes
+mood
+monsters
 different
 do
 down
@@ -2513,6 +2581,9 @@ doesn
 during
 del
 deleteViewElements
+documents
+doubt
+device
 need
 neon
 next
@@ -2791,6 +2862,8 @@ uy
 uA
 uz
 utf
+uniqueness
+unique
 Might
 Mechanics
 Movements
@@ -2879,6 +2952,8 @@ Mlb
 Mf
 Mg
 MvvW
+Monetization
+Motivations
 After
 As
 All
@@ -2972,6 +3047,7 @@ Adds
 Auto
 App
 Activate
+Audio
 Puzzle
 Play
 Push
@@ -3054,6 +3130,10 @@ PiF
 PU
 Plug
 Pen
+POV
+Platform
+Perfect
+Product
 you
 your
 yt
@@ -3238,6 +3318,8 @@ IuU
 Ix
 Ik
 Illustrator
+Interactivility
+Interactivity
 Unity
 UI
 UxvXF
@@ -3296,6 +3378,7 @@ UA
 UQo
 Uk
 UvYf
+Unique
 What
 Where
 While
@@ -3364,6 +3447,8 @@ WH
 Wx
 Wo
 Ww
+Working
+World
 How
 HM
 HC
@@ -3418,6 +3503,7 @@ HX
 HI
 Hf
 Hh
+High
 Questions
 Quit
 QZ
@@ -3583,6 +3669,7 @@ DX
 DlHc
 DmKN
 Draw
+Detailed
 Roomba
 Roombas
 RhZtrxjb
@@ -3668,6 +3755,8 @@ Ry
 RV
 Ru
 Revert
+Right
+Rated
 End
 EXCALIDRAW
 Elements
@@ -3740,6 +3829,9 @@ Ena
 EY
 EA
 Export
+Experience
+ESRB
+Everyone
 Factory
 FlNNEoYi
 FcXUNDlm
@@ -3801,6 +3893,7 @@ FJ
 FH
 Fie
 Force
+Fiction
 VIEW
 VNBXdAFo
 VzRCZTgr
@@ -3858,6 +3951,7 @@ Vy
 Vo
 Vv
 Version
+Visual
 KOmb
 KiHeXge
 KcAAtuak
@@ -3910,6 +4004,7 @@ KM
 Kf
 Klb
 Keep
+Kind
 GJioXrEd
 Get
 GBHPMFQy
@@ -3971,6 +4066,7 @@ GH
 GWi
 GB
 Generator
+Genre
 XnebrG
 XFxnWaUJ
 XFulB
@@ -4216,6 +4312,7 @@ kP
 ki
 kS
 kgy
+keeps
 YJ
 Yo
 YH
@@ -4319,3 +4416,4 @@ Bl
 BIP
 BHxw
 Build
+Beware
